@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Yingtong Dou's Homepage"
+title                    : Yingtong Dou's Homepage
 title_separator          : "-"
 name                     : &name "Yingtong Dou"
 description              : &description " "
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ytongdou/"
+  linkedin         : "ytongdou"
   orcid            : "https://orcid.org/0000-0003-0470-6716"
   pinterest        :
   soundcloud       :
