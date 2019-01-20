@@ -18,7 +18,7 @@ News
 ======
 **January 2019** Move my personal website from Wordpress to Github.
 
-**January 2019** Give a talk about graph based opinion spam detection at Tencent
+**January 2019** Give a talk about graph based opinion spam detection at Tencent.
 
 **May 2018** Start summer intern at Huawei Noah’s Ark Lab in Shenzhen in May. 2018.
 
