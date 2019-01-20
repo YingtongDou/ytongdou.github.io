@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I got my Bachelor’s Degree from the Beijing University of Posts and Telecommunications and the Queen Mary University of London. My research interests are graph mining, spam detection and social network analysis. I am interested in designing algorithms dealing with challenging problems in social networks and applying social computing techniques in various areas.  ([View my CV](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf)) 
 
-A data-driven personal website
+Publications
+======
+Under constraction now
+
+News
+======
+**January 2019** Move my personal website from Wordpress to Github.
+
+**January 2019** Give a talk about graph based opinion spam detection at Tencent
+
+**May 2018** Start summer intern at Huawei Noah’s Ark Lab in Shenzhen in May. 2018.
+
+**February 2018** Publish a dataset with Chinese O2O service Wechat lucky package sharing log from 2015.8 to 2017.8.
+
+**[More](http://ytongdou.com)**
+
+<!-- 2017-10-20 An article is published on IEEE Access.
+
+2017-08-15 Start my Ph.D. at the University of Illinois at Chicago.
+
+2017-06-29 Graduate from BUPT and QMUL and was awarded as the Beijing Excellent Graduate.
+
+2017-04-03 Decide to join the BDSC Lab at the University of Illinois at Chicago under the supervision of Prof. Philip Yu.
+
+2017-03-05 Join D-Lab in the Institute for Data Science of Tsinghua University as a research volunteer.
+
+2016-09-28 A paper is accepted by the 2nd workshop of EMGIS in 2016 ACM SIGSPATIAL.
+
+2016-08-26 Attend PyData 2016 at UIC.
+
+2016-08-17  A paper is accepted by ICKEA 2016 for oral presentation.
+
+2016-08-12  Fly to San Francisco attending SIGKDD 2016.
+
+2016-07-15  Fly to Chicago for the summer intern in UIC Big Data and Social Computing Lab.
+
+2016-07-05 A paper is accepted as a short paper by SKG 2016 for oral presentation.
+
+2016-06-15 Attend ICDSC 2016 in Changsha. -->
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,3 +87,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->

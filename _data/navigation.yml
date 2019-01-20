@@ -4,16 +4,16 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /talks/    
+    url: /projects/    
 
   - title: "Misc"
-    url: /teaching/    
+    url: /misc/    
     
   - title: "Gallery"
-    url: /portfolio/
+    url: /gallery/
         
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
     
   - title: "Contact"
     url: /cv/

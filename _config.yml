@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : Yingtong Dou's Homepage
 title_separator          : "-"
-name                     : &name "Yingtong Dou"
-description              : &description " "
+name                     :
+description              :
 url                      : http://ytongdou.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YingtongDou/ytongdou.github.io"
