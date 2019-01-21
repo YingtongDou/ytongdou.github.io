@@ -11,21 +11,21 @@ redirect_from:
 
 Email
 ======
-ytongdou@gmail.com
+ytongdou@gmail.com  
 ydou5@uic.edu
 
 Mailing Address
 ======
-901 S. Ashland Ave.
-APT 301
+901 S. Ashland Ave.  
+APT 301  
 Chicago IL, 60607
 
 Lab Address
 ======
-North End, Level 3, Richard Daley Library
+North End, Level 3, Richard Daley Library  
 801 S Morgan St, Chicago, IL 60607
   
 Wechat
 ======
-Searching Wechat id: **ytongdou** or scan the QR code:
-![Wechat QR Code](/images/wechat.jpg)
+Searching Wechat id: **ytongdou** or scan the QR code below.    
+![Wechat QR Code](/images/wechat.png)
