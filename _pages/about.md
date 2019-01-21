@@ -14,20 +14,20 @@ I am a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) L
 
 Publications
 ======
-\[2017a\] Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, Nguyen QVH. **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization**. IEEE Access.PP(99):1-1. ([Paper](http://ytongdou.com/files/A%20Novel%20Centrality%20Cascading%20Based%20Edge%20Parameter%20Evaluation%20Method%20for%20Robust%20Influence%20Maximization.pdf))
+\[2017a\] Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, Nguyen QVH. **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization**. IEEE Access.PP(99):1-1. ([Paper](http://ytongdou.com/files/A%20Novel%20Centrality%20Cascading%20Based%20Edge%20Parameter%20Evaluation%20Method%20for%20Robust%20Influence%20Maximization.pdf))([Code](https://github.com/YingtongDou/Centrality-Influence-Maximization))([BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:fwNnRpCid1sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEZVfSCAvPNVV2u_8wqnE-OonI53LnjY&scisf=4&ct=citation&cd=-1&hl=zh-CN))
 
-\[2016a\] Xiaolong Deng, **Yingtong Dou**, Yihua Huang, **CPS Model Based Online Opinion Governance Modeling and Evaluation of Emergency Accidents**, The 2nd Workshop of EMGIS in ACM SIGSPATIAL. ([Paper](http://ytongdou.com/files/CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20of%20emergency%20accidents.pdf))([Slides](http://ytongdou.com/files/CPS%20Model%20based%20opinion.pdf))([Journal Version](http://ytongdou.com/files/Efficient%20CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20for%20emergency%20accidents.pdf))
+\[2016a\] Xiaolong Deng, **Yingtong Dou**, Yihua Huang, **CPS Model Based Online Opinion Governance Modeling and Evaluation of Emergency Accidents**, The 2nd Workshop of EMGIS in ACM SIGSPATIAL. ([Paper](http://ytongdou.com/files/CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20of%20emergency%20accidents.pdf))([Slides](http://ytongdou.com/files/CPS%20Model%20based%20opinion.pdf))([Journal Version](http://ytongdou.com/files/Efficient%20CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20for%20emergency%20accidents.pdf))([BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:x7u1FNXNm-kJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXEZVv3O04p7KgttQZKwL6GC48ALnhfzg&scisf=4&ct=citation&cd=-1&hl=zh-CN))
 
 **[More](http://ytongdou.com/publications)**
 
 Working Projects
 ======
-## :rocket: Suspicious Behavior Modeling in App Markets
+## 1. Suspicious Behavior Modeling in App Markets
 ### Introduction
 Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, design classifers with multi-view and multi-source information according to the intention of the fraudsters. We also want to develop scalable and robust graph based classfication models.
 ### Resources
 My intro [slides](http://ytongdou.com/files/Review%20Spam%20Detection.pdf) about graph based review spam detection, Meng Jiang's [survey](http://www.meng-jiang.com/pubs/survey-suspicious-issi16/survey-suspicious-issi16-paper.pdf) on suspicious behavior modeling, Srijan Kumar's [survey](https://arxiv.org/abs/1804.08559) on online false information study. 
-## :rocket: Securing Graphical Classfication Model
+## 2. Securing Graphical Classfication Model
 ### Introduction
 The long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor makes the security of classifiers become very important. We aim to improve the robustness of  graphical classfiers like message passing algorithm and graph convolutional neural network against various kind of adversarial examples.
 ### Resources
@@ -37,12 +37,8 @@ A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack 
 
 News
 ======
-**January 2019** Move my personal website from Wordpress to Github.
-
-**January 2019** Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).
-
-**May 2018** Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).
-
-**February 2018** Publish a [dataset](http://ytongdou.com/files/WechatLog.zip) with Chinese O2O service Wechat lucky package sharing log from Aug. 2015 to Aug. 2017.
-
+**January 2019** Move my personal website from Wordpress to Github.  
+**January 2019** Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
+**May 2018** Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
+**February 2018** Publish a [dataset](http://ytongdou.com/files/WechatLog.zip) with Chinese O2O service Wechat lucky package sharing log from Aug. 2015 to Aug. 2017.  
 **[More](http://ytongdou.com/news/)**

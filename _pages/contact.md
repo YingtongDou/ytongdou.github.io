@@ -3,8 +3,6 @@ layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -23,7 +21,8 @@ Chicago IL, 60607
 Lab Address
 ======
 North End, Level 3, Richard Daley Library  
-801 S Morgan St, Chicago, IL 60607
+801 S Morgan St  
+Chicago, IL 60607
   
 Wechat
 ======
