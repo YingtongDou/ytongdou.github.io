@@ -1,5 +1,5 @@
 ---
-title: 'WeChat Lucky Package Analysis ()'
+title: 'WeChat Lucky Package Analysis (微信红包分享记录分析)'
 date: 2017-02-12
 permalink: /blogs/2017/02/wechat-lucky-package/
 tags:

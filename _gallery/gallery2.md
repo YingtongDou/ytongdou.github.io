@@ -1,6 +1,6 @@
 ---
 title: "Timelapse GIFs"
-excerpt: "My four years undergraduate life in Beijing<br/><img src='/images/timelapse/timelapse.gif'>"
+excerpt: "My timelapse photography in GIFs"
 collection: gallery
 ---
 

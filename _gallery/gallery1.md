@@ -1,6 +1,6 @@
 ---
 title: "Beijing 2013-2017"
-excerpt: "My four years undergraduate life in Beijing<br/><img src='/images/beijing/beijing1.jpeg'>"
+excerpt: "My four years undergraduate life in Beijing<br/><img src='/images/beijing/beijing1.jpeg' style="width: 750px;"/>"
 collection: gallery
 ---
 

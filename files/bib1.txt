@@ -1,0 +1,10 @@
+@article{deng2018efficient,
+  title={Efficient CPS model based online opinion governance modeling and evaluation for emergency accidents},
+  author={Deng, Xiao Long and Yu, Yin Luan and Guo, Dan Huai and Dou, Ying Tong},
+  journal={GeoInformatica},
+  volume={22},
+  number={2},
+  pages={479--502},
+  year={2018},
+  publisher={Springer}
+}

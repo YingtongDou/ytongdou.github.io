@@ -1,0 +1,9 @@
+@article{deng2017novel,
+  title={A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization},
+  author={Deng, Xiaolong and Dou, Yingtong and Lv, Tiejun and Nguyen, Quoc Viet Hung},
+  journal={IEEE Access},
+  volume={5},
+  pages={22119--22131},
+  year={2017},
+  publisher={IEEE}
+}
