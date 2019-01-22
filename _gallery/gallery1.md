@@ -1,7 +1,13 @@
 ---
 title: "Beijing 2013-2017"
-excerpt: "My four years undergraduate life in Beijing<br/><img src='/images/500x300.png'>"
+excerpt: "My four years undergraduate life in Beijing<br/><img src='/images/beijing/beijing1.jpeg'>"
 collection: gallery
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![beijing1](/images/beijing/beijing1.jpeg)
+
+![beijing2](/images/beijing/beijing2.jpeg)
+
+![beijing3](/images/beijing/beijing3.jpeg)
+
+![beijing4](/images/beijing/beijing4.jpeg)

@@ -40,5 +40,5 @@ News
 **January 2019** Move my personal website from Wordpress to Github.  
 **January 2019** Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
 **May 2018** Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
-**February 2018** Publish a [dataset](http://ytongdou.com/files/WechatLog.zip) with Chinese O2O service Wechat lucky package sharing log from Aug. 2015 to Aug. 2017.  
+**February 2018** Publish a [dataset](http://ytongdou.com/blogs/2017/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log from Aug. 2015 to Aug. 2017.  
 **[More](http://ytongdou.com/news/)**
