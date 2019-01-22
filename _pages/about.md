@@ -14,9 +14,9 @@ I am a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) L
 
 Publications
 ======
-\[2017a\] Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, Nguyen QVH. **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization**. IEEE Access.PP(99):1-1. ([Paper](http://ytongdou.com/files/A%20Novel%20Centrality%20Cascading%20Based%20Edge%20Parameter%20Evaluation%20Method%20for%20Robust%20Influence%20Maximization.pdf))([Code](https://github.com/YingtongDou/Centrality-Influence-Maximization))([BibTex](http://ytongdou.com/files/bib2.txt))
+\[2017a\] Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, Nguyen QVH. **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization**. IEEE Access.PP(99):1-1. ([Paper](http://ytongdou.com/files/A%20Novel%20Centrality%20Cascading%20Based%20Edge%20Parameter%20Evaluation%20Method%20for%20Robust%20Influence%20Maximization.pdf))([Code](https://github.com/YingtongDou/Centrality-Influence-Maximization))([BibTeX](http://ytongdou.com/files/bib2.txt))
 
-\[2016a\] Xiaolong Deng, **Yingtong Dou**, Yihua Huang, **CPS Model Based Online Opinion Governance Modeling and Evaluation of Emergency Accidents**, The 2nd Workshop of EMGIS in ACM SIGSPATIAL. ([Paper](http://ytongdou.com/files/CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20of%20emergency%20accidents.pdf))([Slides](http://ytongdou.com/files/CPS%20Model%20based%20opinion.pdf))([Journal Version](http://ytongdou.com/files/Efficient%20CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20for%20emergency%20accidents.pdf))([BibTex](http://ytongdou.com/files/bib1.txt))
+\[2016a\] Xiaolong Deng, **Yingtong Dou**, Yihua Huang, **CPS Model Based Online Opinion Governance Modeling and Evaluation of Emergency Accidents**, The 2nd Workshop of EMGIS in ACM SIGSPATIAL. ([Paper](http://ytongdou.com/files/CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20of%20emergency%20accidents.pdf))([Slides](http://ytongdou.com/files/CPS%20Model%20based%20opinion.pdf))([Journal Version](http://ytongdou.com/files/Efficient%20CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20for%20emergency%20accidents.pdf))([BibTeX](http://ytongdou.com/files/bib1.txt))
 
 **[More](http://ytongdou.com/publications)**
 
@@ -29,7 +29,7 @@ Mobile App Markets like App Store and Google Play involves many fraudsters like 
 My intro [slides](http://ytongdou.com/files/Review%20Spam%20Detection.pdf) about graph based review spam detection, Meng Jiang's [survey](http://www.meng-jiang.com/pubs/survey-suspicious-issi16/survey-suspicious-issi16-paper.pdf) on suspicious behavior modeling, Srijan Kumar's [survey](https://arxiv.org/abs/1804.08559) on online false information study. 
 ## 2. Securing Graphical Classfication Model
 ### Introduction
-The long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor makes the security of classifiers become very important. We aim to improve the robustness of  graphical classfiers like message passing algorithm and graph convolutional neural network against various kind of adversarial examples.
+The long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor makes the security of classifiers become very important. We aim to improve the robustness of  graphical classfiers like message passing algorithm and graph convolutional neural network against various kinds of adversarial examples.
 ### Resources
 A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data, [KDD18 best paper](https://www.kixlab.org/courses/i2r/resource/review_paper/Adversarial_Attacks_on_neural_Networks_for_Graph_Data_Zugner.pdf) on adversarial attack on neural networks for graph data, [ICML18 paper](https://arxiv.org/pdf/1806.02371.pdf) on adversarial attack on graph structured data.
 

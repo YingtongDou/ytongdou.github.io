@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**January 2019** Move my personal website from Wordpress to Github.
-
+**January 2019** Move my personal website from Wordpress to Github.  
 **January 2019** Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).
 
 **May 2018** Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  

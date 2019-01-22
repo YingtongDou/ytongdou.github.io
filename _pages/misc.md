@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Wechat Public Platforms (微信公众号)
+WeChat Public Platforms (微信公众号)
 ======
-We share the state-of-the-art works in data mining and machine learning in Chinese on multiple platforms. You can follow us via searching **paper_reader** (**论文收割机**) or scan the QR code below (left) on Wechat. We also have a [CSDN Blog](https://blog.csdn.net/paper_reader).
+We share the state-of-the-art works in data mining and machine learning in Chinese on multiple platforms. You can follow us via searching **paper_reader** (**论文收割机**) or scan the QR code below (left) on WeChat. We also have a [CSDN Blog](https://blog.csdn.net/paper_reader).
 
-I also host a personal Wechat Public Platform to record my daily life. You can follow it via seaching **sbsjjb** (**随便说几句**) or scan QR code below (right) on Wechat.
+I also host a personal WeChat Public Platform to record my daily life. You can follow it via seaching **sbsjjb** (**随便说几句**) or scan QR code below (right) on WeChat.
 
 ![Platform QR Code](/images/platform.png)
 

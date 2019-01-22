@@ -24,7 +24,7 @@ North End, Level 3, Richard Daley Library
 801 S Morgan St  
 Chicago, IL 60607
   
-Wechat
+WeChat
 ======
-Searching Wechat id: **ytongdou** or scan the QR code below.    
+Searching WeChat ID: **ytongdou** or scan the QR code below.    
 ![Wechat QR Code](/images/wechat.png)
