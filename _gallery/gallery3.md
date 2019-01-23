@@ -1,6 +1,6 @@
 ---
 title: "West China"
-excerpt: "My four years undergraduate life in Beijing<br/><img src='/images/westchina/westchina0.jpeg'>"
+excerpt: "2017 travel to west China<br/><img src='/images/westchina/westchina0.jpeg'>"
 collection: gallery
 ---
 

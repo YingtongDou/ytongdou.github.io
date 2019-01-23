@@ -1,6 +1,6 @@
 ---
 title: "PhD Life"
-excerpt: "My four years undergraduate life in Beijing<br/><img src='/images/phd/phd0.jpeg'>"
+excerpt: "<img src='/images/phd/phd0.jpeg'>"
 collection: gallery
 ---
 
