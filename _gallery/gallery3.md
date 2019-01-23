@@ -13,7 +13,7 @@ collection: gallery
 ### From B to A
 ![westchina3](/images/westchina/westchina3.jpeg)
 
-### City Tower of Jiayuguan, Gansu
+### City Tower of Jiayuguan, Gansu (Credit to Jason Jiang)
 ![westchina4](/images/westchina/westchina4.jpeg)
 
 ### Sunrise at Mount Emei, Sichuan
