@@ -1,6 +1,6 @@
 ---
 title: "Timelapse GIFs"
-excerpt: "My timelapse photography in GIF<br/><img src='/images/timelapse/timelapse0.jpg'>"
+excerpt: "Timelapsing photography in GIF<br/><img src='/images/timelapse/timelapse0.jpg'>"
 collection: gallery
 ---
 
@@ -10,5 +10,5 @@ collection: gallery
 ### Ed Sheeran 2018 Tour at Soldier Field 
 ![timelapse2](/images/timelapse/timelapse2.gif)
 
-### Morning at Beijing CBD 
+### Morning at Beijing CBD credit to Andy Zhao
 ![timelapse3](/images/timelapse/timelapse3.gif)

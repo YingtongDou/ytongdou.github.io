@@ -1,6 +1,6 @@
 ---
 title: "Travel to Australia"
-excerpt: "August 2017 Travel to AUS<br/><img src='/images/aus/aus0.jpeg'>"
+excerpt: "August 2017 travel to AUS<br/><img src='/images/aus/aus0.jpeg'>"
 collection: gallery
 ---
 ### Sydney Opera House

@@ -25,7 +25,7 @@ collection: gallery
 ### Early Spring at UIC east campus
 ![phd7](/images/phd/phd7.jpeg)
 
-### The Joker cosplay at Chicago
+### The Joker cosplay at Chicago credit to Zhan Shi
 ![phd8](/images/phd/phd8.jpeg)
 
 ### Cloud Gate Night
@@ -43,5 +43,5 @@ collection: gallery
 ### Bruno Mars 2018 Tour at Toronto with Ginson
 ![phd13](/images/phd/phd13.jpeg)
 
-### Toronto City Hall
+### Old (right) & New (middle) Toronto City Hall
 ![phd14](/images/phd/phd14.jpeg)

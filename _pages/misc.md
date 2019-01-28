@@ -17,7 +17,7 @@ I also host a personal WeChat Public Platform to record my daily life. You can f
 
 Welcome to Chicago!
 ======
-Here is my [traveling tips](https://mp.weixin.qq.com/s/SCk0VLZt-zkuwJzvhhJpyA) for Chicago in Chinese.
+Here are my [traveling tips](https://mp.weixin.qq.com/s/SCk0VLZt-zkuwJzvhhJpyA) for Chicago in Chinese.
 
 Useful Links
 ======
