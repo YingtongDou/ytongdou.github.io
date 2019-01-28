@@ -15,6 +15,10 @@ I also host a personal WeChat Public Platform to record my daily life. You can f
 
 ![Platform QR Code](/images/platform.png)
 
+Welcome to Chicago!
+======
+Here is my [traveling tips](https://mp.weixin.qq.com/s/SCk0VLZt-zkuwJzvhhJpyA) for Chicago in Chinese.
+
 Useful Links
 ======
 **eCharts([Link](https://echarts.baidu.com/)):** A  powerful, interactive charting and visualization library for browser

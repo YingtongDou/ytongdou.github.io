@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Bio"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+![quote](/images/quote.png){: .align-center}
+
+Publications
+======
 I am a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I got my Bachelor’s Degree from the Beijing University of Posts and Telecommunications and the Queen Mary University of London. My research interests are **graph mining**, **spam detection** and **social network analysis**. I am interested in designing algorithms dealing with challenging problems in social networks and applying social computing techniques into various areas.  
 
 [View my CV](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf)(Updated at January 2019)
