@@ -28,6 +28,7 @@ Dataset introduction in English:
 
 ![Picture2](/images/blog1/Picture2.png){: .align-center}
 图2
+{: style="text-align: center;"}
 
 从图中可以看出外卖红包是所有红包种类中数量最多的，因为衣食住行中，“食”的频率最高。饿了么红包数量占所有红包数量的近一半，这与市场调查机构公布的2016和2017年外卖 APP 市场份额报告的结论（饿了么与美团外卖市场份额不相上下）不一致。这是因为微信群聊参与者身份和地域的局限性导致该统计结果只能反应小范围内外卖APP 的市场份额。
 
@@ -39,11 +40,15 @@ Dataset introduction in English:
 
 ![Picture3](/images/blog1/Picture3.png){: .align-center}  
 图3
+{: style="text-align: center;"}
 
 细心的读者可能发现红包的广告语有几种类型，一种是宣传 APP （及其提供的服务）本身，一种是其他品牌的广告，常见的有影视剧和品牌促销活动等，还有一种类型是 APP 自身的明星代言，例如饿了么的王祖蓝和科比。我分析了2015年8月，2016年8月和2017年8月这三个月中这三类红包的比例，如图4所示。
 
-![Picture41](/images/blog1/Picture41.png) ![Picture42](/images/blog1/Picture42.png)![Picture43](/images/blog1/Picture43.png){: .align-center}  
+![Picture41](/images/blog1/Picture41.png){: .align-center}  
+![Picture42](/images/blog1/Picture42.png){: .align-center}  
+![Picture43](/images/blog1/Picture43.png){: .align-center}  
 图4
+{: style="text-align: center;"}
 
 2015年夏天是O2O服务刚开始迅猛发展的时候，那个时候他们的市场份额还不高，所以红包主要还是以宣传自家服务为主，到了2016年夏天， O2O服务竞争到了火热阶段（外卖领域和出行领域），那个时候的红包折扣力度也比较大，分享人数较多，所以我们看到其他品牌广告占比明显上升，红包冠名广告可以作为O2O服务提供商的收入来源之一。笔者没有行业经验，但猜测红包冠名广告的曝光率和点击率要高于一些其他的广告形式。2017年夏天，这时外卖和出行市场格局已定，红包的折扣力度减小，分享人数下降，所以大部分广告是针对自己APP的宣传，常见的广告语是“第X个领到红包的金额最大”，以刺激大家点击链接进而产生消费。
 
@@ -53,6 +58,7 @@ Dataset introduction in English:
 
 ![Picture5](/images/blog1/Picture5.png){: .align-center}  
 图5
+{: style="text-align: center;"}
 
 从红包数量变化趋势中可以得到以下几点结论：首先，饿了么和美团外卖的红包是所有外卖红包中的主流。在2016年8月之前，美团外卖的红包数量要高于饿了么红包数量，之后饿了么红包数量一路反超，远远高于美团红包数量。造成变化的原因不是饿了么增加推广力度，而是因为大部分群成员（北京某高校学生）从一个校区整体迁往了另一个校区，而美团外卖在原校区的规模相对于饿了么要比新校区的规模大。同样，在2017年6月之后，红包数量的整体下跌是因为大部分群成员从大学毕业，对外卖的需求下降。这从另一个角度反映了小规模数据的不稳定性。
 
@@ -62,13 +68,16 @@ Dataset introduction in English:
 
 ![Picture6](/images/blog1/Picture6.png){: .align-center}  
 图6
+{: style="text-align: center;"}
 
 图6将滴滴和ofo红包数量变化趋势专门列出来，这样可以更直观的看到其变化。之所以没有列出摩拜，是因为摩拜的分享次数较少，在图表上不明显。如果说2015年夏天是汽车共享出行开始迅猛发展的时候，那么从图中可以看出2016年夏天就是共享单车迅猛发展的时候。事实上滴滴从2012年就开始做出租车叫车业务，ofo早在2014年就开始在大学校园推广共享单车。随着4G网络的和智能手机的普及，微信使用人数越来越多，在多种因素的综合作用下，这些出行O2O服务在2015年后才开始迅速发展。
 
 下面我们将时间维度缩小到一天内，看看一天内出行红包和外卖红包的分享数量和时间的关系（图7）。
 
-![Picture71](/images/blog1/Picture71.png)![Picture72](/images/blog1/Picture72.png)  
+![Picture71](/images/blog1/Picture71.png){: .align-center}  
+![Picture72](/images/blog1/Picture72.png){: .align-center}  
 图7
+{: style="text-align: center;"}
 
 一般而言，一次线上的红包分享可以代表分享者同时在线下产生了相应的行为，通过变化红包分享数量变化趋势可以看到，在“食”和“行”方面，统计数据很好地体现了我们一般的认知。外卖集中在中午十二点和下午七点两个饭点之前，出行则在白天相对均匀地分布。
 
@@ -78,11 +87,13 @@ Dataset introduction in English:
 
 ![Picture8](/images/blog1/Picture8.png){: .align-center}  
 图8
+{: style="text-align: center;"}
 
 由于笔者在国外，并没有参与到瓜分红包的行动中，但笔者好奇的是：在2017年12月12日到2017年12月22 日，支付宝分享红包的吱口令中，“支付宝”三个字有大量变体字出现，让人一度以为是欺诈消息，我分析这十天所有的支付宝变体，将其做成图9的词云。
 
 ![Picture9](/images/blog1/Picture9.png){: .align-center}  
 图9
+{: style="text-align: center;"}
 
 支付宝一共产生了十种变体，起初笔者猜测支付宝是为了防止微信的追踪和屏蔽，但我想这样变体也不妨碍微信监测到消息，况且在这之前和之后红包都是正常的，所以我特别期待懂这个问题的朋友能够解答我的疑问。
 
