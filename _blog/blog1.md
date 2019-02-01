@@ -22,7 +22,7 @@ Dataset introduction in English:
 
 ![Picture1](/images/blog1/Picture1.png){: .align-center}
 图1
-{: text-align: center;"}
+{: style="text-align: center;"}
 
 每一列的数据分别为微信群群号（没错，微信群也有群号）、消息发送时间，发送者微信昵称，发送者微信号，发送形式（接收或发送），消息类型（文本、网页、动画表情、照片壁纸）和消息内容。因为大部分红包都是以网页的形式分享，而且每种 APP 只使用各自固定的域名，例如滴滴打车使用 xiaojukeji.com ，饿了么使用 ele.me。通过对不同域名数量的统计，笔者分析出了红包数量最多的12个APP 以及他们的数量比例（图2），这12类 APP的红包数量占所有红包总量的95%。
 
