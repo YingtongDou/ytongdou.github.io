@@ -26,12 +26,12 @@ Working Projects
 ======
 ## 1. Suspicious Behavior Modeling in App Markets
 ### Introduction
-Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, design classifers with multi-view and multi-source information according to the intention of the fraudsters. We also want to develop scalable and robust graph based classfication models.
+Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, design classifers with multi-view and multi-source information according to the intention of the fraudsters. We also want to develop scalable and robust graph based classfication models.  
 ### Resources
 My intro [slides](http://ytongdou.com/files/Review%20Spam%20Detection.pdf) about graph based review spam detection, Meng Jiang's [survey](http://www.meng-jiang.com/pubs/survey-suspicious-issi16/survey-suspicious-issi16-paper.pdf) on suspicious behavior modeling, Srijan Kumar's [survey](https://arxiv.org/abs/1804.08559) on online false information study.
 ## 2. Securing Graphical Classfication Model
 ### Introduction
-The long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor makes the security of classifiers become very important. We aim to improve the robustness of  graphical classfiers like message passing algorithm and graph convolutional neural network against various kinds of adversarial examples.
+The long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor makes the security of classifiers become very important. We aim to improve the robustness of  graphical classfiers like message passing algorithm and graph convolutional neural network against various kinds of adversarial examples.  
 ### Resources
 A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data, [KDD18 best paper](https://www.kixlab.org/courses/i2r/resource/review_paper/Adversarial_Attacks_on_neural_Networks_for_Graph_Data_Zugner.pdf) on adversarial attack on neural networks for graph data, [ICML18 paper](https://arxiv.org/pdf/1806.02371.pdf) on adversarial attack on graph structured data.
 
@@ -41,6 +41,6 @@ News
 ======
 **January 2019** Move my personal website from Wordpress to Github.  
 **January 2019** Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
-**May 2018** Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).
+**May 2018** Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
 **February 2018** Publish a [dataset](http://ytongdou.com/blogs/2017/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log from Aug. 2015 to Aug. 2017.
 **[More](http://ytongdou.com/news/)**
