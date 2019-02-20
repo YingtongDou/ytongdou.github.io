@@ -32,8 +32,8 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
   * [More](http://ytongdou.com/projects)
 
 **News**  
-\[January 2019\] Move my personal website from Wordpress to Github.  
-\[January 2019\]Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
-\[May 2018\] Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
-\[February 2018\] Publish a [dataset](http://ytongdou.com/blogs/2018/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log from Aug. 2015 to Aug. 2017.  
+\[1/2019\] Move my personal website from Wordpress to Github.  
+\[1/2019\]Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
+\[5/2018\] Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
+\[2/2018\] Publish a [dataset](http://ytongdou.com/blogs/2018/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log from Aug. 2015 to Aug. 2017.  
 \[[More](http://ytongdou.com/news/)\]
