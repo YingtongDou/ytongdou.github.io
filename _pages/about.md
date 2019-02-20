@@ -8,7 +8,7 @@ redirect_from:
 
 ![quote](/images/quote.png){: .align-center}
 
-**Bio**  
+###Bio
 I am currently a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I got my Bachelor’s Degree from the Beijing University of Posts and Telecommunications and the Queen Mary University of London. My research interests are **graph mining**, **spam detection** and **social network analysis**. I am interested in designing algorithms dealing with challenging problems in social networks and applying social computing techniques into various areas.
 
 [View my CV](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf)(Updated at January 2019)
@@ -33,7 +33,7 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
 
 **News**  
 \[1/2019\] Move my personal website from Wordpress to Github.  
-\[1/2019\]Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
-\[5/2018\] Start summer intern at the Search and Recommendation Group of [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
-\[2/2018\] Publish a [dataset](http://ytongdou.com/blogs/2018/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log from Aug. 2015 to Aug. 2017.  
+\[1/2019\] Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
+\[5/2018\] Start summer intern at [Huawei Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
+\[2/2018\] Publish a [dataset](http://ytongdou.com/blogs/2018/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log.  
 \[[More](http://ytongdou.com/news/)\]
