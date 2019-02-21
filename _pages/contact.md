@@ -11,12 +11,6 @@ Email
 ytongdou@gmail.com  
 ydou5@uic.edu
 
-Mailing Address
-======
-901 S. Ashland Ave.  
-APT 301  
-Chicago IL, 60607
-
 Lab Address
 ======
 North End, Level 3, Richard Daley Library  
