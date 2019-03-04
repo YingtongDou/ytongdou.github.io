@@ -30,7 +30,8 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
   * Securing Graphical Classfication Model.
   
   ![projects2](/images/proj2.png){: .align-left} **Introduction** The long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor makes the security of classifiers become very important. We aim to improve the robustness of  graphical classfiers like message passing algorithm and graph convolutional neural network against various kinds of adversarial examples.  
-  **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data, [KDD18 best paper](https://www.kixlab.org/courses/i2r/resource/review_paper/Adversarial_Attacks_on_neural_Networks_for_Graph_Data_Zugner.pdf) on adversarial attack on neural networks for graph data, [ICML18 paper](https://arxiv.org/pdf/1806.02371.pdf) on adversarial attack on graph structured data.  
+  **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data, [KDD18 best paper](https://www.kixlab.org/courses/i2r/resource/review_paper/Adversarial_Attacks_on_neural_Networks_for_Graph_Data_Zugner.pdf) on adversarial attack on neural networks for graph data, [ICML18 paper](https://arxiv.org/pdf/1806.02371.pdf) on adversarial attack on graph structured data. 
+  
   * [More](http://ytongdou.com/projects)
 
 ## News
