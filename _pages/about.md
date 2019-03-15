@@ -23,7 +23,7 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
 
 ## Technical Report
   * A Review of Recent Advance in Online Spam Detection.  
-  Yingtong Dou.
+  Yingtong Dou.  
   March 2019. \[[Paper](http://ytongdou.com/files/A%20Review%20of%20Recent%20Advance%20in%20Online%20Spam%20Detection.pdf)\]\[[Slides](http://ytongdou.com/files/Online%20Spam%20Detection.pdf)\]
 
 ## Working Projects
