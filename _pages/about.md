@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-![quote](/images/quote.png){: .align-center}
+[![quote](/images/head.png){: .align-center}](http://ytongdou.com/contact)
 
 ## Bio
 I am currently a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I got my Bachelor’s Degree from the Beijing University of Posts and Telecommunications and the Queen Mary University of London. My research interests are **graph mining**, **spam detection** and **social network analysis**.
@@ -33,7 +33,7 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
   **Resources** My intro [slides](http://ytongdou.com/files/Review%20Spam%20Detection.pdf) about graph-based spam detection, Meng Jiang's [survey](http://www.meng-jiang.com/pubs/survey-suspicious-issi16/survey-suspicious-issi16-paper.pdf) on suspicious behavior modeling, Srijan Kumar's [survey](https://arxiv.org/abs/1804.08559) on online false information study. 
   * **Securing Graph-based Classfication Model**
   
-  ![projects2](/images/proj2.png){: .align-left} **Introduction** It is a long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor. We aim to improve the robustness of graphical classfiers like message passing algorithm and representation learning frameworks like graph convolutional neural network against various kinds of adversarial tactics.  
+  ![projects2](/images/proj2.png){: .align-left} **Introduction** It is a long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor. We aim to improve the robustness of graphical classfiers and representation learning frameworks against various kinds of adversarial tactics.  
   **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data, [KDD18 best paper](https://www.kixlab.org/courses/i2r/resource/review_paper/Adversarial_Attacks_on_neural_Networks_for_Graph_Data_Zugner.pdf) on adversarial attack on neural networks for graph data, [ICML18 paper](https://arxiv.org/pdf/1806.02371.pdf) on adversarial attack on graph structured data. 
   
   * [More](http://ytongdou.com/projects)
@@ -44,3 +44,5 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
   * \[5/2018\] Start summer intern at the Search and Recommendation Group of [Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
   * \[2/2018\] Publish a [dataset](http://ytongdou.com/blogs/2018/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log between two years.  
   * \[[More](http://ytongdou.com/news/)\]
+
+![quote](/images/quote.png){: .align-center}
