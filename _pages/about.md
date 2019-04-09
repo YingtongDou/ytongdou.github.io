@@ -11,7 +11,7 @@ redirect_from:
 ## Bio
 I am currently a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I got my Bachelor’s Degree from Beijing University of Posts and Telecommunications and Queen Mary University of London. My research interests are **graph mining**, **spam detection** and **social network analysis**.
 
-\[[Google Scholar](https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en)\] \[[LinkedIn]https://www.linkedin.com/in/ytongdou/)\] \[[ResearchGate]https://www.researchgate.net/profile/Yingtong_Dou)\] \[[Github]https://github.com/YingtongDou)\] \[[Curriculum Vitae](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf)\]
+\[[Google Scholar](https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en)\] \[[LinkedIn](https://www.linkedin.com/in/ytongdou/)\] \[[ResearchGate](https://www.researchgate.net/profile/Yingtong_Dou)\] \[[Github](https://github.com/YingtongDou)\] \[[Curriculum Vitae](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf)\]
 
 ## Publications
   * A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.  
