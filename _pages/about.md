@@ -24,7 +24,7 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
   \[[Paper](http://ytongdou.com/files/CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20of%20emergency%20accidents.pdf)\]\[[Slides](http://ytongdou.com/files/CPS%20Model%20based%20opinion.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/Efficient%20CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20for%20emergency%20accidents.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]
 
 ## Technical Reports
-  * A Review of Recent Advance in Online Spam Detection.  
+  * **A Review of Recent Advance in Online Spam Detection.**  
   Yingtong Dou.  
   March 2019.  
   \[[Paper](http://ytongdou.com/files/A%20Review%20of%20Recent%20Advance%20in%20Online%20Spam%20Detection.pdf)\]\[[Slides](http://ytongdou.com/files/Online%20Spam%20Detection.pdf)\]
