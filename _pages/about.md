@@ -42,6 +42,7 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
 
   **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A curated [list](https://github.com/YingtongDou/graph-adversarial-learning-literature) of papers on graph adversarial learning.  
   
+  
   * [More](http://ytongdou.com/projects)
 
 ## News
