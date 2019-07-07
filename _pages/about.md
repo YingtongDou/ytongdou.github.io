@@ -9,13 +9,14 @@ redirect_from:
 ![head](/images/head.png){: .align-center}
 
 ## Bio
-I am currently a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **graph mining**, **spam detection** and **social network analysis**. 
+I am currently a second year Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **graph mining**, **spam detection** and **social network analysis**. 
 
-[![Curriculum Vitae](/images/cv.png)](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf)    [![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/ytongdou/)    [![ResearchGate](/images/rg.png)](https://www.researchgate.net/profile/Yingtong_Dou)    [![Google Scholar](/images/scholar.png)](https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en)    [![Github](/images/github.png)](https://github.com/YingtongDou)    [![Medium](/images/medium.png)](https://medium.com/@yingtongdou)
+<a href="http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf"><img align="left" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="10"/></a><a href="http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf"><img align="left" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="10"/></a>
+<!-- [![Curriculum Vitae](/images/cv.png)](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf)    [![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/ytongdou/)    [![ResearchGate](/images/rg.png)](https://www.researchgate.net/profile/Yingtong_Dou)    [![Google Scholar](/images/scholar.png)](https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en)    [![Github](/images/github.png)](https://github.com/YingtongDou)    [![Medium](/images/medium.png)](https://medium.com/@yingtongdou) -->
 
 ## Publications
   * **Uncovering Download Fraud Activities in Mobile App Markets.**  
-  **Yingtong Dou**, Weijian Li, Zhirong Liu, Zhenhua Dong, Jiebo Luo, Philip S. Yu.  
+  **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
   ACM/IEEE ASONAM. 2019.  
   \[[Paper](http://ytongdou.com/)\]\[[Blog](http://ytongdou.com/)\]\[[Slides](http://ytongdou.com/)\]\[[BibTeX](http://ytongdou.com/)\] 
   * **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**  
@@ -49,7 +50,11 @@ I am currently a Computer Science Ph.D. student in [Big Data and Social Computin
 
   * [More](http://ytongdou.com/projects)
 
+## Pinned Repo
+[![YingtongDou/graph-adversarial-learning-literature - GitHub](https://gh-card.dev/repos/YingtongDou/graph-adversarial-learning-literature.svg)](https://github.com/YingtongDou/graph-adversarial-learning-literature)
+
 ## News
+  * \[7/2019\] One [paper](http://ytongdou.com/) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
   * \[1/2019\] Move my personal website from Wordpress to Github.  
   * \[1/2019\] Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
   * \[5/2018\] Start summer intern at the Search and Recommendation Group of [Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
