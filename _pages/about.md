@@ -11,8 +11,7 @@ redirect_from:
 ## Bio
 I am currently a second year Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **graph mining**, **spam detection** and **social network analysis**. 
 
-<a href="http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf"><img align="left" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="10"/></a><a href="http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf"><img align="left" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="10"/></a>
-<!-- [![Curriculum Vitae](/images/cv.png)](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf)    [![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/ytongdou/)    [![ResearchGate](/images/rg.png)](https://www.researchgate.net/profile/Yingtong_Dou)    [![Google Scholar](/images/scholar.png)](https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en)    [![Github](/images/github.png)](https://github.com/YingtongDou)    [![Medium](/images/medium.png)](https://medium.com/@yingtongdou) -->
+<a href="http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf"><img align="left" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="left" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="left" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="left" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="left" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="left" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a>
 
 ## Publications
   * **Uncovering Download Fraud Activities in Mobile App Markets.**  
@@ -50,7 +49,7 @@ I am currently a second year Computer Science Ph.D. student in [Big Data and Soc
 
   * [More](http://ytongdou.com/projects)
 
-## Pinned Repo
+## Pinned Repositories
 [![YingtongDou/graph-adversarial-learning-literature - GitHub](https://gh-card.dev/repos/YingtongDou/graph-adversarial-learning-literature.svg)](https://github.com/YingtongDou/graph-adversarial-learning-literature)
 
 ## News
