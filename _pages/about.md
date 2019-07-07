@@ -11,7 +11,7 @@ redirect_from:
 ## Bio
 I am currently a Computer Science Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **graph mining**, **spam detection** and **social network analysis**. 
 
-[![Curriculum Vitae](/images/cv.png)](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf)[![LinkedIn](/images/linkedin.png)](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf)
+[![Curriculum Vitae](/images/cv.png)](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou%20201901.pdf)  [![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/ytongdou/)  [![ResearchGate](/images/rg.png)](https://www.researchgate.net/profile/Yingtong_Dou)
 
 <!-- \[[Curriculum Vitae]()\] \[[Google Scholar](https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en)\] \[[LinkedIn](https://www.linkedin.com/in/ytongdou/)\] \[[ResearchGate](https://www.researchgate.net/profile/Yingtong_Dou)\] \[[Github](https://github.com/YingtongDou)\] -->
 
