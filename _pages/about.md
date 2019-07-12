@@ -19,7 +19,7 @@ I am currently a second year Computer Science Ph.D. student in [Big Data and Soc
   ACM/IEEE ASONAM. 2019.  
   \[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[Slides](http://ytongdou.com/)\]\[[BibTeX](http://ytongdou.com/)\] 
   * **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**  
-  Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, Nguyen QVH.  
+  Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, [Nguyen QVH](https://sites.google.com/site/nqvhung/).  
   IEEE Access. 2017.  
   \[[Paper](http://ytongdou.com/files/A%20Novel%20Centrality%20Cascading%20Based%20Edge%20Parameter%20Evaluation%20Method%20for%20Robust%20Influence%20Maximization.pdf)\]\[[Slides](http://ytongdou.com/files/RIM.pdf)\]\[[Code](https://github.com/YingtongDou/Centrality-Influence-Maximization)\]\[[BibTeX](http://ytongdou.com/files/bib2.txt)\]  
   * **CPS Model Based Online Opinion Governance Modeling and Evaluation of Emergency Accidents.**  
@@ -53,7 +53,7 @@ I am currently a second year Computer Science Ph.D. student in [Big Data and Soc
 [![YingtongDou/graph-adversarial-learning-literature - GitHub](https://gh-card.dev/repos/YingtongDou/graph-adversarial-learning-literature.svg)](https://github.com/YingtongDou/graph-adversarial-learning-literature)
 
 ## News
-  * \[7/2019\] One [paper](http://ytongdou.com/) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
+  * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
   * \[1/2019\] Move my personal website from Wordpress to Github.  
   * \[1/2019\] Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
   * \[5/2018\] Start summer intern at the Search and Recommendation Group of [Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
