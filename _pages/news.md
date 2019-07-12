@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-\[7/2019\] One [paper](http://ytongdou.com/) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php). 
+\[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php). 
 \[1/2019\] Move my personal website from Wordpress to Github.  
 \[1/2019\] Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).
 
