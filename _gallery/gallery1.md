@@ -5,13 +5,13 @@ collection: gallery
 ---
 
 ### Farwell BBQ Spring 2019
-![phd17](/images/phd/phd17.jpeg)
+![phd17](/images/phd/phd17.jpg)
 
 ### Lake Michigan and Dowtown Chicago
-![phd16](/images/phd/phd16.jpeg)
+![phd16](/images/phd/phd16.jpg)
 
 ### Evening after Raining
-![phd15](/images/phd/phd15.jpeg)
+![phd15](/images/phd/phd15.JPG)
 
 ### "The Divider" at Northwestern University
 ![phd1](/images/phd/phd1.jpeg)
