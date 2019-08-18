@@ -4,6 +4,15 @@ excerpt: "<img src='/images/phd/phd0.jpeg'>"
 collection: gallery
 ---
 
+### Farwell BBQ Spring 2019
+![phd17](/images/phd/phd17.jpeg)
+
+### Lake Michigan and Dowtown Chicago
+![phd16](/images/phd/phd16.jpeg)
+
+### Evening after Raining
+![phd15](/images/phd/phd15.jpeg)
+
 ### "The Divider" at Northwestern University
 ![phd1](/images/phd/phd1.jpeg)
 

@@ -17,7 +17,7 @@ I am currently a second year Computer Science Ph.D. student in [Big Data and Soc
   * **Uncovering Download Fraud Activities in Mobile App Markets.**  
   **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
   ACM/IEEE ASONAM. 2019.  
-  \[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[Slides](http://ytongdou.com/)\]\[[BibTeX](http://ytongdou.com/)\] 
+  \[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Slides](http://ytongdou.com/)\]\[[Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[BibTeX](http://ytongdou.com/files/bib3.txt)\] 
   * **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**  
   Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, [Nguyen QVH](https://sites.google.com/site/nqvhung/).  
   IEEE Access. 2017.  

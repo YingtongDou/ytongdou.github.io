@@ -1,0 +1,7 @@
+@inproceedings{dou2019uncovering,
+  title={Uncovering Download Fraud Activities in Mobile App Markets.},
+  author={Dou, Yingtong and Li, Weijian and Liu, Zhirong and Dong, Zhenhua and Luo, Jiebo and Yu, Philip S.},
+  booktitle={2019 International Conference on Advances in Social Networks Analysis and Mining},
+  year={2019},
+  organization={ACM}
+}
