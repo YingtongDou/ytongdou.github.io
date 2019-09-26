@@ -7,7 +7,7 @@ collection: gallery
 ### Carkeek Park, Seattle, WA
 ![timelapse5](/images/timelapse/timelapse5.gif)
 
-### Henry C. Palmisano Nature Park, Chicago, WA
+### Henry C. Palmisano Nature Park, Chicago, IL
 ![timelapse4](/images/timelapse/timelapse4.gif)
 
 ### Michigan Lake and Chicago Skyline
