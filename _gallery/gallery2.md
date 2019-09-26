@@ -4,6 +4,12 @@ excerpt: "Timelapsing photography in GIF<br/><img src='/images/timelapse/timelap
 collection: gallery
 ---
 
+### Carkeek Park, Seattle, WA
+![timelapse5](/images/timelapse/timelapse5.gif)
+
+### Henry C. Palmisano Nature Park, Chicago, WA
+![timelapse4](/images/timelapse/timelapse4.gif)
+
 ### Michigan Lake and Chicago Skyline
 ![timelapse1](/images/timelapse/timelapse1.gif)
 

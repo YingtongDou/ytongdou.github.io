@@ -9,7 +9,7 @@ redirect_from:
 ![head](/images/head.png){: .align-center}
 
 ## Bio
-I am currently a third year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **graph mining**, **spam detection** and **social network analysis**. \[[View My Curriculum Vitae](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf)\]
+I am currently a third year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **Graph Mining**, **Fraud Detection** and **Social Network Analysis**. \[[View My Curriculum Vitae](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf)\]
 
 <a href="http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a>  
 
@@ -33,19 +33,20 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
   March 2019.  
   \[[Paper](http://ytongdou.com/files/A%20Review%20of%20Recent%20Advance%20in%20Online%20Spam%20Detection.pdf)\]\[[Slides](http://ytongdou.com/files/Online%20Spam%20Detection.pdf)\]
 
-## Working Projects
-  * **Suspicious Behavior Modeling in Mobile App Markets**
-  
-  ![projects1](/images/proj1.png){: .align-left} **Introduction** Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, and aim to design classifers with multi-view and multi-source information according to the intention of the fraudsters.  
-
-  **Resources** My intro [slides](http://ytongdou.com/files/Review%20Spam%20Detection.pdf) about graph-based spam detection.  
+## Research Projects
 
   * **Securing Graph-based Classfication Model**
   
   ![projects2](/images/proj2.png){: .align-left} **Introduction** It is a long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor. We aim to improve the robustness of graphical classfiers and representation learning frameworks against various kinds of adversarial tactics.  
 
   **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A curated [list](https://github.com/YingtongDou/graph-adversarial-learning-literature) of up-to-date papers on graph adversarial learning.  
+
+  * **Suspicious Behavior Modeling in Mobile App Markets**
   
+  ![projects1](/images/proj1.png){: .align-left} **Introduction** Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, and aim to design classifers with multi-view and multi-source information according to the intention of the fraudsters.  
+
+  **Resources** My intro [slides](http://ytongdou.com/files/Review%20Spam%20Detection.pdf) about graph-based spam detection.  
+
 
   * [More](http://ytongdou.com/projects)
 

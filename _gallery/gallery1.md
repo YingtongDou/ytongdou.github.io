@@ -4,6 +4,18 @@ excerpt: "<img src='/images/phd/phd0.jpeg'>"
 collection: gallery
 ---
 
+### BDSC Lab Members, Fall 2019 
+![phd21](/images/phd/phd21.jpg)
+
+### North Cascade National Park, WA
+![phd20](/images/phd/phd20.jpg)
+
+### ASONAM19@Vancouver
+![phd19](/images/phd/phd19.jpg)
+
+### ThinkChicago
+![phd18](/images/phd/phd18.jpg)
+
 ### Farwell BBQ Spring 2019
 ![phd17](/images/phd/phd17.jpg)
 
