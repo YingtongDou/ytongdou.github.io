@@ -10,10 +10,10 @@ collection: gallery
 ### North Cascade National Park, WA
 ![phd20](/images/phd/phd20.jpg)
 
-### ASONAM19@Vancouver
+### ASONAM19 Gathering, Vancouver, BC
 ![phd19](/images/phd/phd19.jpg)
 
-### ThinkChicago
+### ThinkChicago 2019
 ![phd18](/images/phd/phd18.jpg)
 
 ### Farwell BBQ Spring 2019
@@ -28,10 +28,10 @@ collection: gallery
 ### "The Divider" at Northwestern University
 ![phd1](/images/phd/phd1.jpeg)
 
-### The grave of Steve Jobs at Palo Alto
+### The grave of Steve Jobs, Palo Alto, CA
 ![phd2](/images/phd/phd2.jpeg)
 
-### The Fallingwater House at Pennsylvania 
+### The Fallingwater House, PA
 ![phd3](/images/phd/phd3.jpeg)
 
 ### Starry Night at MOMA, New York
