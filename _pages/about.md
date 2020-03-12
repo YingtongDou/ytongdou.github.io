@@ -51,8 +51,12 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
   * [More](http://ytongdou.com/projects)
 
 ## Pinned Repositories
-[![YingtongDou/graph-adversarial-learning-literature - GitHub](https://gh-card.dev/repos/YingtongDou/graph-adversarial-learning-literature.svg)](https://github.com/YingtongDou/graph-adversarial-learning-literature)
-[![YingtongDou/graph-fraud-detection-papers - GitHub](https://gh-card.dev/repos/YingtongDou/graph-fraud-detection-papers.svg)](https://github.com/YingtongDou/graph-fraud-detection-papers)
+
+<div class="github-card" data-github="YingtongDou/graph-adversarial-learning-literature" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+<div class="github-card" data-github="YingtongDou/graph-fraud-detection-papers" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 ## News
   * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
