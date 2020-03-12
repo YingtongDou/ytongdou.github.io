@@ -9,7 +9,7 @@ redirect_from:
 ![head](/images/head.png){: .align-center}
 
 ## Bio
-I am currently a third year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **Graph Mining**, **Fraud Detection** and **Social Network Analysis**. \[[View My Curriculum Vitae](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf)\]
+I am currently a third year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf)\]
 
 <a href="http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a>  
 
@@ -52,11 +52,14 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
 
 ## Pinned Repositories
 
-<div class="github-card" data-github="YingtongDou/graph-adversarial-learning-literature" data-width="400" data-height="" data-theme="default"></div>
+<div>
+<div class="github-card" data-github="YingtongDou/graph-adversarial-learning-literature" data-width="400" data-height="" data-theme="default" style="float:left;width:45%;" ></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-<div class="github-card" data-github="YingtongDou/graph-fraud-detection-papers" data-width="400" data-height="" data-theme="default"></div>
+<div class="github-card" data-github="YingtongDou/graph-fraud-detection-papers" data-width="400" data-height="" data-theme="default" style="float:right;width:45%;" ></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<div style="clear:both; font-size:1px;"></div>
+</div>
 
 ## News
   * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
