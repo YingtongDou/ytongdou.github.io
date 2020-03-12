@@ -53,10 +53,10 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
 ## Pinned Repositories
 
 <div>
-<div class="github-card" data-github="YingtongDou/graph-adversarial-learning-literature" data-width="300" data-height="" data-theme="default" style="float:left;width:45%;" ></div>
+<div class="github-card" data-github="YingtongDou/graph-adversarial-learning-literature" data-width="300" data-height="" data-theme="default" style="float:left;width:50%;" ></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-<div class="github-card" data-github="YingtongDou/graph-fraud-detection-papers" data-width="300" data-height="" data-theme="default" style="float:right;width:45%;" ></div>
+<div class="github-card" data-github="YingtongDou/graph-fraud-detection-papers" data-width="300" data-height="" data-theme="default" style="float:right;width:50%;" ></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <div style="clear:both; font-size:1px;"></div>
 </div>
