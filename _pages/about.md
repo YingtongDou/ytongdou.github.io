@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-![head](/images/head.png){: .align-center}
+![head](/images/new_head.png){: .align-center}
 
 ## Bio
 I am currently a third year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from [BUPT](https://www.bupt.edu.cn/) and [QMUL](https://www.qmul.ac.uk/). My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/The%20CV%20of%20Yingtong%20Dou.pdf)\]
