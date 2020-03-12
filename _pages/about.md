@@ -51,7 +51,6 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
   * [More](http://ytongdou.com/projects)
 
 ## Pinned Repositories
-
 <div>
 <div class="github-card" data-github="YingtongDou/graph-adversarial-learning-literature" data-width="370" data-height="" data-theme="default" style="float:left;width:45%;" ></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
@@ -60,7 +59,6 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <div style="clear:both; font-size:1px;"></div>
 </div>
-
 ## News
   * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
   * \[1/2019\] Move my personal website from Wordpress to Github.  
