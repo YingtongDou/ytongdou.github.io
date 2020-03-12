@@ -8,9 +8,9 @@ author_profile: true
 
 Email
 ======
-Personal: <a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/ytongdou@gmail.com.png" alt="personal mail" title="personal mail" hspace="8"/></a>
+Personal: <a href="mailto: ytongdou@gmail.com"><img align="middle" src="/images/ytongdou.png" alt="personal mail" title="personal mail" hspace="8"/></a>
   
-University: <a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/ydou5@uic.edu.png" alt="school mail" title="school mail" hspace="8"/></a>
+University: <a href="mailto: ydou5@uic.edu"><img align="middle" src="/images/ydou5.png" alt="school mail" title="school mail" hspace="8"/></a>
 
 Lab Address
 ======
