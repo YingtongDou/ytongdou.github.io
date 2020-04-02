@@ -7,9 +7,6 @@ collection: gallery
 ### BDSC Lab Members, Fall 2019 
 ![phd21](/images/phd/phd21.jpg)
 
-### North Cascade National Park, WA
-![phd20](/images/phd/phd20.jpg)
-
 ### ASONAM19 Gathering, Vancouver, BC
 ![phd19](/images/phd/phd19.jpg)
 

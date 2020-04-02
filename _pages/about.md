@@ -28,9 +28,14 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
   \[[Paper](http://ytongdou.com/files/CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20of%20emergency%20accidents.pdf)\]\[[Slides](http://ytongdou.com/files/CPS%20Model%20based%20opinion.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/Efficient%20CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20for%20emergency%20accidents.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]
 
 ## Online Preprints
+  * **Adversarial Attack and Defense on Graph Data: A Survey.**  
+  [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Bo Li](https://aisecure.github.io/).  
+  Dec. 2018 (Updated in Apr. 2020).  
+  \[[Paper](https://arxiv.org/abs/1812.10528)\]
+
   * **A Review of Recent Advance in Online Spam Detection.**  
   **Yingtong Dou**.  
-  March 2019.  
+  Mar. 2019.  
   \[[Paper](http://ytongdou.com/files/A%20Review%20of%20Recent%20Advance%20in%20Online%20Spam%20Detection.pdf)\]\[[Slides](http://ytongdou.com/files/Online%20Spam%20Detection.pdf)\]
 
 ## Research Projects
