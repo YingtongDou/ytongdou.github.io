@@ -58,7 +58,7 @@ collection: gallery
 ### Chicago skyline view from Lake Michigan
 ![phd12](/images/phd/phd12.jpeg)
 
-### Bruno Mars 2018 Tour at Toronto with Ginson
+### Bruno Mars 2018 Tour at Toronto with [Ginson](https://jingxianwang.github.io/)
 ![phd13](/images/phd/phd13.jpeg)
 
 ### Old (right) & New (middle) Toronto City Hall
