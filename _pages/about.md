@@ -68,8 +68,14 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
 
 <div class="github-card" data-github="safe-graph/graph-adversarial-learning-literature" data-width="370" data-height="" data-theme="default" style="float:left;width:45%;" ></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<div style="clear:both; font-size:1px;"></div>
+</div>
 
+<div>
 <div class="github-card" data-github="safe-graph/graph-fraud-detection-papers" data-width="370" data-height="" data-theme="default" style="float:right;width:45%;" ></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+<div class="github-card" data-github="YingtongDou/Centrality-Influence-Maximization" data-width="370" data-height="" data-theme="default" style="float:right;width:45%;" ></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <div style="clear:both; font-size:1px;"></div>
 </div>
