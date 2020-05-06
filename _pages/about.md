@@ -16,6 +16,10 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
 <a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a>  
 
 ## Publications
+  * **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection.**  
+  [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), **Yingtong Dou**, Philip S. Yu, Yutong Deng, Hao Peng.  
+  ACM SIGIR. 2020.  
+  \[[Paper](https://arxiv.org/pdf/2005.00625.pdf)\]\[[Code](https://github.com/safe-graph/DGFraud)\]\[Blog\]\[[BibTeX](http://ytongdou.com/files/bib4.txt)\] 
   * **Uncovering Download Fraud Activities in Mobile App Markets.**  
   **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
   ACM/IEEE ASONAM. 2019.  
@@ -59,6 +63,9 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
 
 ## Pinned Repositories
 <div>
+<div class="github-card" data-github="safe-graph/DGFraud" data-width="370" data-height="" data-theme="default" style="float:left;width:45%;" ></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 <div class="github-card" data-github="safe-graph/graph-adversarial-learning-literature" data-width="370" data-height="" data-theme="default" style="float:left;width:45%;" ></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
@@ -66,7 +73,10 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <div style="clear:both; font-size:1px;"></div>
 </div>
+
 ## News
+  * \[5/2020\] Release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
+  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) was accepted to [SIGIR 2020](https://sigir.org/sigir2020/).  
   * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
   * \[1/2019\] Move my personal website from Wordpress to Github.  
   * \[1/2019\] Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
