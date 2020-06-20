@@ -12,8 +12,8 @@ main:
   - title: "Misc"
     url: /misc/    
     
-  - title: "Gallery"
-    url: /gallery/
+  # - title: "Gallery"
+  #   url: /gallery/
         
   # - title: "Blog"
   #   url: /blog/
