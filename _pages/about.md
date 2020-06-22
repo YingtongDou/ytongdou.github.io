@@ -13,7 +13,7 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
 
 My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]
 <p align="center">
-<a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a>  
+<a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a>    
 </p>
 ## Publications
   * **Robust Spammer Detection by Nash Reinforcement Learning.**  
@@ -27,7 +27,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   * **Uncovering Download Fraud Activities in Mobile App Markets.**  
   **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
   ACM/IEEE ASONAM. 2019.  
-  \[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Slides](http://ytongdou.com/files/asonam19slides.pdf)\]\[[Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[BibTeX](http://ytongdou.com/files/bib3.txt)\] 
+  \[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Slides](http://ytongdou.com/files/asonam19slides.pdf)\]\[[English Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[BibTeX](http://ytongdou.com/files/bib3.txt)\] 
   * **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**  
   Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, [Nguyen QVH](https://sites.google.com/site/nqvhung/).  
   IEEE Access. 2017.  
@@ -50,11 +50,17 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
 
 ## Research Projects
 
-  * **Securing Graph-based Classfication Model**
+  * **Robust Fraud Detection**
   
-  ![projects2](/images/proj2.png){: .align-left} **Introduction** It is a long lasting campaign between the fraudsters and online review platforms like Yelp and TripAdvisor. We aim to improve the robustness of graphical classfiers and representation learning frameworks against various kinds of adversarial tactics.  
+  ![projects3](/images/proj3.png){: .align-left} **Introduction** The adversarial behaviors between professional spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to devise robust fraud detectors and enhance GNN-based fraud detectors against camouflaged fraudsters.
 
-  **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A curated [list](https://github.com/YingtongDou/graph-adversarial-learning-literature) of up-to-date papers on graph adversarial learning.  
+  **Resources** A [survey](https://arxiv.org/abs/1812.10528) of recent advance of spam review detection. A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. A Deep Graph-based [Toolbox](https://github.com/safe-graph/DGFraud) for Fraud Detection
+
+  * **Securing Graph-based Learning Models**
+
+  ![projects2](/images/proj2.png){: .align-left} **Introduction** Despite the advance of graph-based learning models like probabilistic graphical models and graph neural networks, their applications to various areas also face diverse threats. We investigate the practical threats of SOTA models and secure them from multiple channels.
+
+  **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A curated [list](https://github.com/safe-graph/graph-adversarial-learning-literature) of up-to-date papers on graph adversarial learning.  
 
   * **Suspicious Behavior Modeling in Mobile App Markets**
   
@@ -66,8 +72,15 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   * [More](http://ytongdou.com/projects)
 
 
+## Code and Tools
+
+  * [A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
+  * [Graph Attack/Defense Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
+  * [Graph-based Fraud Detection Literature](https://github.com/safe-graph/graph-fraud-detection-papers)
+
+
 ## News
-  * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) accepted by KDD 2020. 
+  * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
   * \[5/2020\] Release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
   * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) was accepted to [SIGIR 2020](https://sigir.org/sigir2020/).  
   * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
