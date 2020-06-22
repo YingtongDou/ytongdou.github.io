@@ -13,7 +13,7 @@ I am currently a third year CS Ph.D. student in [Big Data and Social Computing (
 
 My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]
 <p align="center">
-<a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a>    
+<a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a>    
 </p>
 ## Publications
   * **Robust Spammer Detection by Nash Reinforcement Learning.**  
@@ -28,7 +28,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
   ACM/IEEE ASONAM. 2019.  
   \[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Slides](http://ytongdou.com/files/asonam19slides.pdf)\]\[[English Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[BibTeX](http://ytongdou.com/files/bib3.txt)\] 
-  * **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**  
+  * **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**
   Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, [Nguyen QVH](https://sites.google.com/site/nqvhung/).  
   IEEE Access. 2017.  
   \[[Paper](http://ytongdou.com/files/A%20Novel%20Centrality%20Cascading%20Based%20Edge%20Parameter%20Evaluation%20Method%20for%20Robust%20Influence%20Maximization.pdf)\]\[[Slides](http://ytongdou.com/files/RIM.pdf)\]\[[Code](https://github.com/YingtongDou/Centrality-Influence-Maximization)\]\[[BibTeX](http://ytongdou.com/files/bib2.txt)\]  
@@ -52,7 +52,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
 
   * **Robust Fraud Detection**
   
-  ![projects3](/images/proj3.png){: .align-left} **Introduction** The adversarial behaviors between professional spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to devise robust fraud detectors and enhance GNN-based fraud detectors against camouflaged fraudsters.
+  ![projects3](/images/proj3.png){: .align-left} **Introduction** The adversarial behaviors between professional spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to devise robust fraud detectors.
 
   **Resources** A [survey](https://arxiv.org/abs/1812.10528) of recent advance of spam review detection. A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. A Deep Graph-based [Toolbox](https://github.com/safe-graph/DGFraud) for Fraud Detection
 
