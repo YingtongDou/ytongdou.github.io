@@ -1,13 +1,11 @@
 ---
-title: "Projects"
+title: "Previous Projects"
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Previous Projects
-======
 ## 1. Robust Influence Maximization Based on Edge Parameter
 ### Introduction
 We evaluate the robust performance based on the edge parameter calculated by the node centrality. It shows that PageRank algorithm has the optimal influence spread and running time among four centrality measurement methods. We also evaluate the edge parameter in different experiment sets.  

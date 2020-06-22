@@ -66,7 +66,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   
   ![projects1](/images/proj1.png){: .align-left} **Introduction** Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, and aim to design classifers with multi-view and multi-source information according to the intention of the fraudsters.  
 
-  **Resources** My [blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
+  **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
 
 
   * [More](http://ytongdou.com/projects)
