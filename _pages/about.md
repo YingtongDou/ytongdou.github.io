@@ -19,7 +19,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   * **Robust Spammer Detection by Nash Reinforcement Learning.**  
   **Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
   ACM SIGKDD. 2020.  
-  \[[Paper](https://arxiv.org/pdf/2006.06069.pdf)\]\[[Code](https://github.com/YingtongDou/Nash-Detect)\]\[[Video](https://youtu.be/Pa13fabSGVw)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485268&idx=1&sn=451d137496829d1405c28808ec0bb0b2&chksm=fbfdecc0cc8a65d651600a437043cbb5483bfa16e35c3b1cb3ca60d7ac47e64a3bdd514e357f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib5.txt)\] 
+  \[[Paper](https://arxiv.org/pdf/2006.06069.pdf)\]\[[Code](https://github.com/YingtongDou/Nash-Detect)\]\[[Slides](http://ytongdou.com/files/kdd20slides.pdf)\]\[[Video](https://youtu.be/Pa13fabSGVw)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485268&idx=1&sn=451d137496829d1405c28808ec0bb0b2&chksm=fbfdecc0cc8a65d651600a437043cbb5483bfa16e35c3b1cb3ca60d7ac47e64a3bdd514e357f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib5.txt)\] 
   * **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection.**  
   [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), **Yingtong Dou**, Philip S. Yu, Yutong Deng, Hao Peng.  
   ACM SIGIR. 2020.  
