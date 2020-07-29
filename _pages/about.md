@@ -37,7 +37,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   EMGIS in ACM SIGSPATIAL. 2016.  
   \[[Paper](http://ytongdou.com/files/CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20of%20emergency%20accidents.pdf)\]\[[Slides](http://ytongdou.com/files/CPS%20Model%20based%20opinion.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/Efficient%20CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20for%20emergency%20accidents.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]
 
-## Online Preprints
+## Preprints
   * **Adversarial Attack and Defense on Graph Data: A Survey.**  
   [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Bo Li](https://aisecure.github.io/).  
   Dec. 2018 (Updated in Apr. 2020).  
@@ -69,7 +69,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
 
 
-  * [More](http://ytongdou.com/projects)
+  <!-- * [More](http://ytongdou.com/projects) -->
 
 
 ## Code and Tools
@@ -80,14 +80,15 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
 
 
 ## News
-  * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
+  * \[7/2020\] One paper is accepted by [CIKM 2020](https://www.cikm2020.org/). 
+  * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
   * \[5/2020\] Release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
-  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) was accepted to [SIGIR 2020](https://sigir.org/sigir2020/).  
-  * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) was accepted to [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
-  * \[1/2019\] Move my personal website from Wordpress to Github.  
+  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).  
+  * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) is accepted by [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
+<!--   * \[1/2019\] Move my personal website from Wordpress to Github.  
   * \[1/2019\] Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
   * \[5/2018\] Start summer intern at the Search and Recommendation Group of [Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
-  * \[2/2018\] Publish a [dataset](http://ytongdou.com/blogs/2018/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log between two years.  
-  * \[[More](http://ytongdou.com/news/)\]
+  * \[2/2018\] Publish a [dataset](http://ytongdou.com/blogs/2018/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log between two years.  --> 
+  <!-- * \[[More](http://ytongdou.com/news/)\] -->
 
 ![quote](/images/quote.png){: .align-center}
