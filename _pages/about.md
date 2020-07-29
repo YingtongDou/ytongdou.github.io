@@ -85,10 +85,5 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   * \[5/2020\] Release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
   * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).  
   * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) is accepted by [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
-<!--   * \[1/2019\] Move my personal website from Wordpress to Github.  
-  * \[1/2019\] Give a talk about graph based spammer detection at [Tencent](https://beacon.qq.com).  
-  * \[5/2018\] Start summer intern at the Search and Recommendation Group of [Noah’s Ark Lab](http://www.noahlab.com.hk/#/home).  
-  * \[2/2018\] Publish a [dataset](http://ytongdou.com/blogs/2018/02/wechat-lucky-package/) with Chinese O2O service Wechat lucky package sharing log between two years.  --> 
-  <!-- * \[[More](http://ytongdou.com/news/)\] -->
 
 ![quote](/images/quote.png){: .align-center}
