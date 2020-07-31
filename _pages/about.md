@@ -61,7 +61,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   
   ![projects3](/images/proj3.png){: .align-left} **Introduction** The adversarial behaviors between professional spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to devise robust fraud detectors.
 
-  **Resources** A [survey](https://arxiv.org/abs/1812.10528) of recent advance of spam review detection. A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. [Deep](https://github.com/safe-graph/DGFraud) and [Non-deep](https://github.com/safe-graph/UGFraud) Graph-based Toolbox for Fraud Detection
+  **Resources** A [survey](https://arxiv.org/abs/1812.10528) of recent advance of spam review detection. A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. [Deep](https://github.com/safe-graph/DGFraud) and [Non-deep](https://github.com/safe-graph/UGFraud) Graph-based Toolboxes for Fraud Detection
 
   * **Securing Graph-based Learning Models**
 
@@ -76,10 +76,10 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
 
 ## News
+  * \[8/2020\] Release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud)
   * \[7/2020\] One paper is accepted by [CIKM 2020](https://www.cikm2020.org/). 
   * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
   * \[5/2020\] Release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
   * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).  
-  * \[7/2019\] One [paper](http://ytongdou.com/files/ASONAM2019.pdf) is accepted by [ASONAM 2019](http://asonam.cpsc.ucalgary.ca/2019/index.php).  
 
 ![quote](/images/quote.png){: .align-center}
