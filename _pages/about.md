@@ -9,7 +9,7 @@ redirect_from:
 ![head](/images/new_head.png){: .align-center}
 
 ## Bio
-I am currently a third year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My supervisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
+I am currently a third year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
 My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]
 <p align="center">
@@ -23,7 +23,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   * **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection.**  
   [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), **Yingtong Dou**, Philip S. Yu, Yutong Deng, Hao Peng.  
   ACM SIGIR. 2020.  
-  \[[Paper](https://arxiv.org/pdf/2005.00625.pdf)\]\[[Code](https://github.com/safe-graph/DGFraud)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485139&idx=1&sn=b1f9bebe10a82d21faf770e1c561ec24&chksm=fbfded47cc8a6451a28e0ef7ce65df89cc1bf583e0701e24c5877dd1a92308355917a702360f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib4.txt)\] 
+  \[[Paper](https://arxiv.org/pdf/2005.00625.pdf)\]\[[Code](https://github.com/safe-graph/DGFraud)\]\[[Slides](http://ytongdou.com/files/SIGIR20slides.pdf)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485139&idx=1&sn=b1f9bebe10a82d21faf770e1c561ec24&chksm=fbfded47cc8a6451a28e0ef7ce65df89cc1bf583e0701e24c5877dd1a92308355917a702360f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib4.txt)\] 
   * **Uncovering Download Fraud Activities in Mobile App Markets.**  
   **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
   ACM/IEEE ASONAM. 2019.  
@@ -31,22 +31,29 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   * **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**
   Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, [Nguyen QVH](https://sites.google.com/site/nqvhung/).  
   IEEE Access. 2017.  
-  \[[Paper](http://ytongdou.com/files/A%20Novel%20Centrality%20Cascading%20Based%20Edge%20Parameter%20Evaluation%20Method%20for%20Robust%20Influence%20Maximization.pdf)\]\[[Slides](http://ytongdou.com/files/RIM.pdf)\]\[[Code](https://github.com/YingtongDou/Centrality-Influence-Maximization)\]\[[BibTeX](http://ytongdou.com/files/bib2.txt)\]  
+  \[[Paper](http://ytongdou.com/files/access17.pdf)\]\[[Code](https://github.com/YingtongDou/Centrality-Influence-Maximization)\]\[[Slides](http://ytongdou.com/files/RIM.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib2.txt)\]  
   * **CPS Model Based Online Opinion Governance Modeling and Evaluation of Emergency Accidents.**  
   Xiaolong Deng, **Yingtong Dou**, Yihua Huang.  
   EMGIS in ACM SIGSPATIAL. 2016.  
-  \[[Paper](http://ytongdou.com/files/CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20of%20emergency%20accidents.pdf)\]\[[Slides](http://ytongdou.com/files/CPS%20Model%20based%20opinion.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/Efficient%20CPS%20model%20based%20online%20opinion%20governance%20modeling%20and%20evaluation%20for%20emergency%20accidents.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]
+  \[[Paper](http://ytongdou.com/files/spatial16.pdf)\]\[[Slides](http://ytongdou.com/files/spatial16slides.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/geoinformatica.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]
 
 ## Preprints
   * **Adversarial Attack and Defense on Graph Data: A Survey.**  
   [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Bo Li](https://aisecure.github.io/).  
   Dec. 2018 (Updated in Apr. 2020).  
-  \[[Paper](https://arxiv.org/abs/1812.10528)\]
+  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]
 
   * **A Review of Recent Advance in Online Spam Detection.**  
   **Yingtong Dou**.  
   Mar. 2019.  
-  \[[Paper](http://ytongdou.com/files/A%20Review%20of%20Recent%20Advance%20in%20Online%20Spam%20Detection.pdf)\]\[[Slides](http://ytongdou.com/files/Online%20Spam%20Detection.pdf)\]
+  \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]
+
+## Code and Tools
+
+  * [A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
+  * [An Unsupervised Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/UGFraud)
+  * [Graph Attack/Defense Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
+  * [Graph-based Fraud Detection Literature](https://github.com/safe-graph/graph-fraud-detection-papers)
 
 ## Research Projects
 
@@ -54,7 +61,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   
   ![projects3](/images/proj3.png){: .align-left} **Introduction** The adversarial behaviors between professional spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to devise robust fraud detectors.
 
-  **Resources** A [survey](https://arxiv.org/abs/1812.10528) of recent advance of spam review detection. A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. A Deep Graph-based [Toolbox](https://github.com/safe-graph/DGFraud) for Fraud Detection
+  **Resources** A [survey](https://arxiv.org/abs/1812.10528) of recent advance of spam review detection. A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. [Deep](https://github.com/safe-graph/DGFraud) and [Non-deep](https://github.com/safe-graph/UGFraud) Graph-based Toolbox for Fraud Detection
 
   * **Securing Graph-based Learning Models**
 
@@ -67,17 +74,6 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
   ![projects1](/images/proj1.png){: .align-left} **Introduction** Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, and aim to design classifers with multi-view and multi-source information according to the intention of the fraudsters.  
 
   **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
-
-
-  <!-- * [More](http://ytongdou.com/projects) -->
-
-
-## Code and Tools
-
-  * [A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
-  * [Graph Attack/Defense Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
-  * [Graph-based Fraud Detection Literature](https://github.com/safe-graph/graph-fraud-detection-papers)
-
 
 ## News
   * \[7/2020\] One paper is accepted by [CIKM 2020](https://www.cikm2020.org/). 
