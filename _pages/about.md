@@ -17,7 +17,7 @@ My research interests are **Graph Mining**, **Fraud Detection** and **Secure Mac
 </p>
 ## Publications
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
-**Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu, .  
+**Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
 ACM CIKM. 2020.  
 \[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[Slides\]\[Chinese Blog\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\] 
 * **Robust Spammer Detection by Nash Reinforcement Learning.**  
