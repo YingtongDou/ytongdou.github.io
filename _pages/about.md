@@ -9,7 +9,7 @@ redirect_from:
 ![head](/images/new_head.png){: .align-center}
 
 ## Bio
-I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) of the University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
+I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
 My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]
 <p align="center">
@@ -32,7 +32,7 @@ ACM SIGIR. 2020.
 **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
 ACM/IEEE ASONAM. 2019.  
 \[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Slides](http://ytongdou.com/files/asonam19slides.pdf)\]\[[English Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[BibTeX](http://ytongdou.com/files/bib3.txt)\] 
-* **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**
+* **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**  
 Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, [Nguyen QVH](https://sites.google.com/site/nqvhung/).  
 IEEE Access. 2017.  
 \[[Paper](http://ytongdou.com/files/access17.pdf)\]\[[Code](https://github.com/YingtongDou/Centrality-Influence-Maximization)\]\[[Slides](http://ytongdou.com/files/RIM.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib2.txt)\]  
