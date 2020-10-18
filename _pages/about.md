@@ -80,7 +80,8 @@ EMGIS in ACM SIGSPATIAL. 2016.
   **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
 
 ## News
-  * \[8/2020\] Release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud)
+  * \[10/2020\] I've been invited to serve as PC members for AAAI-21 and IJCAI-21.
+  * \[8/2020\] Release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud).
   * \[7/2020\] One paper is accepted by [CIKM 2020](https://www.cikm2020.org/). 
   * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
   * \[5/2020\] Release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
