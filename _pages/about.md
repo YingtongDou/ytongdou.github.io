@@ -71,7 +71,7 @@ EMGIS in ACM SIGSPATIAL. 2016.
 
   ![projects2](/images/proj2.png){: .align-left} **Introduction** Despite the advance of graph-based learning models like probabilistic graphical models and graph neural networks, their applications to various areas also face diverse threats. We investigate the practical threats of SOTA models and secure them from multiple channels.
 
-  **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A curated [list](https://github.com/safe-graph/graph-adversarial-learning-literature) of up-to-date papers on graph adversarial learning.  
+  **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A [list](https://github.com/safe-graph/graph-adversarial-learning-literature) of papers on graph adversarial learning.  
 
   * **Suspicious Behavior Modeling in Mobile App Markets**
   
