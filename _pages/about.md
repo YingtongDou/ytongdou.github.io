@@ -44,7 +44,7 @@ EMGIS in ACM SIGSPATIAL. 2016.
 ## Preprints
   * **Adversarial Attack and Defense on Graph Data: A Survey.**  
   [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Bo Li](https://aisecure.github.io/).  
-  Dec. 2018 (Updated in Apr. 2020).  
+  Dec. 2018 (Updated in Jul. 2020).  
   \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]
 
   * **A Review of Recent Advance in Online Spam Detection.**  
