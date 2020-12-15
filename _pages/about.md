@@ -9,12 +9,24 @@ redirect_from:
 ![head](/images/new_head.png){: .align-center}
 
 ## Bio
-I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
+I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]
 
-My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]
+I am open to collaboration opportunities in fraud detection and graph mining. You can contact me via email (ytongdou AT gmail.com) or WeChat (id: ytongdou).
+
 <p align="center">
 <a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a>    
 </p>
+
+## News
+  * \[12/2020\] I will join [Snap Research](https://research.snap.com/) as a Research Intern in Summer 2021.
+  * \[10/2020\] I've been invited to serve as PC members for [AAAI-21](https://aaai.org/Conferences/AAAI-21/) and [IJCAI-21](https://ijcai-21.org/).
+  * \[8/2020\] We release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud).
+  * \[7/2020\] One [paper](https://arxiv.org/pdf/2008.08692.pdf) is accepted by [CIKM 2020](https://www.cikm2020.org/). 
+  * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
+  * \[5/2020\] We release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
+  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).  
+
+
 ## Publications
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
 **Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
@@ -79,12 +91,5 @@ EMGIS in ACM SIGSPATIAL. 2016.
 
   **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
 
-## News
-  * \[10/2020\] I've been invited to serve as PC members for AAAI-21 and IJCAI-21.
-  * \[8/2020\] Release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud).
-  * \[7/2020\] One paper is accepted by [CIKM 2020](https://www.cikm2020.org/). 
-  * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
-  * \[5/2020\] Release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
-  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).  
 
 ![quote](/images/quote.png){: .align-center}
