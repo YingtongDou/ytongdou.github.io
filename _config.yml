@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yingtong Dou 窦英通"
   avatar           : "selfie photo.jpg"
-  bio              : "3rd year CS PhD student @UIC"
+  bio              : "4th year CS PhD student @UIC"
   location         : "Chicago, Illinois"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "dozee_sim"
   vine             :
   weibo            :
   xing             :
@@ -207,7 +207,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # # _misc
   # - scope:
   #     path: ""
