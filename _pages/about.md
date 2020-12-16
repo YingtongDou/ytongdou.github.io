@@ -9,7 +9,7 @@ redirect_from:
 ![head](/images/new_head.png){: .align-center}
 
 ## Bio
-I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]
+I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**. \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]  
 
 I am open to collaboration opportunities in fraud detection and graph mining. You can contact me via email (ytongdou AT gmail.com) or WeChat (id: ytongdou).
 
@@ -25,6 +25,16 @@ I am open to collaboration opportunities in fraud detection and graph mining. Yo
   * \[5/2020\] We release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
   * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).  
 
+## Preprints
+  * **Adversarial Attack and Defense on Graph Data: A Survey.**  
+  [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Bo Li](https://aisecure.github.io/).  
+  Dec. 2018 (Updated in Jul. 2020).  
+  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]
+
+  * **A Review of Recent Advance in Online Spam Detection.**  
+  **Yingtong Dou**.  
+  Mar. 2019.  
+  \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]  
 
 ## Publications
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
@@ -50,43 +60,32 @@ IEEE Access. 2017.
 * **CPS Model Based Online Opinion Governance Modeling and Evaluation of Emergency Accidents.**  
 Xiaolong Deng, **Yingtong Dou**, Yihua Huang.  
 EMGIS in ACM SIGSPATIAL. 2016.  
-\[[Paper](http://ytongdou.com/files/spatial16.pdf)\]\[[Slides](http://ytongdou.com/files/spatial16slides.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/geoinformatica.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]
-
-## Preprints
-  * **Adversarial Attack and Defense on Graph Data: A Survey.**  
-  [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Bo Li](https://aisecure.github.io/).  
-  Dec. 2018 (Updated in Jul. 2020).  
-  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]
-
-  * **A Review of Recent Advance in Online Spam Detection.**  
-  **Yingtong Dou**.  
-  Mar. 2019.  
-  \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]
+\[[Paper](http://ytongdou.com/files/spatial16.pdf)\]\[[Slides](http://ytongdou.com/files/spatial16slides.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/geoinformatica.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]  
 
 ## Code and Tools
 
   * [A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
   * [An Unsupervised Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/UGFraud)
   * [Graph Attack/Defense Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
-  * [Graph-based Fraud Detection Literature](https://github.com/safe-graph/graph-fraud-detection-papers)
+  * [Graph-based Fraud Detection Literature](https://github.com/safe-graph/graph-fraud-detection-papers)  
 
 ## Research Projects
 
   * **Robust Fraud Detection**
   
-  ![projects3](/images/proj3.png){: .align-left} **Introduction** The adversarial behaviors between advanced spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to simulate the adversarial behavior between two sides and devise robust fraud detectors.  
+  ![projects3](/images/proj03.png){: .align-left} **Introduction** The adversarial behaviors between advanced spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to simulate the adversarial behavior between two sides and devise robust fraud detectors.  
 
   **Resources** [Project Homepage](https://bdsc.lab.uic.edu/NSF1930941.html). A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. [Deep](https://github.com/safe-graph/DGFraud) and [Non-deep](https://github.com/safe-graph/UGFraud) Graph-based Toolboxes for Fraud Detection.  
 
   * **Securing Graph-based Learning Models**
 
-  ![projects2](/images/proj2.png){: .align-left} **Introduction** Despite the advance of graph-based learning models like probabilistic graphical models and graph neural networks, their applications to various areas also face diverse threats. We investigate the practical threats of SOTA models and secure them from multiple channels.  
+  ![projects2](/images/proj02.png){: .align-left} **Introduction** Despite the advance of graph-based learning models like probabilistic graphical models and graph neural networks, their applications to various areas also face diverse threats. We investigate the practical threats of SOTA models and secure them from multiple channels.  
 
   **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A [list](https://github.com/safe-graph/graph-adversarial-learning-literature) of papers on graph adversarial learning.  
 
   * **Suspicious Behavior Modeling in Mobile App Markets**
   
-  ![projects1](/images/proj1.png){: .align-left} **Introduction** Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, and aim to design classifers with multi-view and multi-source information according to the intention of the fraudsters.  
+  ![projects1](/images/proj01.png){: .align-left} **Introduction** Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, and aim to design classifers with multi-view and multi-source information according to the intention of the fraudsters.  
 
   **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
 
