@@ -85,7 +85,7 @@ EMGIS in ACM SIGSPATIAL. 2016.
 
   **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A [list](https://github.com/safe-graph/graph-adversarial-learning-literature) of papers on graph adversarial learning.  
 
-<br/>
+  <br/>
 
   * **Suspicious Behavior Modeling in Mobile App Markets**
   
