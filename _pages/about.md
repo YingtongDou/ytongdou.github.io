@@ -77,11 +77,16 @@ EMGIS in ACM SIGSPATIAL. 2016.
 
   **Resources** [Project Homepage](https://bdsc.lab.uic.edu/NSF1930941.html). A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. [Deep](https://github.com/safe-graph/DGFraud) and [Non-deep](https://github.com/safe-graph/UGFraud) Graph-based Toolboxes for Fraud Detection.  
 
+  <br/><br/>
+  <br/><br/>
+
   * **Securing Graph-based Learning Models**
 
   ![projects2](/images/proj2.png){: .align-left} **Introduction** Despite the advance of graph-based learning models like probabilistic graphical models and graph neural networks, their applications to various areas also face diverse threats. We investigate the practical threats of SOTA models and secure them from multiple channels.  
 
   **Resources** A [survey](https://arxiv.org/abs/1812.10528) from our lab on adversarial attack and defense on graph data. A [list](https://github.com/safe-graph/graph-adversarial-learning-literature) of papers on graph adversarial learning.  
+
+<br/><br/>
 
   * **Suspicious Behavior Modeling in Mobile App Markets**
   
