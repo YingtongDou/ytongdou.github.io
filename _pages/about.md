@@ -91,4 +91,4 @@ EMGIS in ACM SIGSPATIAL. 2016.
   **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
 
 
-![quote](/images/quote.png){: .align-center}
+<!-- ![quote](/images/quote.png){: .align-center} -->
