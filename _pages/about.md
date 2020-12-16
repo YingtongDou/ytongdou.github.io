@@ -74,7 +74,7 @@ EMGIS in ACM SIGSPATIAL. 2016.
 
   * **Robust Fraud Detection**
   
-  ![projects3](/images/proj3.png){: .align-left} **Introduction** The adversarial behaviors between professional spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to devise robust fraud detectors.  
+  ![projects3](/images/proj3.png){: .align-left} **Introduction** The adversarial behaviors between advanced spammers and the defenders make the fraud detection problem more challenging. We employ various machine learning methods to simulate the adversarial behavior between two sides and devise robust fraud detectors.  
 
   **Resources** [Project Homepage](https://bdsc.lab.uic.edu/NSF1930941.html). A curated [list](https://github.com/safe-graph/graph-fraud-detection-papers) of up-to-date papers on fraud detection. [Deep](https://github.com/safe-graph/DGFraud) and [Non-deep](https://github.com/safe-graph/UGFraud) Graph-based Toolboxes for Fraud Detection.  
 
