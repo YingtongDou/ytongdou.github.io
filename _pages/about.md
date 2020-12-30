@@ -18,12 +18,13 @@ I am open to collaboration opportunities in fraud detection and graph mining. Yo
 </p>
 
 ## News
+  * \[12/2020\] I will join the Computational Social Science Team @[Snap Research](https://research.snap.com/) as a research intern in Summer 2021.
   * \[10/2020\] I've been invited to serve as PC members for [AAAI-21](https://aaai.org/Conferences/AAAI-21/) and [IJCAI-21](https://ijcai-21.org/).
   * \[8/2020\] We release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud).
   * \[7/2020\] One [paper](https://arxiv.org/pdf/2008.08692.pdf) is accepted by [CIKM 2020](https://www.cikm2020.org/). 
   * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
   * \[5/2020\] We release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
-  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).  
+ <!--  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).   -->
 
 ## Preprints
   * **Adversarial Attack and Defense on Graph Data: A Survey.**  
