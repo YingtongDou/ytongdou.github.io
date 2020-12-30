@@ -18,7 +18,7 @@ I am open to collaboration opportunities in fraud detection and graph mining. Yo
 </p>
 
 ## News
-  * \[12/2020\] I will join the Computational Social Science Team @[Snap Research](https://research.snap.com/) as a research intern in Summer 2021.
+  * \[12/2020\] I will join the [Snap Research](https://research.snap.com/) as a research intern in Summer 2021.
   * \[10/2020\] I've been invited to serve as PC members for [AAAI-21](https://aaai.org/Conferences/AAAI-21/) and [IJCAI-21](https://ijcai-21.org/).
   * \[8/2020\] We release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud).
   * \[7/2020\] One [paper](https://arxiv.org/pdf/2008.08692.pdf) is accepted by [CIKM 2020](https://www.cikm2020.org/). 
