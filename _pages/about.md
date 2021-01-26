@@ -20,12 +20,13 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[1/2021\] One [paper](https://arxiv.org/pdf/2101.08747.pdf) is accepted by [The Web Conference 2021](https://www2021.thewebconf.org/).
   * \[12/2020\] I will join [Snap Research](https://research.snap.com/) as a research intern in Summer 2021.
   * \[10/2020\] I've been invited to serve as PC members for [AAAI-21](https://aaai.org/Conferences/AAAI-21/) and [IJCAI-21](https://ijcai-21.org/).
   * \[8/2020\] We release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud).
   * \[7/2020\] One [paper](https://arxiv.org/pdf/2008.08692.pdf) is accepted by [CIKM 2020](https://www.cikm2020.org/). 
   * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
-  * \[5/2020\] We release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud). 
+  <!-- * \[5/2020\] We release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud).  -->
  <!--  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).   -->
 
 ## Preprints
@@ -40,26 +41,36 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
   \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]  
 
 ## Publications
+* **Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs.**  
+Yuwei Cao, [Hao Peng](https://penghao-buaa.github.io/), [Jia Wu](http://web.science.mq.edu.au/~jiawu/), **Yingtong Dou**, Jianxin Li, Philip S. Yu.  
+The Web Conference. 2021.  
+\[[Paper](https://arxiv.org/pdf/2101.08747.pdf)\]\[[Code](https://github.com/RingBDStack/KPGNN)\]\[[BibTeX](http://ytongdou.com/files/bib7.txt)\]
+
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
 **Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
 ACM CIKM. 2020.  
-\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\] 
+\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\]
+
 * **Robust Spammer Detection by Nash Reinforcement Learning.**  
 **Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
 ACM SIGKDD. 2020.  
-\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)\]\[[Code](https://github.com/YingtongDou/Nash-Detect)\]\[[Slides](http://ytongdou.com/files/kdd20slides.pdf)\]\[[Video](https://youtu.be/Pa13fabSGVw)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485268&idx=1&sn=451d137496829d1405c28808ec0bb0b2&chksm=fbfdecc0cc8a65d651600a437043cbb5483bfa16e35c3b1cb3ca60d7ac47e64a3bdd514e357f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib5.txt)\] 
+\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)\]\[[Code](https://github.com/YingtongDou/Nash-Detect)\]\[[Slides](http://ytongdou.com/files/kdd20slides.pdf)\]\[[Video](https://youtu.be/Pa13fabSGVw)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485268&idx=1&sn=451d137496829d1405c28808ec0bb0b2&chksm=fbfdecc0cc8a65d651600a437043cbb5483bfa16e35c3b1cb3ca60d7ac47e64a3bdd514e357f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib5.txt)\]
+
 * **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection.**  
 [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), **Yingtong Dou**, Philip S. Yu, Yutong Deng, Hao Peng.  
 ACM SIGIR. 2020.  
-\[[Paper](https://arxiv.org/pdf/2005.00625.pdf)\]\[[Code](https://github.com/safe-graph/DGFraud/tree/master/algorithms/GraphConsis)\]\[[Slides](http://ytongdou.com/files/SIGIR20slides.pdf)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485139&idx=1&sn=b1f9bebe10a82d21faf770e1c561ec24&chksm=fbfded47cc8a6451a28e0ef7ce65df89cc1bf583e0701e24c5877dd1a92308355917a702360f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib4.txt)\] 
+\[[Paper](https://arxiv.org/pdf/2005.00625.pdf)\]\[[Code](https://github.com/safe-graph/DGFraud/tree/master/algorithms/GraphConsis)\]\[[Slides](http://ytongdou.com/files/SIGIR20slides.pdf)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485139&idx=1&sn=b1f9bebe10a82d21faf770e1c561ec24&chksm=fbfded47cc8a6451a28e0ef7ce65df89cc1bf583e0701e24c5877dd1a92308355917a702360f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib4.txt)\]
+
 * **Uncovering Download Fraud Activities in Mobile App Markets.**  
 **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
 ACM/IEEE ASONAM. 2019.  
-\[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Slides](http://ytongdou.com/files/asonam19slides.pdf)\]\[[English Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[BibTeX](http://ytongdou.com/files/bib3.txt)\] 
+\[[Paper](http://ytongdou.com/files/ASONAM2019.pdf)\]\[[Slides](http://ytongdou.com/files/asonam19slides.pdf)\]\[[English Blog](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b)\]\[[BibTeX](http://ytongdou.com/files/bib3.txt)\]
+
 * **A Novel Centrality Cascading Based Edge Parameter Evaluation Method for Robust Influence Maximization.**  
 Xiaolong Deng, **Yingtong Dou**, Tiejun Lv, [Nguyen QVH](https://sites.google.com/site/nqvhung/).  
 IEEE Access. 2017.  
-\[[Paper](http://ytongdou.com/files/access17.pdf)\]\[[Code](https://github.com/YingtongDou/Centrality-Influence-Maximization)\]\[[Slides](http://ytongdou.com/files/RIM.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib2.txt)\]  
+\[[Paper](http://ytongdou.com/files/access17.pdf)\]\[[Code](https://github.com/YingtongDou/Centrality-Influence-Maximization)\]\[[Slides](http://ytongdou.com/files/RIM.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib2.txt)\]
+
 * **CPS Model Based Online Opinion Governance Modeling and Evaluation of Emergency Accidents.**  
 Xiaolong Deng, **Yingtong Dou**, Yihua Huang.  
 EMGIS in ACM SIGSPATIAL. 2016.  

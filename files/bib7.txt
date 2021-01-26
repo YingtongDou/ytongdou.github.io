@@ -1,0 +1,6 @@
+@inproceedings{cao2021knowledge,
+  title={Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs},
+  author={Cao, Yuwei and Peng, Hao and Wu, Jia and Dou, Yingtong and Li, Jianxin and Yu, Philip S},
+  booktitle={Proceedings of The Web Conference 2021},
+  year={2021}
+}
