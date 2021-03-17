@@ -33,7 +33,7 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
   * **Adversarial Attack and Defense on Graph Data: A Survey.**  
   [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Bo Li](https://aisecure.github.io/).  
   Dec. 2018 (Updated in Jul. 2020).  
-  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]
+  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]
 
   * **A Review of Recent Advance in Online Spam Detection.**  
   **Yingtong Dou**.  
@@ -76,7 +76,7 @@ Xiaolong Deng, **Yingtong Dou**, Yihua Huang.
 EMGIS in ACM SIGSPATIAL. 2016.  
 \[[Paper](http://ytongdou.com/files/spatial16.pdf)\]\[[Slides](http://ytongdou.com/files/spatial16slides.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/geoinformatica.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]  
 
-## Code and Tools
+## Code and Resources
 
   * [A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
   * [An Unsupervised Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/UGFraud)
