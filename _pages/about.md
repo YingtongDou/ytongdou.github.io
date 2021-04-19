@@ -20,27 +20,49 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[4/2021\] Two papers are accepted by [SIGIR 2021](https://sigir.org/sigir2021/).
+  * \[4/2021\] One [paper](http://arxiv.org/abs/2104.07892) is accepted by [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).
   * \[1/2021\] One [paper](https://arxiv.org/pdf/2101.08747.pdf) is accepted by [The Web Conference 2021](https://www2021.thewebconf.org/).
   * \[12/2020\] I will join [Snap Research](https://research.snap.com/) as a research intern in Summer 2021.
   * \[10/2020\] I've been invited to serve as PC members for [AAAI-21](https://aaai.org/Conferences/AAAI-21/) and [IJCAI-21](https://ijcai-21.org/).
   * \[8/2020\] We release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud).
-  * \[7/2020\] One [paper](https://arxiv.org/pdf/2008.08692.pdf) is accepted by [CIKM 2020](https://www.cikm2020.org/). 
-  * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/). 
+<!--   * \[7/2020\] One [paper](https://arxiv.org/pdf/2008.08692.pdf) is accepted by [CIKM 2020](https://www.cikm2020.org/). 
+  * \[5/2020\] One [paper](https://arxiv.org/abs/2006.06069) is accepted by [KDD 2020](https://www.kdd.org/kdd2020/).  -->
   <!-- * \[5/2020\] We release a [Deep Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud).  -->
  <!--  * \[4/2020\] One [paper](https://arxiv.org/pdf/2005.00625.pdf) is accepted by [SIGIR 2020](https://sigir.org/sigir2020/).   -->
 
 ## Preprints
+  * **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks.**  
+  [Hao Peng](https://penghao-buaa.github.io/), Ruitong Zhang, **Yingtong Dou**, [Renyu Yang](https://yangrenyu.github.io/), Jingyi Zhang, Philip S. Yu.  
+  Under Review. Apr. 2021.  
+  \[[Paper](http://arxiv.org/pdf/2104.07886.pdf)\][[Code](https://github.com/safe-graph/RioGNN)\]\[[BibTeX](http://ytongdou.com/files/bib11.txt)\]
+
   * **Adversarial Attack and Defense on Graph Data: A Survey.**  
-  [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Bo Li](https://aisecure.github.io/).  
-  Dec. 2018 (Updated in Jul. 2020).  
-  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]
+  [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+  Under Review. Dec. 2018 (Updated in Jul. 2020).  
+  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
 
   * **A Review of Recent Advance in Online Spam Detection.**  
   **Yingtong Dou**.  
-  Mar. 2019.  
-  \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]  
+  Technical Report. Mar. 2019.  
+  \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib9.txt)\]  
 
 ## Publications
+* **User Preference-aware Fake News Detection.**  
+**Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
+ACM SIGIR. 2021.  
+\[Paper]\]\[Code\]\[BibTeX\]
+
+* **ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation.**  
+Liangwei Yang, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), **Yingtong Dou**, Jing Ma, Philip S. Yu.  
+ACM SIGIR. 2021.  
+\[Paper]\]\[Code\]\[BibTeX\]
+
+* **Higher-Order Attribute-Enhancing Heterogeneous Graph Neural Networks.**  
+Jianxin Li, [Hao Peng](https://penghao-buaa.github.io/), Yuwei Cao, **Yingtong Dou**, Hekai Zhang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he).  
+IEEE TKDE. 2021.  
+\[[Paper](https://arxiv.org/pdf/2104.07892.pdf)\]\[[Code](https://github.com/RingBDStack/HAE)\]\[[BibTeX](http://ytongdou.com/files/bib8.txt)\]
+
 * **Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs.**  
 Yuwei Cao, [Hao Peng](https://penghao-buaa.github.io/), [Jia Wu](http://web.science.mq.edu.au/~jiawu/), **Yingtong Dou**, Jianxin Li, Philip S. Yu.  
 The Web Conference. 2021.  

@@ -1,0 +1,7 @@
+@article{li2021higher,
+  title={Higher-Order Attribute-Enhancing Heterogeneous Graph Neural Networks},
+  author={Li, Jianxin and Peng, Hao and Cao, Yuwei and Dou, Yingtong and Zhang, Hekai and Yu, Philip and He, Lifang},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2021},
+  publisher={IEEE}
+}

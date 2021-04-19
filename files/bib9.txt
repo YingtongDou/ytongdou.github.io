@@ -1,0 +1,6 @@
+@article{dou2019review,
+  title={A review of recent advance in online spam detection},
+  author={Dou, Yingtong},
+  journal={Technical Report}
+  year={2019}
+}
