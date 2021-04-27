@@ -20,7 +20,7 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
-  * \[5/2021\] We release a GNN-based Fake News Detection [repo](https://github.com/safe-graph/GNN-FakeNews) with two news propagation graph datasets.
+  * \[5/2021\] We release a GNN-based Fake News Detection [Repo](https://github.com/safe-graph/GNN-FakeNews) with two news propagation graph datasets.
   * \[4/2021\] Two papers are accepted by [SIGIR 2021](https://sigir.org/sigir2021/).
   * \[4/2021\] One [paper](http://arxiv.org/abs/2104.07892) is accepted by [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).
   * \[1/2021\] One [paper](https://arxiv.org/pdf/2101.08747.pdf) is accepted by [The Web Conference 2021](https://www2021.thewebconf.org/).
@@ -108,6 +108,9 @@ EMGIS in ACM SIGSPATIAL. 2016.
   
   ![projects4](/images/proj4.png){: .align-left} **Introduction** We investigate various problems and challenges regarding fact-checking and fake news classification tasks. Some of the problems are: user endogeneous preference encoding, zero/few-shot fake news detection, and fake news detection under adversarial settings.  
 
+  <br/>
+  <br/>
+  
   **Resources** [Project Homepage](https://bdsc.lab.uic.edu/NSF1930941.html). A [collection](https://github.com/safe-graph/GNN-FakeNews) of GNN-based fake news detectors and two fake news propagation graph datasets.  
 
   <br/>
