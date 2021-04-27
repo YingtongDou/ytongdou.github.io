@@ -20,12 +20,12 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[5/2021\] We release a GNN-based Fake News Detection [repo](https://github.com/safe-graph/GNN-FakeNews) with two news propagation graph datasets.
   * \[4/2021\] Two papers are accepted by [SIGIR 2021](https://sigir.org/sigir2021/).
   * \[4/2021\] One [paper](http://arxiv.org/abs/2104.07892) is accepted by [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).
   * \[1/2021\] One [paper](https://arxiv.org/pdf/2101.08747.pdf) is accepted by [The Web Conference 2021](https://www2021.thewebconf.org/).
   * \[12/2020\] I will join [Snap Research](https://research.snap.com/) as a research intern in Summer 2021.
   * \[10/2020\] I've been invited to serve as PC members for [AAAI-21](https://aaai.org/Conferences/AAAI-21/) and [IJCAI-21](https://ijcai-21.org/).
-  * \[8/2020\] We release an [Unsupervised Graph-based Fraud Detection Toolbox](https://github.com/safe-graph/UGFraud).
 
 
 ## Preprints
@@ -48,7 +48,7 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 * **User Preference-aware Fake News Detection.**  
 **Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
 ACM SIGIR. 2021.  
-\[Paper]\]\[Code\]\[BibTeX\]
+\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)\]\[[Code](https://github.com/safe-graph/GNN-FakeNews)\]\[[BibTeX](http://ytongdou.com/files/bib12.txt)\]
 
 * **ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation.**  
 Liangwei Yang, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), **Yingtong Dou**, Jing Ma, Philip S. Yu.  
@@ -96,13 +96,21 @@ EMGIS in ACM SIGSPATIAL. 2016.
 \[[Paper](http://ytongdou.com/files/spatial16.pdf)\]\[[Slides](http://ytongdou.com/files/spatial16slides.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/geoinformatica.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]  
 
 ## Code and Resources
-
+  * [GNN-based Fake News Detection](https://github.com/safe-graph/GNN-FakeNews)
   * [A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
   * [An Unsupervised Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/UGFraud)
   * [Graph Attack/Defense Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
   * [Graph-based Fraud Detection Literature](https://github.com/safe-graph/graph-fraud-detection-papers)  
 
 ## Research Projects
+  
+  * **Misinformation Detection**
+  
+  ![projects4](/images/proj4.png){: .align-left} **Introduction** We investigate various problems and challenges regarding fact-checking and fake news classification tasks. Some of the problems are: user endogeneous preference encoding, zero/few-shot fake news detection, and fake news detection under adversarial settings.  
+
+  **Resources** [Project Homepage](https://bdsc.lab.uic.edu/NSF1930941.html). A [collection](https://github.com/safe-graph/GNN-FakeNews) of GNN-based fake news detectors and two fake news propagation graph datasets.  
+
+  <br/>
 
   * **Robust Fraud Detection**
   
