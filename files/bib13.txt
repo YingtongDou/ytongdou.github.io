@@ -1,0 +1,6 @@
+@inproceedings{yang2021consisrec,
+  title={ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation},
+  author={Yang, Liangwei and Liu, Zhiwei and Dou, Yingtong and Ma, Jing and Yu, Philip S.},
+  booktitle={Proceedings of the 44nd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  year={2021}
+}

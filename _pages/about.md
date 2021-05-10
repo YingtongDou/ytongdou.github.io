@@ -53,7 +53,7 @@ ACM SIGIR. 2021.
 * **ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation.**  
 Liangwei Yang, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), **Yingtong Dou**, Jing Ma, Philip S. Yu.  
 ACM SIGIR. 2021.  
-\[Paper]\]\[Code\]\[BibTeX\]
+\[[Paper](https://arxiv.org/pdf/2105.02254.pdf)\]\[[Code](https://github.com/YangLiangwei/ConsisRec)\]\[[BibTeX](http://ytongdou.com/files/bib13.txt)\]
 
 * **Higher-Order Attribute-Enhancing Heterogeneous Graph Neural Networks.**  
 Jianxin Li, [Hao Peng](https://penghao-buaa.github.io/), Yuwei Cao, **Yingtong Dou**, Hekai Zhang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he).  
@@ -108,7 +108,7 @@ EMGIS in ACM SIGSPATIAL. 2016.
   
   ![projects4](/images/proj4.png){: .align-left} **Introduction** We investigate various problems and challenges regarding fact-checking and fake news classification tasks. Some of the problems are: user endogeneous preference encoding, zero/few-shot fake news detection, and fake news detection under adversarial settings.  
 
-  **Resources** [Project Homepage](https://bdsc.lab.uic.edu/NSF1930941.html). A [collection](https://github.com/safe-graph/GNN-FakeNews) of GNN-based fake news detectors and two fake news propagation graph datasets.  
+  **Resources** [Project Homepage](https://bdsc.lab.uic.edu/NSF1930941.html). A [collection](https://github.com/safe-graph/GNN-FakeNews) of GNN-based fake news detectors and two fake news propagation graph datasets. [Benchmarking](https://paperswithcode.com/dataset/upfd) GNN-based fake news detection.  
 
   <br/>
 
