@@ -20,13 +20,12 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[5/2021\] I've been invited to serve as a PC member for [ASONAM-21](https://asonam.cpsc.ucalgary.ca/2021/index.php).
   * \[5/2021\] We release a GNN-based Fake News Detection [Repo](https://github.com/safe-graph/GNN-FakeNews) with two news propagation graph datasets.
   * \[4/2021\] Two papers are accepted by [SIGIR 2021](https://sigir.org/sigir2021/).
   * \[4/2021\] One [paper](http://arxiv.org/abs/2104.07892) is accepted by [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).
   * \[1/2021\] One [paper](https://arxiv.org/pdf/2101.08747.pdf) is accepted by [The Web Conference 2021](https://www2021.thewebconf.org/).
   * \[12/2020\] I will join [Snap Research](https://research.snap.com/) as a research intern in Summer 2021.
-  * \[10/2020\] I've been invited to serve as PC members for [AAAI-21](https://aaai.org/Conferences/AAAI-21/) and [IJCAI-21](https://ijcai-21.org/).
-
 
 ## Preprints
   * **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks.**  
