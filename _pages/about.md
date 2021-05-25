@@ -20,12 +20,13 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[5/2021\] Our GNN-based Fraud Detection toolbox [DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2) has upgraded to TensorFlow 2.0.
   * \[5/2021\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
   * \[5/2021\] Be invited to serve as a PC member for [ASONAM 2021](https://asonam.cpsc.ucalgary.ca/2021/index.php).
   * \[5/2021\] Release a GNN-based Fake News Detection [Repo](https://github.com/safe-graph/GNN-FakeNews) with two news propagation graph datasets.
   * \[4/2021\] Two papers are accepted by [SIGIR 2021](https://sigir.org/sigir2021/).
   * \[4/2021\] One [paper](http://arxiv.org/abs/2104.07892) is accepted by [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).
-  * \[1/2021\] One [paper](https://arxiv.org/pdf/2101.08747.pdf) is accepted by [The Web Conference 2021](https://www2021.thewebconf.org/).
+
 
 ## Preprints
   * **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks.**  
@@ -96,7 +97,8 @@ EMGIS in ACM SIGSPATIAL. 2016.
 
 ## Code and Resources
   * [GNN-based Fake News Detection](https://github.com/safe-graph/GNN-FakeNews)
-  * [A Deep Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/DGFraud)
+  * [A Deep Graph-based Toolbox for Fraud Detection in TensorFlow 1.0](https://github.com/safe-graph/DGFraud)
+  * [A Deep Graph-based Toolbox for Fraud Detection in TensorFlow 2.0](https://github.com/safe-graph/DGFraud-TF2)
   * [An Unsupervised Graph-based Toolbox for Fraud Detection](https://github.com/safe-graph/UGFraud)
   * [Graph Attack/Defense Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
   * [Graph-based Fraud Detection Literature](https://github.com/safe-graph/graph-fraud-detection-papers)  
