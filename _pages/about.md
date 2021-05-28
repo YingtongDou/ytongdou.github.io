@@ -20,12 +20,12 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[5/2021\] Our fake news propagation graph dataset has been added to [PyG](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py) and [DGL](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py) as a graph classification benchmark.
   * \[5/2021\] Our GNN-based Fraud Detection toolbox [DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2) has upgraded to TensorFlow 2.0.
   * \[5/2021\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
   * \[5/2021\] Be invited to serve as a PC member for [ASONAM 2021](https://asonam.cpsc.ucalgary.ca/2021/index.php).
   * \[5/2021\] Release a GNN-based Fake News Detection [Repo](https://github.com/safe-graph/GNN-FakeNews) with two news propagation graph datasets.
   * \[4/2021\] Two papers are accepted by [SIGIR 2021](https://sigir.org/sigir2021/).
-  * \[4/2021\] One [paper](http://arxiv.org/abs/2104.07892) is accepted by [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).
 
 
 ## Preprints
@@ -48,7 +48,7 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 * **User Preference-aware Fake News Detection.**  
 **Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
 ACM SIGIR. 2021.  
-\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)\]\[[Code](https://github.com/safe-graph/GNN-FakeNews)\]\[[Data](https://paperswithcode.com/dataset/upfd)\]\[[BibTeX](http://ytongdou.com/files/bib12.txt)\]
+\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)\]\[[Code](https://github.com/safe-graph/GNN-FakeNews)\]\[[PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)\]\[[DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)\]\[[Data](https://paperswithcode.com/dataset/upfd)\]\[[BibTeX](http://ytongdou.com/files/bib12.txt)\]
 
 * **ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation.**  
 Liangwei Yang, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), **Yingtong Dou**, Jing Ma, Philip S. Yu.  
