@@ -9,7 +9,7 @@ redirect_from:
 ![head](/images/new_head.png){: .align-center}
 
 ## Bio
-I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection** and **Secure Machine Learning**.  
+I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
 \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]   
 
@@ -20,12 +20,12 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[6/2021\] Start the summer intern at [Snap Research](https://research.snap.com/).
   * \[5/2021\] Our [fake news dataset](https://github.com/safe-graph/GNN-FakeNews) has been added to [PyG](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py) and [DGL](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py) as a graph classification benchmark.
   * \[5/2021\] Our GNN-based Fraud Detection toolbox [DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2) has upgraded to TensorFlow 2.0.
   * \[5/2021\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
   * \[5/2021\] Be invited to serve as a PC member for [ASONAM 2021](https://asonam.cpsc.ucalgary.ca/2021/index.php).
   * \[5/2021\] Release a GNN-based Fake News Detection [Repo](https://github.com/safe-graph/GNN-FakeNews) with two news propagation graph datasets.
-  * \[4/2021\] Two papers are accepted by [SIGIR 2021](https://sigir.org/sigir2021/).
 
 
 ## Preprints
