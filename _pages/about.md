@@ -9,7 +9,7 @@ redirect_from:
 ![head](/images/new_head.png){: .align-center}
 
 ## Bio
-I am currently a fourth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
+I am currently a fifth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
 \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]   
 
