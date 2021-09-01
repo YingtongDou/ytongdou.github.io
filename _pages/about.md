@@ -20,12 +20,16 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[8/2021\] The [CARE-GNN](https://arxiv.org/pdf/2008.08692.pdf) model proposed by us has been integrated with [DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn).
   * \[8/2021\] Be invited to serve as a PC member for [WSDM 2022](https://www.wsdm-conference.org/2022/).
   * \[7/2021\] Be invited to serve as a PC member for [IJCAI 2022-2024](https://www.ijcai.org/).
   * \[6/2021\] Start the summer intern at [Snap Research](https://research.snap.com/).
   * \[5/2021\] Our [fake news dataset](https://github.com/safe-graph/GNN-FakeNews) has been added to [PyG](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py) and [DGL](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py) as a graph classification benchmark.
   * \[5/2021\] Our GNN-based Fraud Detection toolbox [DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2) has upgraded to TensorFlow 2.0.
-  * \[5/2021\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
+
+## Talks and Blogs
+  * \[5/2021\] \[Talk\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
+  * \[7/2019\] \[Blog\] [Tackling Fake Downloads in Mobile App Markets](https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd).
 
 
 ## Preprints
@@ -68,7 +72,7 @@ The Web Conference. 2021.
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
 **Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
 ACM CIKM. 2020.  
-\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\]
+\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\]
 
 * **Robust Spammer Detection by Nash Reinforcement Learning.**  
 **Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
