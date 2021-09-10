@@ -2,7 +2,6 @@
 permalink: /news/
 author_profile: false
 redirect_from: 
-  - /news/
   - /news.html
 ---
 
