@@ -26,7 +26,9 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
   * \[6/2021\] Start the summer intern at [Snap Research](https://research.snap.com/).
   * \[5/2021\] Our [fake news dataset](https://github.com/safe-graph/GNN-FakeNews) has been added to [PyG](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py) and [DGL](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py) as a graph classification benchmark.
   * \[5/2021\] Our GNN-based Fraud Detection toolbox [DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2) has upgraded to TensorFlow 2.0.
+
 ([more](http://ytongdou.com/news/))
+
 
 ## Talks and Blogs
   * \[5/2021\] \[Talk\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
