@@ -1,8 +1,6 @@
 ---
 permalink: /news/
 author_profile: false
-redirect_from: 
-  - /news.html
 ---
 
 [![head](/images/new_head.png){: .align-center}](http://ytongdou.com/)
