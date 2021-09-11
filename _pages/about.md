@@ -75,7 +75,7 @@ The Web Conference. 2021.
 ### 2020
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
 **Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
-ACM CIKM. 2020.  ([Top 15 Influential Papers at CIKM'20](paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))
+ACM CIKM. 2020.  ([Top 15 Influential Papers at CIKM'20](paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))  
 \[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\]
 
 * **Robust Spammer Detection by Nash Reinforcement Learning.**  
