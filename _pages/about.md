@@ -51,6 +51,7 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
   \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib9.txt)\]  
 
 ## Publications
+### 2021
 * **User Preference-aware Fake News Detection.**  
 **Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
 ACM SIGIR. 2021.  
@@ -71,9 +72,10 @@ Yuwei Cao, [Hao Peng](https://penghao-buaa.github.io/), [Jia Wu](http://web.scie
 The Web Conference. 2021.  
 \[[Paper](https://arxiv.org/pdf/2101.08747.pdf)\]\[[Code](https://github.com/RingBDStack/KPGNN)\]\[[BibTeX](http://ytongdou.com/files/bib7.txt)\]
 
+### 2020
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
 **Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
-ACM CIKM. 2020.  
+ACM CIKM. 2020.  ([Top 15 Influential Papers at CIKM'20](paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))
 \[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\]
 
 * **Robust Spammer Detection by Nash Reinforcement Learning.**  
@@ -86,6 +88,7 @@ ACM SIGKDD. 2020.
 ACM SIGIR. 2020.  
 \[[Paper](https://arxiv.org/pdf/2005.00625.pdf)\]\[[Code](https://github.com/safe-graph/DGFraud/tree/master/algorithms/GraphConsis)\]\[[Slides](http://ytongdou.com/files/SIGIR20slides.pdf)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485139&idx=1&sn=b1f9bebe10a82d21faf770e1c561ec24&chksm=fbfded47cc8a6451a28e0ef7ce65df89cc1bf583e0701e24c5877dd1a92308355917a702360f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib4.txt)\]
 
+### Before 2020
 * **Uncovering Download Fraud Activities in Mobile App Markets.**  
 **Yingtong Dou**, [Weijian Li](https://www.cs.rochester.edu/u/wli69/), Zhirong Liu, Zhenhua Dong, [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/), Philip S. Yu.  
 ACM/IEEE ASONAM. 2019.  
