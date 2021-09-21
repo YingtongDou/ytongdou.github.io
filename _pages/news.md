@@ -9,6 +9,7 @@ author_profile: false
 ## News Archive ([Back to Homepage](http://ytongdou.com/))
 
 ### 2021
+* \[5/2021\] Our GNN-based Fraud Detection toolbox [DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2) has upgraded to TensorFlow 2.0.
 * \[5/2021\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
 * \[5/2021\] Be invited to serve as a PC member for [ASONAM 2021](https://asonam.cpsc.ucalgary.ca/2021/index.php).
 * \[5/2021\] Release a GNN-based Fake News Detection [Repo](https://github.com/safe-graph/GNN-FakeNews) with two news propagation graph datasets.
