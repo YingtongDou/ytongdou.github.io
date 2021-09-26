@@ -20,12 +20,12 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[9/2021\] One [paper](http://arxiv.org/pdf/2104.07886.pdf) is accepted by ACM TOIS.
   * \[9/2021\] Be invited to serve as a PC member for [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22).
   * \[8/2021\] The [CARE-GNN](https://arxiv.org/pdf/2008.08692.pdf) model proposed by us has been integrated with [DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn).
   * \[8/2021\] Be invited to serve as a PC member for [WSDM 2022](https://www.wsdm-conference.org/2022/).
   * \[7/2021\] Be invited to serve as a PC member for [IJCAI 2022-2024](https://www.ijcai.org/).
   * \[6/2021\] Start the summer intern at [Snap Research](https://research.snap.com/).
-  * \[5/2021\] Our [fake news dataset](https://github.com/safe-graph/GNN-FakeNews) has been added to [PyG](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py) and [DGL](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py) as a graph classification benchmark.
   * ([More](http://ytongdou.com/news/))
 
 
@@ -35,23 +35,24 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 
 
 ## Preprints
-  * **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks.**  
-  [Hao Peng](https://penghao-buaa.github.io/), Ruitong Zhang, **Yingtong Dou**, [Renyu Yang](https://yangrenyu.github.io/), Jingyi Zhang, Philip S. Yu.  
-  Under Review. Apr. 2021.  
-  \[[Paper](http://arxiv.org/pdf/2104.07886.pdf)\]\[[Code](https://github.com/safe-graph/RioGNN)\]\[[BibTeX](http://ytongdou.com/files/bib11.txt)\]
 
-  * **Adversarial Attack and Defense on Graph Data: A Survey.**  
-  [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
-  Under Review. Dec. 2018 (Updated in Jul. 2020).  
-  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
+**Adversarial Attack and Defense on Graph Data: A Survey.**  
+[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+Under Review. Dec. 2018 (Updated in Jul. 2020).  
+\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
 
-  * **A Review of Recent Advance in Online Spam Detection.**  
-  **Yingtong Dou**.  
-  Technical Report. Mar. 2019.  
-  \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib9.txt)\]  
+**A Review of Recent Advance in Online Spam Detection.**  
+**Yingtong Dou**.  
+Technical Report. Mar. 2019.  
+\[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib9.txt)\]  
 
 ## Publications
 ### 2021
+* **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks.**  
+[Hao Peng](https://penghao-buaa.github.io/), Ruitong Zhang, **Yingtong Dou**, [Renyu Yang](https://yangrenyu.github.io/), Jingyi Zhang, Philip S. Yu.  
+ACM TOIS. 2021.  
+\[[Paper](http://arxiv.org/pdf/2104.07886.pdf)\]\[[Code](https://github.com/safe-graph/RioGNN)\]\[[BibTeX](http://ytongdou.com/files/bib11.txt)\]
+
 * **User Preference-aware Fake News Detection.**  
 **Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
 ACM SIGIR. 2021.  
