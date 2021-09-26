@@ -36,15 +36,15 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 
 ## Preprints
 
-**Adversarial Attack and Defense on Graph Data: A Survey.**  
-[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
-Under Review. Dec. 2018 (Updated in Jul. 2020).  
-\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
+  * **Adversarial Attack and Defense on Graph Data: A Survey.**  
+  [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+  Under Review. Dec. 2018 (Updated in Jul. 2020).  
+  \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
 
-**A Review of Recent Advance in Online Spam Detection.**  
-**Yingtong Dou**.  
-Technical Report. Mar. 2019.  
-\[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib9.txt)\]  
+  * **A Review of Recent Advance in Online Spam Detection.**  
+  **Yingtong Dou**.  
+  Technical Report. Mar. 2019.  
+  \[[Paper](http://ytongdou.com/files/spamreview.pdf)\]\[[Slides](http://ytongdou.com/files/spamslides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib9.txt)\]  
 
 ## Publications
 ### 2021
