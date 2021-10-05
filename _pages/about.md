@@ -36,6 +36,11 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 
 ## Preprints
 
+  * **Deep Fraud Detection on Non-attributed Graph.**  
+  Chen Wang, **Yingtong Dou**, Min Chen, Jia Chen, Zhiwei Liu, Philip S. Yu.  
+  Under Review. Oct. 2021.  
+  \[[Paper](https://arxiv.org/pdf/2110.01171.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib14.txt)\]
+
   * **Adversarial Attack and Defense on Graph Data: A Survey.**  
   [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
   Under Review. Dec. 2018 (Updated in Jul. 2020).  

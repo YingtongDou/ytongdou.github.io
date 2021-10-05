@@ -1,0 +1,6 @@
+@article{wang2021deep,
+  title={Deep Fraud Detection on Non-attributed Graph},
+  author={Wang, Chen and Dou, Yingtong and Chen, Min and Chen, Jia and Liu, Zhiwei and Yu, Philip S.},
+  journal={arXiv preprint arXiv:2110.01171},
+  year={2021}
+}
