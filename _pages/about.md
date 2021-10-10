@@ -20,16 +20,16 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
-  * \[9/2021\] One [paper](http://arxiv.org/pdf/2104.07886.pdf) is accepted by ACM TOIS.
+  * \[10/2021\] Given a [talk](https://ytongdou.com/files/GNN_Fraud_Talk.pdf) about GNN-based fraud detection at Datafun Summit.
   * \[9/2021\] Be invited to serve as a PC member for [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22).
   * \[8/2021\] The [CARE-GNN](https://arxiv.org/pdf/2008.08692.pdf) model proposed by us has been integrated with [DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn).
   * \[8/2021\] Be invited to serve as a PC member for [WSDM 2022](https://www.wsdm-conference.org/2022/).
   * \[7/2021\] Be invited to serve as a PC member for [IJCAI 2022-2024](https://www.ijcai.org/).
-  * \[6/2021\] Start the summer intern at [Snap Research](https://research.snap.com/).
   * ([More](http://ytongdou.com/news/))
 
 
 ## Talks and Blogs
+  * \[10/2021\] \[Talk\] An introduction to GNN-based fraud detection ([Slides PDF](https://ytongdou.com/files/GNN_Fraud_Talk.pdf)).
   * \[5/2021\] \[Talk\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
   * \[7/2019\] \[Blog\] [Tackling Fake Downloads in Mobile App Markets](https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd).
 
