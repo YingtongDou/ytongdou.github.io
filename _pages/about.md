@@ -20,11 +20,11 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[10/2021\] Our Cross-lingual COVID-19 fake news [dataset](https://github.com/YingtongDou/CrossFake) has been accepted by [ICDMW](https://sociocom.naist.jp/icdm-sdm-2021/).
   * \[10/2021\] Given a [talk](https://ytongdou.com/files/GNN_Fraud_Talk.pdf) about GNN-based fraud detection at Datafun Summit.
   * \[9/2021\] Be invited to serve as a PC member for [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22).
   * \[8/2021\] The [CARE-GNN](https://arxiv.org/pdf/2008.08692.pdf) model proposed by us has been integrated with [DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn).
   * \[8/2021\] Be invited to serve as a PC member for [WSDM 2022](https://www.wsdm-conference.org/2022/).
-  * \[7/2021\] Be invited to serve as a PC member for [IJCAI 2022-2024](https://www.ijcai.org/).
   * ([More](http://ytongdou.com/news/))
 
 
@@ -53,6 +53,11 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 
 ## Publications
 ### 2021
+* **Cross-lingual COVID-19 Fake News Detection.**  
+Jiangshu Du, **Yingtong Dou**, [Congying Xia](https://congyingxia.github.io/), [Limeng Cui](http://personal.psu.edu/lzc334/), [Jing Ma](https://sites.google.com/site/cuhkjma/), Philip S. Yu.  
+IEEE ICDMW. 2021.  
+\[[Paper](https://arxiv.org/pdf/2110.06495.pdf)\]\[[Data](https://github.com/YingtongDou/CrossFake)\]\[[BibTeX](http://ytongdou.com/files/bib15.txt)\]
+
 * **Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks.**  
 [Hao Peng](https://penghao-buaa.github.io/), Ruitong Zhang, **Yingtong Dou**, [Renyu Yang](https://yangrenyu.github.io/), Jingyi Zhang, Philip S. Yu.  
 ACM TOIS. 2021.  

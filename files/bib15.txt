@@ -1,0 +1,6 @@
+@inproceedings{du2021cross,
+  title={Cross-lingual COVID-19 Fake News Detection},
+  author={Du, Jiangshu and Dou, Yingtong and Xia, Congying and Cui, Limeng and Ma, Jing and Yu, Philip S},
+  booktitle={Proceedings of the 21st IEEE International Conference on Data Mining Workshops (ICDMW'21)},
+  year={2021}
+}
