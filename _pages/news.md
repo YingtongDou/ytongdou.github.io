@@ -9,6 +9,7 @@ author_profile: false
 ## News Archive ([Back to Homepage](http://ytongdou.com/))
 
 ### 2021
+* \[7/2021\] Be invited to serve as a PC member for [IJCAI 2022-2024](https://www.ijcai.org/).
 * \[6/2021\] Start the summer intern at [Snap Research](https://research.snap.com/).
 * \[5/2021\] Our [fake news dataset](https://github.com/safe-graph/GNN-FakeNews) has been added to [PyG](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py) and [DGL](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py) as a graph classification benchmark.
 * \[5/2021\] Our GNN-based Fraud Detection toolbox [DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2) has upgraded to TensorFlow 2.0.
