@@ -9,6 +9,8 @@ author_profile: false
 ## News Archive ([Back to Homepage](http://ytongdou.com/))
 
 ### 2021
+* \[8/2021\] The [CARE-GNN](https://arxiv.org/pdf/2008.08692.pdf) model proposed by us has been integrated with [DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn).
+* \[8/2021\] Be invited to serve as a PC member for [WSDM 2022](https://www.wsdm-conference.org/2022/).
 * \[7/2021\] Be invited to serve as a PC member for [IJCAI 2022-2024](https://www.ijcai.org/).
 * \[6/2021\] Start the summer intern at [Snap Research](https://research.snap.com/).
 * \[5/2021\] Our [fake news dataset](https://github.com/safe-graph/GNN-FakeNews) has been added to [PyG](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py) and [DGL](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py) as a graph classification benchmark.

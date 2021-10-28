@@ -9,7 +9,7 @@ redirect_from:
 ![head](/images/new_head.png){: .align-center}
 
 ## Bio
-I am currently a fifth year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
+I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
 \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]   
 
@@ -20,11 +20,11 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 </p>
 
 ## News
+  * \[11/2021\] Be invited to serve as the Whova Chair for [WSDM 2022](https://www.wsdm-conference.org/2022/), see you in Phoenix!
+  * \[10/2021\] One [paper](https://arxiv.org/pdf/2110.01171.pdf) collaborated with [Grab](https://www.grab.com/sg/) has been accepted by [IEEE BigData](http://bigdataieee.org/BigData2021/index.html).
   * \[10/2021\] Our Cross-lingual COVID-19 fake news [dataset](https://github.com/YingtongDou/CrossFake) has been accepted by [ICDMW](https://sociocom.naist.jp/icdm-sdm-2021/).
   * \[10/2021\] Given a [talk](https://ytongdou.com/files/GNN_Fraud_Talk.pdf) about GNN-based fraud detection at Datafun Summit.
   * \[9/2021\] Be invited to serve as a PC member for [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22).
-  * \[8/2021\] The [CARE-GNN](https://arxiv.org/pdf/2008.08692.pdf) model proposed by us has been integrated with [DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn).
-  * \[8/2021\] Be invited to serve as a PC member for [WSDM 2022](https://www.wsdm-conference.org/2022/).
   * ([More](http://ytongdou.com/news/))
 
 
@@ -35,12 +35,6 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 
 
 ## Preprints
-
-  * **Deep Fraud Detection on Non-attributed Graph.**  
-  Chen Wang, **Yingtong Dou**, Min Chen, Jia Chen, Zhiwei Liu, Philip S. Yu.  
-  Under Review. Oct. 2021.  
-  \[[Paper](https://arxiv.org/pdf/2110.01171.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib14.txt)\]
-
   * **Adversarial Attack and Defense on Graph Data: A Survey.**  
   [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
   Under Review. Dec. 2018 (Updated in Jul. 2020).  
@@ -53,6 +47,11 @@ I am open to collaboration opportunities in fraud/misinformation detection and g
 
 ## Publications
 ### 2021
+* **Deep Fraud Detection on Non-attributed Graph.**  
+Chen Wang, **Yingtong Dou**, Min Chen, Jia Chen, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Philip S. Yu.  
+IEEE BigData. 2021.  
+\[[Paper](https://arxiv.org/pdf/2110.01171.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib14.txt)\]
+
 * **Cross-lingual COVID-19 Fake News Detection.**  
 Jiangshu Du, **Yingtong Dou**, [Congying Xia](https://congyingxia.github.io/), [Limeng Cui](http://personal.psu.edu/lzc334/), [Jing Ma](https://sites.google.com/site/cuhkjma/), Philip S. Yu.  
 IEEE ICDMW. 2021.  
