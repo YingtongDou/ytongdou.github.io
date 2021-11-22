@@ -20,6 +20,7 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 </p>
 
 ## News
+  * \[11/2021\] Be invited to serve as a PC member for [KDD 2022](https://kdd.org/kdd2022/).
   * \[11/2021\] Be invited to serve as the Whova Chair for [WSDM 2022](https://www.wsdm-conference.org/2022/), see you in Phoenix!
   * \[10/2021\] One [paper](https://arxiv.org/pdf/2110.01171.pdf) collaborated with [Grab](https://www.grab.com/sg/) has been accepted by [IEEE BigData](http://bigdataieee.org/BigData2021/index.html).
   * \[10/2021\] Our Cross-lingual COVID-19 fake news [dataset](https://github.com/YingtongDou/CrossFake) has been accepted by [ICDMW](https://sociocom.naist.jp/icdm-sdm-2021/).
