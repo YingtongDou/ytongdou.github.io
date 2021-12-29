@@ -9,6 +9,8 @@ author_profile: false
 ## News Archive ([Back to Homepage](http://ytongdou.com/))
 
 ### 2021
+* \[10/2021\] Give a [talk](https://ytongdou.com/files/GNN_Fraud_Talk.pdf) about GNN-based fraud detection at Datafun Summit.
+* \[9/2021\] Be invited to serve as a PC member for [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22).
 * \[8/2021\] The [CARE-GNN](https://arxiv.org/pdf/2008.08692.pdf) model proposed by us has been integrated with [DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn).
 * \[8/2021\] Be invited to serve as a PC member for [WSDM 2022](https://www.wsdm-conference.org/2022/).
 * \[7/2021\] Be invited to serve as a PC member for [IJCAI 2022-2024](https://www.ijcai.org/).
