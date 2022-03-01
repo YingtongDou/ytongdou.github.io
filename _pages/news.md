@@ -9,6 +9,7 @@ author_profile: false
 ## News Archive ([Back to Homepage](http://ytongdou.com/))
 
 ### 2021
+* \[10/2021\] Our Cross-lingual COVID-19 fake news [dataset](https://github.com/YingtongDou/CrossFake) has been accepted by [ICDMW](https://sociocom.naist.jp/icdm-sdm-2021/).
 * \[10/2021\] Give a [talk](https://ytongdou.com/files/GNN_Fraud_Talk.pdf) about GNN-based fraud detection at Datafun Summit.
 * \[9/2021\] Be invited to serve as a PC member for [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22).
 * \[8/2021\] The [CARE-GNN](https://arxiv.org/pdf/2008.08692.pdf) model proposed by us has been integrated with [DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn).

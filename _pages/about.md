@@ -13,19 +13,18 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 \[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]   
 
-**<span style="color: indigo;">I am actively looking for full-time research/applied scientist positions related to trust&safety in United States. You can contact me via email (ytongdou AT gmail.com) or WeChat (id: ytongdou).</span>**
 
 <p align="center">
 <a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a><a href="https://orcid.org/0000-0003-0470-6716"><img align="middle" src="/images/orcid.png" alt="ORCID" title="ORCID" hspace="8"/></a>    
 </p>
 
 ## News
+  * \[02/2022\] I will join [VISA Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time staff research scientist this summer. 
   * \[12/2021\] Our fraud dataset has become a benchmark on [PaperWithCode](https://paperswithcode.com/paper/enhancing-graph-neural-network-based-fraud).
   * \[12/2021\] Be invited to serve as a PC member for [CONSTRAINT@ACL 2022](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/).
   * \[11/2021\] Be invited to serve as a PC member for [KDD 2022](https://kdd.org/kdd2022/).
   * \[11/2021\] Be invited to serve as the Whova Chair for [WSDM 2022](https://www.wsdm-conference.org/2022/), e-meet you in 02/2022!
   * \[10/2021\] One [paper](https://arxiv.org/pdf/2110.01171.pdf) collaborated with [Grab](https://www.grab.com/sg/) has been accepted by [IEEE BigData](http://bigdataieee.org/BigData2021/index.html).
-  * \[10/2021\] Our Cross-lingual COVID-19 fake news [dataset](https://github.com/YingtongDou/CrossFake) has been accepted by [ICDMW](https://sociocom.naist.jp/icdm-sdm-2021/).
 
   * ([More](http://ytongdou.com/news/))
 
