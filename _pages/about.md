@@ -30,8 +30,8 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 <li>[11/2021] Be invited to serve as a PC member for <a href="https://kdd.org/kdd2022/">KDD 2022</a>.</li>
 <li>[11/2021] Be invited to serve as the Whova Chair for <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>, e-meet you in 02/2022!</li>
 <li>[10/2021] One <a href="https://arxiv.org/pdf/2110.01171.pdf">paper</a> collaborated with <a href="https://www.grab.com/sg/">Grab</a> has been accepted by <a href="http://bigdataieee.org/BigData2021/index.html">IEEE BigData</a>.</li>
-[10/2021] Our Cross-lingual COVID-19 fake news <a href="https://github.com/YingtongDou/CrossFake">dataset</a> has been accepted by <a href="https://sociocom.naist.jp/icdm-sdm-2021/">ICDMW</a>.</li>
-[10/2021] Give a <a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">talk</a> about GNN-based fraud detection at Datafun Summit.</li>
+<li>[10/2021] Our Cross-lingual COVID-19 fake news <a href="https://github.com/YingtongDou/CrossFake">dataset</a> has been accepted by <a href="https://sociocom.naist.jp/icdm-sdm-2021/">ICDMW</a>.</li>
+<li>[10/2021] Give a <a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">talk</a> about GNN-based fraud detection at Datafun Summit.</li>
   </pre>
 </div>
 
