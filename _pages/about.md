@@ -19,6 +19,21 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 </p>
 
 ## News
+
+<div class="highlight">
+  <pre>
+    <code>
+    [03/2022] Give a talk at IIT for event and misinformation detection on Twitter [Slides PDF]. 
+    [02/2022] I will join [VISA Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time staff research scientist this summer. 
+    [12/2021] Our fraud dataset has become a benchmark on [PaperWithCode](https://paperswithcode.com/paper/enhancing-graph-neural-network-based-fraud).
+    [12/2021] Be invited to serve as a PC member for [CONSTRAINT@ACL 2022](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/).
+    [11/2021] Be invited to serve as a PC member for [KDD 2022](https://kdd.org/kdd2022/).
+    [11/2021] Be invited to serve as the Whova Chair for [WSDM 2022](https://www.wsdm-conference.org/2022/), e-meet you in 02/2022!
+    [10/2021] One [paper](https://arxiv.org/pdf/2110.01171.pdf) collaborated with [Grab](https://www.grab.com/sg/) has been accepted by [IEEE BigData](http://bigdataieee.org/BigData2021/index.html).
+    </code>
+  </pre>
+</div>
+
   * \[02/2022\] I will join [VISA Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time staff research scientist this summer. 
   * \[12/2021\] Our fraud dataset has become a benchmark on [PaperWithCode](https://paperswithcode.com/paper/enhancing-graph-neural-network-based-fraud).
   * \[12/2021\] Be invited to serve as a PC member for [CONSTRAINT@ACL 2022](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/).
@@ -30,9 +45,10 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 
 ## Talks and Blogs
+  * \[03/2021\] \[Talk\] Mining Twitter for Social Event and Misinformation Detection ([Slides PDF](https://ytongdou.com/files/IIT_Talk.pdf)).
   * \[10/2021\] \[Talk\] An introduction to GNN-based fraud detection ([Slides PDF](https://ytongdou.com/files/GNN_Fraud_Talk.pdf)).
-  * \[5/2021\] \[Talk\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
-  * \[7/2019\] \[Blog\] [Tackling Fake Downloads in Mobile App Markets](https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd).
+  * \[05/2021\] \[Talk\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
+  * \[07/2019\] \[Blog\] [Tackling Fake Downloads in Mobile App Markets](https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd).
 
 
 ## Preprints
