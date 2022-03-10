@@ -23,8 +23,9 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 <div class="highlight">
   <pre>
     <code>
-    [03/2022] Give a talk at IIT for event and misinformation detection on Twitter [Slides PDF]. 
-    [02/2022] I will join [VISA Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time staff research scientist this summer. 
+    [03/2022] Be invited to serve as the Whova Chair for <a href="https://www2022.thewebconf.org/">TheWebConference 2022</a>. 
+    [03/2022] Give a talk at IIT for event and misinformation detection on Twitter [<a href="https://ytongdou.com/files/IIT_Talk.pdf">Slides PDF</a>]. 
+    [02/2022] I will join <a href="https://usa.visa.com/about-visa/visa-research.html">VISA Research</a> as a full-time staff research scientist this summer. 
     [12/2021] Our fraud dataset has become a benchmark on [PaperWithCode](https://paperswithcode.com/paper/enhancing-graph-neural-network-based-fraud).
     [12/2021] Be invited to serve as a PC member for [CONSTRAINT@ACL 2022](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/).
     [11/2021] Be invited to serve as a PC member for [KDD 2022](https://kdd.org/kdd2022/).

@@ -27,15 +27,15 @@ div.highlighter-rouge, figure.highlight {
 
   .highlight {
     margin: 0;
-    font-family: $monospace;
-    font-size: $type-size-8;
+    font-family: $global-font-family;
+    font-size: $type-size-7;
     line-height: 1.8;
   }
 }
 
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
-.highlight pre { white-space: pre; overflow: auto; }
+.highlight pre {overflow: auto; }
 
 /*
    Solarized Light
