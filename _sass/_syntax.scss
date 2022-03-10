@@ -36,7 +36,7 @@ div.highlighter-rouge, figure.highlight {
 
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
-.highlight pre {overflow-y: auto; overflow-x: auto; max-height: 10px; font-family: $global-font-family; font-size: $type-size-7; line-height: 2.5;}
+.highlight pre {overflow-y: auto; overflow-x: auto; max-height: 100px; font-family: $global-font-family; font-size: $type-size-7; line-height: 2.5;}
 
 /*
    Solarized Light
