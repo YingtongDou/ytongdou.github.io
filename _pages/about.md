@@ -22,7 +22,7 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
-<li>[03/2022] OrangeBe invited to serve as the Whova Chair for <a href="https://www2022.thewebconf.org/">TheWebConference 2022</a>.</li>
+<li>[03/2022] Be invited to serve as the Whova Chair for <a href="https://www2022.thewebconf.org/">TheWebConference 2022</a>.</li>
 <li>[03/2022] Give a talk at IIT for event and misinformation detection on Twitter [<a href="https://ytongdou.com/files/IIT_Talk.pdf">Slides PDF</a>].</li>
 <li>[02/2022] I will join <a href="https://usa.visa.com/about-visa/visa-research.html">VISA Research</a> as a full-time staff research scientist this summer.</li>
 <li>[12/2021] Our fraud dataset has become a benchmark on <a href="https://paperswithcode.com/paper/enhancing-graph-neural-network-based-fraud">PaperWithCode</a>.</li>
