@@ -46,7 +46,7 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 <li>[04/2021] One <a href="http://arxiv.org/abs/2104.07892">paper</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a>.</li>
 <li>[01/2021] One <a href="https://arxiv.org/pdf/2101.08747.pdf">paper</a> is accepted by <a href="https://www2021.thewebconf.org/">The Web Conference 2021</a>.</li>
 <li>[12/2020] I will join the Computational Social Science Team @<a href="https://research.snap.com/">Snap Research</a> as a research intern in Summer 2021.</li>
-<li>[10/2020] I've been invited to serve as PC members for <a href="https://arxiv.org/pdf/2101.08747.pdf">AAAI-21](https://aaai.org/Conferences/AAAI-21/) and <a href="https://ijcai-21.org/">IJCAI-21</a>.</li>
+<li>[10/2020] Be invited to serve as PC members for <a href="https://aaai.org/Conferences/AAAI-21/">AAAI-21</a> and <a href="https://ijcai-21.org/">IJCAI-21</a>.</li>
 <li>[08/2020] We release an <a href="https://github.com/safe-graph/UGFraud">Unsupervised Graph-based Fraud Detection Toolbox</a>.</li>
 <li>[07/2020] One <a href="https://arxiv.org/pdf/2008.08692.pdf">paper</a> is accepted by <a href="https://www.cikm2020.org/">CIKM 2020</a>.</li>
 <li>[05/2020] One <a href="https://arxiv.org/pdf/2006.06069.pdf">paper</a> is accepted by <a href="https://www.kdd.org/kdd2020/">KDD 2020</a>.</li>
