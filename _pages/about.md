@@ -56,11 +56,11 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 <li>[01/2019] Move my personal website from Wordpress to Github.</li>
 <li>[01/2019] Give a talk about graph based spammer detection at <a href="https://beacon.qq.com">Tencent</a>.</li>
 <li>[05/2018] Start summer intern at the Search and Recommendation Group of <a href="http://www.noahlab.com.hk/#/home">Huawei Noah’s Ark Lab</a>.</li>
-<li>[02/2018] Publish a dataset with Chinese O2O service Wechat lucky package sharing log between two years.</li>
+<li>[02/2018] Publish a dataset with Chinese O2O service Wechat lucky package sharing log.</li>
 <li>[10/2017] An <a href="http://ytongdou.com/files/access17.pdf">article</a> is published on IEEE Access.</li>
 <li>[08/2017] Start my Ph.D. at the University of Illinois at Chicago.</li>
 <li>[06/2017] Graduate from BUPT and QMUL with the Beijing Excellent Graduate prize.</li>
-<li>[04/2017] Decide to join the BDSC Lab at the University of Illinois at Chicago under the supervision of Prof. Philip Yu.</li>
+<li>[04/2017] Decide to join the BDSC Lab at UIC under the supervision of Prof. Philip Yu.</li>
 <li>[03/2017] Join D-Lab in the Institute for Data Science of Tsinghua University as a research volunteer.</li>
 <li>[09/2016] A <a href="http://ytongdou.com/files/spatial16.pdf">paper</a> is accepted by the 2nd workshop of EMGIS in 2016 ACM SIGSPATIAL.</li>
 <li>[08/2016] Attend KDD 2016 at San Francisco.</li>
