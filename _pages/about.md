@@ -45,7 +45,7 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 <li>[04/2021] Two papers are accepted by <a href="https://sigir.org/sigir2021/">SIGIR 2021</a>.</li>
 <li>[04/2021] One <a href="http://arxiv.org/abs/2104.07892">paper</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a>.</li>
 <li>[01/2021] One <a href="https://arxiv.org/pdf/2101.08747.pdf">paper</a> is accepted by <a href="https://www2021.thewebconf.org/">The Web Conference 2021</a>.</li>
-<li>[12/2020] I will join the Computational Social Science Team @<a href="https://research.snap.com/">Snap Research</a> as a research intern in Summer 2021.</li>
+<li>[12/2020] I will join the CSS Team @<a href="https://research.snap.com/">Snap Research</a> as a research intern in Summer 2021.</li>
 <li>[10/2020] Be invited to serve as PC members for <a href="https://aaai.org/Conferences/AAAI-21/">AAAI-21</a> and <a href="https://ijcai-21.org/">IJCAI-21</a>.</li>
 <li>[08/2020] We release an <a href="https://github.com/safe-graph/UGFraud">Unsupervised Graph-based Fraud Detection Toolbox</a>.</li>
 <li>[07/2020] One <a href="https://arxiv.org/pdf/2008.08692.pdf">paper</a> is accepted by <a href="https://www.cikm2020.org/">CIKM 2020</a>.</li>
@@ -59,13 +59,13 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 ## Talks and Blogs
 <li>[Talk] Mining Twitter for Social Event and Misinformation Detection (<a href="https://ytongdou.com/files/IIT_Talk.pdf">Slides PDF</a>).</li>
 <li>[Talk] An introduction to GNN-based fraud detection (<a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">Slides PDF</a>).</li>
-<li>[Talk] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).</li>
-<li>[Blog] <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets]</a>.</li>
+<li>[Talk] Give two talks at <a href="https://www.f5.com/">F5 Security</a> and <a href="https://www.grab.com/sg/">Grab Inc.</a> (<a href="http://ytongdou.com/files/F5_Talk_Slides.pdf">Slides PDF</a>).</li>
+<li>[Blog] <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets</a>.</li>
 
 
 ## Preprints
 
-<li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li> 
+<li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li>
 &ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
 &ensp;&ensp;&ensp;Under Review. Dec. 2018 (Updated in Jul. 2020).  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
@@ -73,24 +73,24 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 ## Selected Publications
 
-* **Deep Fraud Detection on Non-attributed Graph.**  
-Chen Wang, **Yingtong Dou**, Min Chen, Jia Chen, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Philip S. Yu.  
-IEEE BigData. 2021.  
-\[[Paper](https://arxiv.org/pdf/2110.01171.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib14.txt)\]
+<li><b>Deep Fraud Detection on Non-attributed Graph.</b></li> 
+&ensp;&ensp;&ensp;Chen Wang, **Yingtong Dou**, Min Chen, Jia Chen, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Philip S. Yu.  
+&ensp;&ensp;&ensp;IEEE BigData. 2021.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2110.01171.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib14.txt)\]
 
-* **User Preference-aware Fake News Detection.**  
-**Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
-ACM SIGIR. 2021.  
-\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)\]\[[Code](https://github.com/safe-graph/GNN-FakeNews)\]\[[Slides](http://ytongdou.com/files/SIGIR21slides.pdf)\]\[[PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)\]\[[DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)\]\[[Data](https://paperswithcode.com/dataset/upfd)\]\[[Chinese Blog](https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg)\]\[[BibTeX](http://ytongdou.com/files/bib12.txt)\]
+<li><b>User Preference-aware Fake News Detection.</b></li> 
+&ensp;&ensp;&ensp;**Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
+&ensp;&ensp;&ensp;ACM SIGIR. 2021.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)\]\[[Code](https://github.com/safe-graph/GNN-FakeNews)\]\[[Slides](http://ytongdou.com/files/SIGIR21slides.pdf)\]\[[PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)\]\[[DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)\]\[[Data](https://paperswithcode.com/dataset/upfd)\]\[[Chinese Blog](https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg)\]\[[BibTeX](http://ytongdou.com/files/bib12.txt)\]
 
-* **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
-**Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
-ACM CIKM. 2020.  [Top 15 Influential Papers at CIKM'20](https://paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))  
-\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\]
+<li><b>Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.</b></li> 
+&ensp;&ensp;&ensp;**Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
+&ensp;&ensp;&ensp;ACM CIKM. 2020.  [Top 15 Influential Papers at CIKM'20](https://paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\]
 
-* **Robust Spammer Detection by Nash Reinforcement Learning.**  
-**Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
-ACM SIGKDD. 2020.  
-\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)\]\[[Code](https://github.com/YingtongDou/Nash-Detect)\]\[[Slides](http://ytongdou.com/files/kdd20slides.pdf)\]\[[Video](https://youtu.be/Pa13fabSGVw)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485268&idx=1&sn=451d137496829d1405c28808ec0bb0b2&chksm=fbfdecc0cc8a65d651600a437043cbb5483bfa16e35c3b1cb3ca60d7ac47e64a3bdd514e357f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib5.txt)\]
+<li><b>Robust Spammer Detection by Nash Reinforcement Learning.</b></li> 
+&ensp;&ensp;&ensp;**Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
+&ensp;&ensp;&ensp;ACM SIGKDD. 2020.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)\]\[[Code](https://github.com/YingtongDou/Nash-Detect)\]\[[Slides](http://ytongdou.com/files/kdd20slides.pdf)\]\[[Video](https://youtu.be/Pa13fabSGVw)\]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485268&idx=1&sn=451d137496829d1405c28808ec0bb0b2&chksm=fbfdecc0cc8a65d651600a437043cbb5483bfa16e35c3b1cb3ca60d7ac47e64a3bdd514e357f&token=1158859151&lang=zh_CN#rd)\]\[[BibTeX](http://ytongdou.com/files/bib5.txt)\]
 
 ([More](https://ytongdou.com/publications))
