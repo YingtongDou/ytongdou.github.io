@@ -45,23 +45,30 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 <li>[04/2021] Two papers are accepted by <a href="https://sigir.org/sigir2021/">SIGIR 2021</a>.</li>
 <li>[04/2021] One <a href="http://arxiv.org/abs/2104.07892">paper</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a>.</li>
 <li>[01/2021] One <a href="https://arxiv.org/pdf/2101.08747.pdf">paper</a> is accepted by <a href="https://www2021.thewebconf.org/">The Web Conference 2021</a>.</li>
+<li>[12/2020] I will join the Computational Social Science Team @<a href="https://research.snap.com/">Snap Research</a> as a research intern in Summer 2021.</li>
+<li>[10/2020] I've been invited to serve as PC members for <a href="https://arxiv.org/pdf/2101.08747.pdf">AAAI-21](https://aaai.org/Conferences/AAAI-21/) and <a href="https://ijcai-21.org/">IJCAI-21</a>.</li>
+<li>[08/2020] We release an <a href="https://github.com/safe-graph/UGFraud">Unsupervised Graph-based Fraud Detection Toolbox</a>.</li>
+<li>[07/2020] One <a href="https://arxiv.org/pdf/2008.08692.pdf">paper</a> is accepted by <a href="https://www.cikm2020.org/">CIKM 2020</a>.</li>
+<li>[05/2020] One <a href="https://arxiv.org/pdf/2006.06069.pdf">paper</a> is accepted by <a href="https://www.kdd.org/kdd2020/">KDD 2020</a>.</li>
+<li>[05/2020] We release a <a href="https://github.com/safe-graph/DGFraud">Deep Graph-based Fraud Detection Toolbox</a>.</li>
+<li>[04/2020] One <a href="https://arxiv.org/pdf/2005.00625.pdf">paper</a> is accepted by <a href="https://sigir.org/sigir2020/">SIGIR 2020</a>.</li>
   </pre>
 </div>
 
 
 ## Talks and Blogs
-  * \[Talk\] Mining Twitter for Social Event and Misinformation Detection ([Slides PDF](https://ytongdou.com/files/IIT_Talk.pdf)).
-  * \[Talk\] An introduction to GNN-based fraud detection ([Slides PDF](https://ytongdou.com/files/GNN_Fraud_Talk.pdf)).
-  * \[Talk\] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).
-  * \[Blog\] [Tackling Fake Downloads in Mobile App Markets](https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd).
+<li>[Talk] Mining Twitter for Social Event and Misinformation Detection (<a href="https://ytongdou.com/files/IIT_Talk.pdf">Slides PDF</a>).</li>
+<li>[Talk] An introduction to GNN-based fraud detection (<a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">Slides PDF</a>).</li>
+<li>[Talk] Give two talks at [F5 Security](https://www.f5.com/) and [Grab Inc.](https://www.grab.com/sg/) ([Slides PDF](http://ytongdou.com/files/F5_Talk_Slides.pdf)).</li>
+<li>[Blog] <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets]</a>.</li>
 
 
 ## Preprints
 
 <li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li> 
-&ensp;&ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
-&ensp;&ensp;&ensp;&ensp;Under Review. Dec. 2018 (Updated in Jul. 2020).  
-&ensp;&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
+&ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+&ensp;&ensp;&ensp;Under Review. Dec. 2018 (Updated in Jul. 2020).  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
 
 
 ## Selected Publications
