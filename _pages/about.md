@@ -14,9 +14,6 @@ I will join [VISA Research](https://usa.visa.com/about-visa/visa-research.html) 
 
 I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
-\[[View My Curriculum Vitae](http://ytongdou.com/files/CV_Yingtong.pdf)\]   
-
-
 <p align="center">
 <a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://medium.com/@yingtongdou"><img align="middle" src="/images/medium.png" alt="Medium" title="Medium" hspace="8"/></a><a href="https://orcid.org/0000-0003-0470-6716"><img align="middle" src="/images/orcid.png" alt="ORCID" title="ORCID" hspace="8"/></a>    
 </p>
@@ -25,7 +22,7 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
-<li>[03/2022] Be invited to serve as the Whova Chair for <a href="https://www2022.thewebconf.org/">TheWebConference 2022</a>.</li>
+<li>[03/2022] Be invited to serve as the Video Conference Chair for <a href="https://www2022.thewebconf.org/">TheWebConference 2022</a>.</li>
 <li>[03/2022] Give a talk at IIT for event and misinformation detection on Twitter [<a href="https://ytongdou.com/files/IIT_Talk.pdf">Slides PDF</a>].</li>
 <li>[02/2022] I will join <a href="https://usa.visa.com/about-visa/visa-research.html">VISA Research</a> as a full-time staff research scientist this summer.</li>
 <li>[12/2021] Our fraud dataset has become a benchmark on <a href="https://paperswithcode.com/paper/enhancing-graph-neural-network-based-fraud">PaperWithCode</a>.</li>
@@ -62,9 +59,9 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 ## Preprints
 
 <li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li> 
-[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
-Under Review. Dec. 2018 (Updated in Jul. 2020).  
-\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
+&ensp;&ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+&ensp;&ensp;&ensp;&ensp;Under Review. Dec. 2018 (Updated in Jul. 2020).  
+&ensp;&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
 
 
 ## Selected Publications
