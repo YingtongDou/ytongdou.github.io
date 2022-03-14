@@ -35,19 +35,19 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 <li>[10/2021] One <a href="https://arxiv.org/pdf/2110.01171.pdf">paper</a> collaborated with <a href="https://www.grab.com/sg/">Grab</a> has been accepted by <a href="http://bigdataieee.org/BigData2021/index.html">IEEE BigData</a>.</li>
 <li>[10/2021] Our Cross-lingual COVID-19 fake news <a href="https://github.com/YingtongDou/CrossFake">dataset</a> has been accepted by <a href="https://sociocom.naist.jp/icdm-sdm-2021/">ICDMW</a>.</li>
 <li>[10/2021] Give a <a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">talk</a> about GNN-based fraud detection at Datafun Summit.</li>
-<li>[9/2021] Be invited to serve as a PC member for <a href="https://www.siam.org/conferences/cm/conference/sdm22">SDM 2022</a>.</li>
-<li>[8/2021\] The <a href="https://arxiv.org/pdf/2008.08692.pdf">CARE-GNN</a> model proposed by us has been integrated with <a href="https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn">DGL</a>.</li>
-<li>[8/2021\] Be invited to serve as a PC member for <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>.</li>
-<li>[7/2021\] Be invited to serve as a PC member for <a href="https://www.ijcai.org/">IJCAI 2022-2024</a>.</li>
-<li>[6/2021\] Start the summer intern at <a href="https://research.snap.com/">Snap Research</a>.</li>
-<li>[5/2021\] Our <a href="https://github.com/safe-graph/GNN-FakeNews">fake news dataset</a> has been added to <a href="https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py">PyG</a> and <a href="https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py">DGL</a> as a graph classification benchmark.</li>
-<li>[5/2021\] Our GNN-based Fraud Detection toolbox <a href="https://github.com/safe-graph/DGFraud-TF2">DGFraud-TF2</a> has upgraded to TensorFlow 2.0.</li>
-<li>[5/2021\] Give two talks at <a href="https://www.f5.com/">F5 Security</a> and <a href="https://www.grab.com/sg/">Grab Inc.</a> (<a href="http://ytongdou.com/files/F5_Talk_Slides.pdf">Slides PDF</a>).</li>
-<li>5/2021\] Be invited to serve as a PC member for <a href="https://asonam.cpsc.ucalgary.ca/2021/index.php">ASONAM 2021</a>.</li>
-<li>[5/2021\] Release a GNN-based Fake News Detection <a href="https://github.com/safe-graph/GNN-FakeNews">Repo</a> with two news propagation graph datasets.</li>
-<li>[4/2021\] Two papers are accepted by <a href="https://sigir.org/sigir2021/">SIGIR 2021</a>.</li>
-<li>[4/2021\] One <a href="http://arxiv.org/abs/2104.07892">paper</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a>.</li>
-<li>[1/2021\] One <a href="https://arxiv.org/pdf/2101.08747.pdf">paper</a> is accepted by <a href="https://www2021.thewebconf.org/">The Web Conference 2021</a>.</li>
+<li>[09/2021] Be invited to serve as a PC member for <a href="https://www.siam.org/conferences/cm/conference/sdm22">SDM 2022</a>.</li>
+<li>[08/2021] The <a href="https://arxiv.org/pdf/2008.08692.pdf">CARE-GNN</a> model proposed by us has been integrated with <a href="https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn">DGL</a>.</li>
+<li>[08/2021] Be invited to serve as a PC member for <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>.</li>
+<li>[07/2021] Be invited to serve as a PC member for <a href="https://www.ijcai.org/">IJCAI 2022-2024</a>.</li>
+<li>[06/2021] Start the summer intern at <a href="https://research.snap.com/">Snap Research</a>.</li>
+<li>[05/2021] Our <a href="https://github.com/safe-graph/GNN-FakeNews">fake news dataset</a> has been added to <a href="https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py">PyG</a> and <a href="https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py">DGL</a> as a graph classification benchmark.</li>
+<li>[05/2021] Our GNN-based Fraud Detection toolbox <a href="https://github.com/safe-graph/DGFraud-TF2">DGFraud-TF2</a> has upgraded to TensorFlow 2.0.</li>
+<li>[05/2021] Give two talks at <a href="https://www.f5.com/">F5 Security</a> and <a href="https://www.grab.com/sg/">Grab Inc.</a> (<a href="http://ytongdou.com/files/F5_Talk_Slides.pdf">Slides PDF</a>).</li>
+<li>[05/2021] Be invited to serve as a PC member for <a href="https://asonam.cpsc.ucalgary.ca/2021/index.php">ASONAM 2021</a>.</li>
+<li>[05/2021] Release a GNN-based Fake News Detection <a href="https://github.com/safe-graph/GNN-FakeNews">Repo</a> with two news propagation graph datasets.</li>
+<li>[04/2021] Two papers are accepted by <a href="https://sigir.org/sigir2021/">SIGIR 2021</a>.</li>
+<li>[04/2021] One <a href="http://arxiv.org/abs/2104.07892">paper</a> is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a>.</li>
+<li>[01/2021] One <a href="https://arxiv.org/pdf/2101.08747.pdf">paper</a> is accepted by <a href="https://www2021.thewebconf.org/">The Web Conference 2021</a>.</li>
   </pre>
 </div>
 
@@ -60,11 +60,8 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 
 ## Preprints
-<div class="highlight">
-  <pre>
-  <li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li> 
-  </pre>
-</div>
+
+<li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li> 
 [Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
 Under Review. Dec. 2018 (Updated in Jul. 2020).  
 \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)\]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)\]\[[BibTeX](http://ytongdou.com/files/bib10.txt)\]
@@ -84,7 +81,7 @@ ACM SIGIR. 2021.
 
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
 **Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
-ACM CIKM. 2020.  <span style="color:red;">([Top 15 Influential Papers at CIKM'20](https://paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))</span>  
+ACM CIKM. 2020.  [Top 15 Influential Papers at CIKM'20](https://paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))  
 \[[Paper](https://arxiv.org/pdf/2008.08692.pdf)\]\[[Code](https://github.com/YingtongDou/CARE-GNN)\]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)\]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib6.txt)\]
 
 * **Robust Spammer Detection by Nash Reinforcement Learning.**  
