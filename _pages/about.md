@@ -94,13 +94,13 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <li><b>User Preference-aware Fake News Detection.</b></li> 
 &ensp;&ensp;&ensp;**Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
-&ensp;&ensp;&ensp;ACM SIGIR. 2021.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)]\[[Code](https://github.com/safe-graph/GNN-FakeNews)]\[[Slides](http://ytongdou.com/files/SIGIR21slides.pdf)]\[[PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)]\[[DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)]\[[Data](https://paperswithcode.com/dataset/upfd)]\[[Chinese Blog](https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg)]\[[BibTeX](http://ytongdou.com/files/bib12.txt)]
+&ensp;&ensp;&ensp;ACM SIGIR. 2021.  ([Trending New Datasets for 2021](https://twitter.com/paperswithcode/status/1476544719790526464))  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)]\[[Code](https://github.com/safe-graph/GNN-FakeNews)]\[[Slides](http://ytongdou.com/files/SIGIR21slides.pdf)]\[[Video](https://www.youtube.com/watch?v=QAIVFr24FrA&ab_channel=DeepFindr)]\[[PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)]\[[DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)]\[[Data](https://paperswithcode.com/dataset/upfd)]\[[Chinese Blog](https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg)]\[[BibTeX](http://ytongdou.com/files/bib12.txt)]
 
 <li><b>Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.</b></li> 
 &ensp;&ensp;&ensp;**Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
-&ensp;&ensp;&ensp;ACM CIKM. 2020.  [Top 15 Influential Papers at CIKM'20](https://paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)]\[[Code](https://github.com/YingtongDou/CARE-GNN)]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)]\[[BibTeX](http://ytongdou.com/files/bib6.txt)]
+&ensp;&ensp;&ensp;ACM CIKM. 2020.  ([Top 15 Influential Papers at CIKM'20](https://paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/))  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)]\[[Code](https://github.com/YingtongDou/CARE-GNN)]\[[Slides](http://ytongdou.com/files/cikm20slides.pdf)]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)]\[[BibTeX](http://ytongdou.com/files/bib6.txt)]
 
 <li><b>Robust Spammer Detection by Nash Reinforcement Learning.</b></li> 
 &ensp;&ensp;&ensp;**Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
