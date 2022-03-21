@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-I will join [VISA Research](https://usa.visa.com/about-visa/visa-research.html) as full-time research scientist in Summer 2022 and will be working on graph mining and its application in trust&safty domain.
+I will join [VISA Research](https://usa.visa.com/about-visa/visa-research.html) as full-time research scientist in Summer 2022 and will be working on graph mining and its application in trust&safety domain.
 
 I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
