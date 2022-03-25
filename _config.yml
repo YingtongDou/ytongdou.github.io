@@ -208,6 +208,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: false
   # # _misc
   # - scope:
   #     path: ""
