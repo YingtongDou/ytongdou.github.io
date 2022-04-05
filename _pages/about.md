@@ -16,7 +16,8 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <p align="center">
 <a href="http://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a>    
-</p>
+<!-- </p> -->
+
 
 ## News
 
