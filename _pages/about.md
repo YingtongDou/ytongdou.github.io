@@ -23,6 +23,7 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
+<li>[04/2022] Be invited to serve as a PC member for <a href="https://cysoc2022.github.io/">CySoc@ICWSM 2022</a>.</li>
 <li>[04/2022] Release a Python Library for Graph Outlier Detection (<a href="https://github.com/pygod-team/pygod">PyGOD</a>).</li>
 <li>[04/2022] Received the Papers with Code Contributor Award from <a href="https://paperswithcode.com/">Papers With Code</a>.</li>
 <li>[03/2022] Be invited to serve as the Video Conference Chair for <a href="https://www2022.thewebconf.org/">TheWebConference 2022</a>.</li>
