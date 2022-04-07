@@ -82,7 +82,7 @@ EMGIS in ACM SIGSPATIAL. 2016.
 \[[Paper](http://ytongdou.com/files/spatial16.pdf)\]\[[Slides](http://ytongdou.com/files/spatial16slides.pdf)\]\[[Extended Journal Version](http://ytongdou.com/files/geoinformatica.pdf)\]\[[BibTeX](http://ytongdou.com/files/bib1.txt)\]  
 
 
-<!-- ## Projects
+## Projects
   
   * **Misinformation Detection**
   
@@ -112,4 +112,4 @@ EMGIS in ACM SIGSPATIAL. 2016.
   
   ![projects1](/images/proj1.png){: .align-left} **Introduction** Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, and aim to design classifers with multi-view and multi-source information according to the intention of the fraudsters.  
 
-  **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.   -->
+  **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
