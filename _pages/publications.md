@@ -3,7 +3,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-<!-- ![head](/images/new_head.png){: .align-center} -->
+![head](/images/new_head.png){: .align-center}
 
 
 ## Publications ([Back to Homepage](http://ytongdou.com/))
