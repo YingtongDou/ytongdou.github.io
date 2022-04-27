@@ -83,6 +83,11 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 ## Preprints
 
+<li><b>PyGOD: A Python Library for Graph Outlier Detection.</b></li>
+&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/), **Yingtong Dou**, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/) et al.  
+&ensp;&ensp;&ensp;Preprint. Apr. 2022.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]\[[BibTeX](https://ytongdou.com/files/bib16.txt)]
+
 <li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li>
 &ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
 &ensp;&ensp;&ensp;Under Review. Dec. 2018 (Updated in Jul. 2020).  
