@@ -1,6 +1,6 @@
 @article{liu2022pygod,
   title={PyGOD: A Python Library for Graph Outlier Detection}, 
-  author={Kay Liu and Yingtong Dou and Yue Zhao and Xueying Ding and Xiyang Hu and Ruitong Zhang and Kaize Ding and Canyu Chen and Hao Peng and Kai Shu and George H. Chen and Zhihao Jia and Philip S. Yu},
+  author={Liu, Kay and Dou, Yingtong and Zhao, Yue and Ding, Xueying and Hu, Xiyang and Zhang, Ruitong and Ding, Kaize and Chen, Canyu and Peng, Hao and Shu, Kai and Chen, George H. and Jia, Zhihao and Yu, Philip S.},
   journal={arXiv preprint arXiv:2204.12095},
   year={2022}
 }

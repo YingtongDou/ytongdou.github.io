@@ -23,6 +23,9 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
+<li>[06/2022] Release a <a href="https://arxiv.org/abs/2206.10071">benchmark</a> for node outlier detection on graphs.</li>
+<li>[06/2022] Be invited to serve as a reviewer for <a href="https://logconference.org/">LoG 2022</a>.</li>
+<li>[05/2022] Be invited to serve as a PC member for <a href="https://asonam.cpsc.ucalgary.ca/2022/">ASONAM 2022</a>.</li>
 <li>[05/2022] Be invited to serve as a PC member for <a href="https://www.cikm2022.org/">CIKM 2022</a>.</li>
 <li>[04/2022] Be invited to serve as a PC member for <a href="https://cysoc2022.github.io/">CySoc@ICWSM 2022</a>.</li>
 <li>[04/2022] Release a Python Library for Graph Outlier Detection (<a href="https://github.com/pygod-team/pygod">PyGOD</a>).</li>
@@ -76,16 +79,22 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 
 ## Talks and Blogs
-<li>[Talk] Mining Twitter for Social Event and Misinformation Detection (<a href="https://ytongdou.com/files/IIT_Talk.pdf">Slides PDF</a>).</li>
-<li>[Talk] An introduction to GNN-based fraud detection (<a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">Slides PDF</a>).</li>
-<li>[Talk] Give two talks at <a href="https://www.f5.com/">F5 Security</a> and <a href="https://www.grab.com/sg/">Grab Inc.</a> (<a href="https://ytongdou.com/files/F5_Talk_Slides.pdf">Slides PDF</a>).</li>
-<li>[Blog] <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets</a>.</li>
+<li>[Talk] <a href="https://ytongdou.com/files/IIT_Talk.pdf">Mining Twitter for Social Event and Misinformation Detection</a> at IIT, Chiago.</li>
+<li>[Talk] <a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Datafun Summit.</li>
+<li>[Talk] <a href="https://ytongdou.com/files/F5_Talk_Slides.pdf">Robust Fraud Detection against Adversarial Fraudsters</a> at F5 Security and Grab Inc.</li>
+<li>[Blog] <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets</a> at Medium.</li>
+<li>[Talk] <a href="https://ytongdou.com/files/tencent_talk.pdf">An Introduction to Graph-based Spam Review Detection.</a> at Tencent.</li>
 
 
 ## Preprints
 
+<li><b>Benchmarking Node Outlier Detection on Graphs.</b></li>
+&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
+&ensp;&ensp;&ensp;Preprint. Jun. 2022.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[BibTeX](https://ytongdou.com/files/bib17.txt)]
+
 <li><b>PyGOD: A Python Library for Graph Outlier Detection.</b></li>
-&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/), **Yingtong Dou**, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/) et al.  
+&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
 &ensp;&ensp;&ensp;Preprint. Apr. 2022.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]\[[BibTeX](https://ytongdou.com/files/bib16.txt)]
 
