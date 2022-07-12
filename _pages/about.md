@@ -82,16 +82,12 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 ## Talks and Blogs
 <li>[Talk] <a href="https://ytongdou.com/files/IIT_Talk.pdf">Mining Twitter for Social Event and Misinformation Detection</a> at IIT, Chiago.</li>
 &ensp;  
-
 <li>[Talk] <a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Datafun Summit.</li>
 &ensp;  
-
 <li>[Talk] <a href="https://ytongdou.com/files/F5_Talk_Slides.pdf">Robust Fraud Detection against Adversarial Fraudsters</a> at F5 Security and Grab Inc.</li>
 &ensp;  
-
 <li>[Blog] <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets</a> at Medium.</li>
 &ensp;  
-
 <li>[Talk] <a href="https://ytongdou.com/files/tencent_talk.pdf">An Introduction to Graph-based Spam Review Detection.</a> at Tencent.</li>
 
 
