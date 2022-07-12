@@ -10,9 +10,9 @@ redirect_from:
 
 ## Bio
 
-I will join [VISA Research](https://usa.visa.com/about-visa/visa-research.html) as full-time research scientist in Summer 2022 and will be working on graph mining and its application in trust&safety domain.
+I will join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time research scientist in Summer 2022 and will be working on graph mining and its application in trust&safety domain.
 
-I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois at Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
+I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
 <p align="center">
 <a href="https://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a>    
@@ -25,6 +25,7 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
   <pre>
 <li>[06/2022] Release a <a href="https://arxiv.org/abs/2206.10071">benchmark</a> for node outlier detection on graphs.</li>
 <li>[06/2022] Be invited to serve as a reviewer for <a href="https://logconference.org/">LoG 2022</a>.</li>
+<li>[06/2022] Be invited to serve as a reviewer for <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks">NeurIPS 2022</a>.</li>
 <li>[05/2022] Be invited to serve as a PC member for <a href="https://asonam.cpsc.ucalgary.ca/2022/">ASONAM 2022</a>.</li>
 <li>[05/2022] Be invited to serve as a PC member for <a href="https://www.cikm2022.org/">CIKM 2022</a>.</li>
 <li>[04/2022] Be invited to serve as a PC member for <a href="https://cysoc2022.github.io/">CySoc@ICWSM 2022</a>.</li>
