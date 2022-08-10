@@ -8,6 +8,22 @@ author_profile: false
 
 ## Publications ([Back to Homepage](https://ytongdou.com/))
 
+
+### 2022
+
+
+* **Automating DBSCAN via Deep Reinforcement Learning.**  
+Ruitong Zhang, Hao Peng, **Yingtong Dou**, Jia Wu, Qingyun Sun, Jingyi Zhang, Philip S. Yu.  
+ACM CIKM. 2022.  
+\[[Paper](https://arxiv.org/pdf/2208.04537.pdf)]\[[Code](https://github.com/RingBDStack/DRL-DBSCAN)]\[[BibTeX](https://ytongdou.com/files/bib18.txt)]
+
+
+* **Adversarial Attack and Defense on Graph Data: A Survey.**  
+[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Kai Zhang, Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+IEEE TKDE. 2022.  
+\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)]\[[BibTeX](https://ytongdou.com/files/bib10.txt)]
+
+
 ### 2021
 * **Deep Fraud Detection on Non-attributed Graph.**  
 Chen Wang, **Yingtong Dou**, Min Chen, Jia Chen, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Philip S. Yu.  

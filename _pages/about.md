@@ -10,12 +10,12 @@ redirect_from:
 
 ## Bio
 
-I will join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time research scientist in Summer 2022 and will be working on graph mining and its application in trust&safety domain.
+I will join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time research scientist in Fall 2022 and will be working on graph mining and its application in trust&safety domain.
 
 I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
 <p align="center">
-<a href="https://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://www.researchgate.net/profile/Yingtong_Dou"><img align="middle" src="/images/rg.png" alt="ResearchGate" title="ResearchGate" hspace="8"/><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a>    
+<a href="https://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a>    
 </p>
 
 
@@ -23,6 +23,9 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
+<li>[08/2022] Our <a href="https://arxiv.org/abs/1812.10528">graph attack&defense survey </a> is accepted by <a href="https://www.computer.org/csdl/journal/tk">IEEE TKDE</a>.</li>
+<li>[08/2022] One <a href="https://arxiv.org/abs/2208.04537">paper</a> is accepted by <a href="https://www.cikm2022.org/">CIKM 2022</a>.</li>
+<li>[08/2022] Be invited to serve as a PC member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
 <li>[06/2022] Release a <a href="https://arxiv.org/abs/2206.10071">benchmark</a> for node outlier detection on graphs.</li>
 <li>[06/2022] Be invited to serve as a reviewer for <a href="https://logconference.org/">LoG 2022</a>.</li>
 <li>[06/2022] Be invited to serve as a reviewer for <a href="https://neurips.cc/Conferences/2022/CallForDatasetsBenchmarks">NeurIPS 2022</a>.</li>
@@ -103,18 +106,22 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 &ensp;&ensp;&ensp;Preprint. Apr. 2022.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]\[[BibTeX](https://ytongdou.com/files/bib16.txt)]
 
-<li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li>
-&ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
-&ensp;&ensp;&ensp;Under Review. Dec. 2018 (Updated in Jul. 2020).  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)]\[[BibTeX](https://ytongdou.com/files/bib10.txt)]
 
 
 ## Selected Publications
 
-<li><b>Deep Fraud Detection on Non-attributed Graph.</b></li> 
-&ensp;&ensp;&ensp;Chen Wang, **Yingtong Dou**, Min Chen, Jia Chen, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), Philip S. Yu.  
-&ensp;&ensp;&ensp;IEEE BigData. 2021.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2110.01171.pdf)]\[[BibTeX](https://ytongdou.com/files/bib14.txt)]
+
+<li><b>Automating DBSCAN via Deep Reinforcement Learning.</b></li>
+&ensp;&ensp;&ensp;Ruitong Zhang, Hao Peng, **Yingtong Dou**, Jia Wu, Qingyun Sun, Jingyi Zhang, Philip S. Yu.  
+&ensp;&ensp;&ensp;ACM CIKM. 2022.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2208.04537.pdf)]\[[Code](https://github.com/RingBDStack/DRL-DBSCAN)]\[[BibTeX](https://ytongdou.com/files/bib18.txt)]
+
+
+<li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li>
+&ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Kai Zhang, Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+&ensp;&ensp;&ensp;IEEE TKDE. 2022.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)]\[[BibTeX](https://ytongdou.com/files/bib10.txt)]
+
 
 <li><b>User Preference-aware Fake News Detection.</b></li> 
 &ensp;&ensp;&ensp;**Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
