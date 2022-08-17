@@ -83,7 +83,7 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 
 ## Talks and Blogs
-<li>[Talk] <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">Leveraging GNNs for Financial Fraud Detection: Practices and Challenges</a> at MLF@KDD 2022, Washington DC.</li>
+<li>[Talk] <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">Leveraging GNNs for Financial Fraud Detection: Practices and Challenges</a> at KDD 2022, Washington DC.</li>
 
 <li>[Talk] <a href="https://ytongdou.com/files/IIT_Talk.pdf">Mining Twitter for Social Event and Misinformation Detection</a> at IIT, Chicago.</li>
 
