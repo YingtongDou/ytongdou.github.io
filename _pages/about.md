@@ -15,7 +15,7 @@ I will join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) 
 I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
 <p align="center">
-<a href="https://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a>    
+<a href="https://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a>    
 </p>
 
 
@@ -83,6 +83,8 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 
 ## Talks and Blogs
+<li>[Talk] <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">Leveraging GNNs for Financial Fraud Detection: Practices and Challenges</a> at MLF@KDD 2022, Washington DC.</li>
+
 <li>[Talk] <a href="https://ytongdou.com/files/IIT_Talk.pdf">Mining Twitter for Social Event and Misinformation Detection</a> at IIT, Chicago.</li>
 
 <li>[Talk] <a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Datafun Summit.</li>
