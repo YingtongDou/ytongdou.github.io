@@ -89,7 +89,7 @@ I am currently a sixth-year CS Ph.D. student in [Big Data and Social Computing (
 ## Talks and Blogs
 <li>[Blog] <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">Graph Neural Network-based Graph Outlier Detection: A Brief Introduction</a> at TigerGraph Blog.</li>
 
-<li>[Talk] <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">Graph Neural Networks based Anomaly Detection:
+<li>[Talk] <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">GNN-based Anomaly Detection:
 from Research to Application</a> at Novartis Data Science Seminar.</li>
 
 <li>[Talk] <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">Leveraging GNNs for Financial Fraud Detection: Practices and Challenges</a> at KDD 2022, Washington DC.</li>
