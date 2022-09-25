@@ -1,6 +1,6 @@
-@article{liu2022benchmark,
-  title={PyGOD: A Python Library for Graph Outlier Detection}, 
+@inproceedings{liu2022benchmark,
+  title={Benchmarking Node Outlier Detection on Graphs}, 
   author={Liu, Kay and Dou, Yingtong and Zhao, Yue and Ding, Xueying and Hu, Xiyang and Zhang, Ruitong and Ding, Kaize and Chen, Canyu and Peng, Hao and Shu, Kai and Sun, Lichao and Li, Jundong and Chen, George H. and Jia, Zhihao and Yu, Philip S.},
-  journal={arXiv preprint arXiv:2206.10071},
+  booktitle={NeurIPS},
   year={2022}
 }
