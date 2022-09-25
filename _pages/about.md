@@ -10,9 +10,9 @@ redirect_from:
 
 ## Bio
 
-I will join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time research scientist in Fall 2022 and will be working on graph mining and its application in trust&safety domain.
+I will join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time research scientist in Fall 2022.
 
-I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
+I am currently a sixth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
 
 <p align="center">
 <a href="https://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a>    
@@ -23,7 +23,11 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
-<li>[08/2022] Our <a href="https://arxiv.org/abs/1812.10528">graph attack&defense survey </a> is accepted by <a href="https://www.computer.org/csdl/journal/tk">IEEE TKDE</a>.</li>
+<li>[09/2022] Our <a href="https://arxiv.org/abs/2206.10071">node outlier detection benchmark</a> is accepted by <a href="https://neurips.cc/">NeurIPS 2022</a>.</li>
+<li>[09/2022] My <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">blog</a> about GNN-based anomaly detection is featured on <a href="https://www.tigergraph.com/">TigerGraph</a> Blog.</li>
+<li>[08/2022] Our <a href="https://arxiv.org/abs/1812.10528">graph attack&defense survey</a> is accepted by <a href="https://www.computer.org/csdl/journal/tk">IEEE TKDE</a>.</li>
+<li>[08/2022] Give a <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">talk</a> about GNN-based Anomaly Detection at <a href="https://www.novartis.com/tags/sub-category/data-science"> Novartis Data Science Seminar</a>.</li>
+<li>[08/2022] Give a <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">talk</a> about GNN-based Financial Fraud Detection at <a href="https://sites.google.com/view/kdd-mlf-2022">Machine Learning in Finance Workshop@KDD'22</a>.</li>
 <li>[08/2022] One <a href="https://arxiv.org/abs/2208.04537">paper</a> is accepted by <a href="https://www.cikm2022.org/">CIKM 2022</a>.</li>
 <li>[08/2022] Be invited to serve as a PC member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
 <li>[06/2022] Release a <a href="https://arxiv.org/abs/2206.10071">benchmark</a> for node outlier detection on graphs.</li>
@@ -83,6 +87,11 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 
 ## Talks and Blogs
+<li>[Blog] <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">Graph Neural Network-based Graph Outlier Detection: A Brief Introduction</a> at TigerGraph Blog.</li>
+
+<li>[Talk] <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">Graph Neural Networks based Anomaly Detection:
+from Research to Application</a> at Novartis Data Science Seminar.</li>
+
 <li>[Talk] <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">Leveraging GNNs for Financial Fraud Detection: Practices and Challenges</a> at KDD 2022, Washington DC.</li>
 
 <li>[Talk] <a href="https://ytongdou.com/files/IIT_Talk.pdf">Mining Twitter for Social Event and Misinformation Detection</a> at IIT, Chicago.</li>
@@ -98,11 +107,6 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 ## Preprints
 
-<li><b>Benchmarking Node Outlier Detection on Graphs.</b></li>
-&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
-&ensp;&ensp;&ensp;Preprint. Jun. 2022.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[BibTeX](https://ytongdou.com/files/bib17.txt)]
-
 <li><b>PyGOD: A Python Library for Graph Outlier Detection.</b></li>
 &ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
 &ensp;&ensp;&ensp;Preprint. Apr. 2022.  
@@ -111,6 +115,11 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 
 
 ## Selected Publications
+
+<li><b>Benchmarking Node Outlier Detection on Graphs.</b></li>
+&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
+&ensp;&ensp;&ensp;NeurIPS 2022.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[BibTeX](https://ytongdou.com/files/bib17.txt)]
 
 
 <li><b>Automating DBSCAN via Deep Reinforcement Learning.</b></li>
@@ -130,10 +139,12 @@ I am currently a fifth-year CS Ph.D. student in [Big Data and Social Computing (
 &ensp;&ensp;&ensp;ACM SIGIR. 2021.  ([Trending New Datasets for 2021](https://twitter.com/paperswithcode/status/1476544719790526464))  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)]\[[Code](https://github.com/safe-graph/GNN-FakeNews)]\[[Slides](https://ytongdou.com/files/SIGIR21slides.pdf)]\[[Video](https://www.youtube.com/watch?v=QAIVFr24FrA&ab_channel=DeepFindr)]\[[PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)]\[[DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)]\[[Data](https://paperswithcode.com/dataset/upfd)]\[[Chinese Blog](https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg)]\[[BibTeX](https://ytongdou.com/files/bib12.txt)]
 
+
 <li><b>Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.</b></li> 
 &ensp;&ensp;&ensp;**Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
 &ensp;&ensp;&ensp;ACM CIKM. 2020.  ([Top 10 Influential Papers at CIKM'20](https://www.paperdigest.org/2022/05/most-influential-cikm-papers-2022-05/))  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)]\[[Code](https://github.com/YingtongDou/CARE-GNN)]\[[Slides](https://ytongdou.com/files/cikm20slides.pdf)]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)]\[[BibTeX](https://ytongdou.com/files/bib6.txt)]
+
 
 <li><b>Robust Spammer Detection by Nash Reinforcement Learning.</b></li> 
 &ensp;&ensp;&ensp;**Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
