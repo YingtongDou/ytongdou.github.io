@@ -1,6 +1,6 @@
-@article{zhang2022automating,
+@inproceedings{zhang2022automating,
   title={Automating DBSCAN via Deep Reinforcement Learning}, 
   author={Zhang, Ruitong and Peng, Hao and Dou, Yingtong and Wu, Jia and Sun, Qingyun and Zhang, Jingyi and Yu, Philip S.},
-  journal={ACM CIKM},
+  booktitle={ACM CIKM},
   year={2022}
 }
