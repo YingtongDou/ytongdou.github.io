@@ -11,6 +11,10 @@ author_profile: false
 
 ### 2022
 
+* **BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.**  
+[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
+NeurIPS 2022.  
+\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[BibTeX](https://ytongdou.com/files/bib17.txt)]
 
 * **Automating DBSCAN via Deep Reinforcement Learning.**  
 Ruitong Zhang, Hao Peng, **Yingtong Dou**, Jia Wu, Qingyun Sun, Jingyi Zhang, Philip S. Yu.  
@@ -63,6 +67,7 @@ The Web Conference. 2021.
 ### 2020
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.**  
 **Yingtong Dou**, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
+ACM CIKM. 2020.  
 \[[Paper](https://arxiv.org/pdf/2008.08692.pdf)]\[[Code](https://github.com/YingtongDou/CARE-GNN)]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)]\[[Slides](https://ytongdou.com/files/cikm20slides.pdf)]\[[BibTeX](https://ytongdou.com/files/bib6.txt)]
 
 * **Robust Spammer Detection by Nash Reinforcement Learning.**  
@@ -98,7 +103,7 @@ EMGIS in ACM SIGSPATIAL. 2016.
 \[[Paper](https://ytongdou.com/files/spatial16.pdf)\]\[[Slides](https://ytongdou.com/files/spatial16slides.pdf)\]\[[Extended Journal Version](https://ytongdou.com/files/geoinformatica.pdf)\]\[[BibTeX](https://ytongdou.com/files/bib1.txt)\]  
 
 
-## Projects
+<!-- ## Projects
   
   * **Misinformation Detection**
   
@@ -128,4 +133,4 @@ EMGIS in ACM SIGSPATIAL. 2016.
   
   ![projects1](/images/proj1.png){: .align-left} **Introduction** Mobile App Markets like App Store and Google Play involves many fraudsters like spammers, botnets and crowd workers. We investigate the underground market of trading app downloads and reviews, and aim to design classifers with multi-view and multi-source information according to the intention of the fraudsters.  
 
-  **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.  
+  **Resources** My [blog post](https://medium.com/@yingtongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd?source=friends_link&sk=add42402f6372d567e704cdddce6e04b) about download fraud in App markets.   -->

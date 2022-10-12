@@ -23,6 +23,8 @@ I am currently a sixth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
+<li>[10/2022] Be invited to serve as a PC member for <a href="https://www2023.thewebconf.org/">TheWebConf 2023</a>.</li>
+<li>[09/2022] Be invited to serve as a PC member for <a href="https://www.siam.org/conferences/cm/conference/sdm23">SDM 2023</a>.</li>
 <li>[09/2022] Our <a href="https://arxiv.org/abs/2206.10071">node outlier detection benchmark</a> is accepted by <a href="https://neurips.cc/">NeurIPS 2022</a>.</li>
 <li>[09/2022] My <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">blog</a> about GNN-based anomaly detection is featured on <a href="https://www.tigergraph.com/">TigerGraph</a> Blog.</li>
 <li>[08/2022] Our <a href="https://arxiv.org/abs/1812.10528">graph attack&defense survey</a> is accepted by <a href="https://www.computer.org/csdl/journal/tk">IEEE TKDE</a>.</li>
@@ -116,7 +118,7 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 
 ## Selected Publications
 
-<li><b>Benchmarking Node Outlier Detection on Graphs.</b></li>
+<li><b>BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.</b></li>
 &ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
 &ensp;&ensp;&ensp;NeurIPS 2022.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[BibTeX](https://ytongdou.com/files/bib17.txt)]
