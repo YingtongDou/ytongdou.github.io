@@ -23,6 +23,7 @@ I am currently a sixth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
+<li>[10/2022] Our <a href="https://arxiv.org/abs/2208.04537">paper</a> has been selected as the best paper honorable mention at <a href="https://www.cikm2022.org/best-paper">CIKM 2022</a>.</li>
 <li>[10/2022] Be invited to serve as a PC member for <a href="https://www2023.thewebconf.org/">TheWebConf 2023</a>.</li>
 <li>[09/2022] Be invited to serve as a PC member for <a href="https://www.siam.org/conferences/cm/conference/sdm23">SDM 2023</a>.</li>
 <li>[09/2022] Our <a href="https://arxiv.org/abs/2206.10071">node outlier detection benchmark</a> is accepted by <a href="https://neurips.cc/">NeurIPS 2022</a>.</li>
@@ -126,7 +127,7 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 
 <li><b>Automating DBSCAN via Deep Reinforcement Learning.</b></li>
 &ensp;&ensp;&ensp;Ruitong Zhang, Hao Peng, **Yingtong Dou**, Jia Wu, Qingyun Sun, Jingyi Zhang, Philip S. Yu.  
-&ensp;&ensp;&ensp;ACM CIKM. 2022.  
+&ensp;&ensp;&ensp;ACM CIKM. 2022.  ([Best Paper Honorable Mention](https://www.cikm2022.org/best-paper))  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2208.04537.pdf)]\[[Code](https://github.com/RingBDStack/DRL-DBSCAN)]\[[BibTeX](https://ytongdou.com/files/bib18.txt)]
 
 
