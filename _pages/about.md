@@ -10,9 +10,9 @@ redirect_from:
 
 ## Bio
 
-I will join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time research scientist in Fall 2022.
+I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). My research interests include graph mining, anomaly detection, and applied machine learning.
 
-I am currently a sixth-year CS Ph.D. student in [Big Data and Social Computing (BDSC) Lab](https://bdsc.lab.uic.edu/) at University of Illinois Chicago. My advisor is [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017. My research interests are **Graph Mining**, **Fraud Detection**, and **Secure Machine Learning**.  
+I obtained my Ph.D. in Computer Science at the University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection". Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
 <p align="center">
 <a href="https://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a>    
@@ -23,8 +23,14 @@ I am currently a sixth-year CS Ph.D. student in [Big Data and Social Computing (
 
 <div class="highlight">
   <pre>
+<li>[12/2022] Join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time research scientist.</li>
+<li>[12/2022] Be invited to serve as a PC member for <a href="https://kdd.org/kdd2023/">KDD 2023</a>.</li>
+<li>[12/2022] Be invited to serve as a PC member for <a href="https://ijcai-23.org/">IJCAI 2023</a>.</li>
+<li>[12/2022] Our <a href="http://arxiv.org/pdf/2104.07886.pdf">TOIS paper</a> is the most-cited TOIS paper in 2022.</li>
+<li>[12/2022] Give a <a href="https://ytongdou.com/files/wells_fargo_talk.pdf">talk</a> about GNN-based Fraud Detection at Wells Fargo.</li>
 <li>[10/2022] Our <a href="https://arxiv.org/abs/2208.04537">paper</a> has been selected as the best paper honorable mention at <a href="https://www.cikm2022.org/best-paper">CIKM 2022</a>.</li>
 <li>[10/2022] Be invited to serve as a PC member for <a href="https://www2023.thewebconf.org/">TheWebConf 2023</a>.</li>
+<li>[10/2022] I successfully defended my Ph.D. dissertation!</li>
 <li>[09/2022] Be invited to serve as a PC member for <a href="https://www.siam.org/conferences/cm/conference/sdm23">SDM 2023</a>.</li>
 <li>[09/2022] Our <a href="https://arxiv.org/abs/2206.10071">node outlier detection benchmark</a> is accepted by <a href="https://neurips.cc/">NeurIPS 2022</a>.</li>
 <li>[09/2022] My <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">blog</a> about GNN-based anomaly detection is featured on <a href="https://www.tigergraph.com/">TigerGraph</a> Blog.</li>
@@ -90,6 +96,8 @@ I am currently a sixth-year CS Ph.D. student in [Big Data and Social Computing (
 
 
 ## Talks and Blogs
+<li>[Talk] <a href="https://ytongdou.com/files/wells_fargo_talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Wells Fargo.</li>
+ 
 <li>[Blog] <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">Graph Neural Network-based Graph Outlier Detection: A Brief Introduction</a> at TigerGraph Blog.</li>
 
 <li>[Talk] <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">GNN-based Anomaly Detection:
