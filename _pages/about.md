@@ -23,7 +23,7 @@ I obtained my Ph.D. in Computer Science at the University of Illinois Chicago in
 
 <div class="highlight">
   <pre>
-<li>[12/2022] Join [Visa Research](https://usa.visa.com/about-visa/visa-research.html) as a full-time research scientist.</li>
+<li>[12/2022] Join Visa Research as a full-time research scientist.</li>
 <li>[12/2022] Be invited to serve as a PC member for <a href="https://kdd.org/kdd2023/">KDD 2023</a>.</li>
 <li>[12/2022] Be invited to serve as a PC member for <a href="https://ijcai-23.org/">IJCAI 2023</a>.</li>
 <li>[12/2022] Our <a href="http://arxiv.org/pdf/2104.07886.pdf">TOIS paper</a> is the most-cited TOIS paper in 2022.</li>
