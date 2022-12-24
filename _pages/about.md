@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-![head](/images/new_head.png){: .align-center}
+![head](/images/head.png){: .align-center}
 
 ## Bio
 
