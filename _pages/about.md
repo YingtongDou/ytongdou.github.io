@@ -10,9 +10,9 @@ redirect_from:
 
 ## Bio
 
-I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). My research interests include graph mining, anomaly detection, and applied machine learning.
+I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). My research interests include graph mining, anomaly/misinformation detection, and applied machine learning.
 
-I obtained my Ph.D. in Computer Science at the University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection". Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
+I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection". Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
 <p align="center">
 <a href="https://ytongdou.com/files/CV_Yingtong.pdf"><img align="middle" src="/images/cv.png" alt="Curriculum Vitae" title="Curriculum Vitae" hspace="8"/></a><a href="https://twitter.com/dozee_sim"><img align="middle" src="/images/twitter.png" alt="Twitter" title="Twitter" hspace="8"/></a><a href="https://www.linkedin.com/in/ytongdou/"><img align="middle" src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" hspace="8"/></a><a href="https://github.com/safe-graph"><img align="middle" src="/images/safegraph.png" alt="SafeGraph" title="SafeGraph" hspace="8"/></a><a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"><img align="middle" src="/images/scholar.png" alt="Google Scholar" title="Google Scholar" hspace="8"/></a><a href="https://github.com/YingtongDou"><img align="middle" src="/images/github.png" alt="Github" title="Github" hspace="8"/></a><a href="https://github.com/pygod-team/pygod"><img align="middle" src="/images/pygod.png" alt="PyGOD" title="PyGOD" hspace="8"/></a>    
@@ -130,7 +130,7 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 <li><b>BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.</b></li>
 &ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
 &ensp;&ensp;&ensp;NeurIPS 2022.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[BibTeX](https://ytongdou.com/files/bib17.txt)]
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[Chinese Blog](https://mp.weixin.qq.com/s/rvCtqP1f1NwT6_JsQ-XBhg)]\[[BibTeX](https://ytongdou.com/files/bib17.txt)]
 
 
 <li><b>Automating DBSCAN via Deep Reinforcement Learning.</b></li>
@@ -140,7 +140,7 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 
 
 <li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li>
-&ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Kai Zhang, Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+&ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/) et al.  
 &ensp;&ensp;&ensp;IEEE TKDE. 2022.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)]\[[BibTeX](https://ytongdou.com/files/bib10.txt)]
 
@@ -160,6 +160,6 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 <li><b>Robust Spammer Detection by Nash Reinforcement Learning.</b></li> 
 &ensp;&ensp;&ensp;**Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
 &ensp;&ensp;&ensp;ACM SIGKDD. 2020.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)]\[[Code](https://github.com/YingtongDou/Nash-Detect)]\[[Slides](https://ytongdou.com/files/kdd20slides.pdf)]\[[Video](https://youtu.be/Pa13fabSGVw)]\[[Chinese Blog](https://mp.weixin.qq.com/s?__biz=MzU1Mjc5NTg5OQ==&mid=2247485268&idx=1&sn=451d137496829d1405c28808ec0bb0b2&chksm=fbfdecc0cc8a65d651600a437043cbb5483bfa16e35c3b1cb3ca60d7ac47e64a3bdd514e357f&token=1158859151&lang=zh_CN#rd)]\[[BibTeX](https://ytongdou.com/files/bib5.txt)]
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)]\[[Code](https://github.com/YingtongDou/Nash-Detect)]\[[Slides](https://ytongdou.com/files/kdd20slides.pdf)]\[[Video](https://youtu.be/Pa13fabSGVw)]\[[Chinese Blog](https://mp.weixin.qq.com/s/fTE_pa11wfcydC-LNgyjQg)]\[[BibTeX](https://ytongdou.com/files/bib5.txt)]
 
 ([All publications](https://ytongdou.com/publications))

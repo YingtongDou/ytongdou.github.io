@@ -3,7 +3,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-![head](/images/new_head.png){: .align-center}
+![head](/images/head.png){: .align-center}
 
 
 ## Publications ([Back to Homepage](https://ytongdou.com/))
@@ -23,7 +23,7 @@ ACM CIKM. 2022.
 
 
 * **Adversarial Attack and Defense on Graph Data: A Survey.**  
-[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/), Kai Zhang, Ji Wang, Philip S. Yu, [Lifang He](https://engineering.lehigh.edu/faculty/lifang-he), [Bo Li](https://aisecure.github.io/).  
+[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/) et al.  
 IEEE TKDE. 2022.  
 \[[Paper](https://arxiv.org/pdf/1812.10528.pdf)]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)]\[[BibTeX](https://ytongdou.com/files/bib10.txt)]
 
