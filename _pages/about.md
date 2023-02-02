@@ -25,6 +25,7 @@ I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 202
 
 <div class="highlight">
   <pre>
+<li>[01/2023] Be invited to serve as a PC member for <a href="https://sigir.org/sigir2023/">SIGIR 2023</a>.</li>
 <li>[12/2022] Join Visa Research as a full-time research scientist.</li>
 <li>[12/2022] Be invited to serve as a PC member for <a href="https://kdd.org/kdd2023/">KDD 2023</a>.</li>
 <li>[12/2022] Be invited to serve as a PC member for <a href="https://ijcai-23.org/">IJCAI 2023</a>.</li>
@@ -37,7 +38,7 @@ I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 202
 <li>[09/2022] Our <a href="https://arxiv.org/abs/2206.10071">node outlier detection benchmark</a> is accepted by <a href="https://neurips.cc/">NeurIPS 2022</a>.</li>
 <li>[09/2022] My <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">blog</a> about GNN-based anomaly detection is featured on <a href="https://www.tigergraph.com/">TigerGraph</a> Blog.</li>
 <li>[08/2022] Our <a href="https://arxiv.org/abs/1812.10528">graph attack&defense survey</a> is accepted by <a href="https://www.computer.org/csdl/journal/tk">IEEE TKDE</a>.</li>
-<li>[08/2022] Give a <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">talk</a> about GNN-based Anomaly Detection at <a href="https://www.novartis.com/tags/sub-category/data-science"> Novartis Data Science Seminar</a>.</li>
+<li>[08/2022] Give a <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">talk</a> about GNN-based Anomaly Detection at <a href="https://www.novartis.com/tags/sub-category/data-science">Novartis Data Science Seminar</a>.</li>
 <li>[08/2022] Give a <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">talk</a> about GNN-based Financial Fraud Detection at <a href="https://sites.google.com/view/kdd-mlf-2022">Machine Learning in Finance Workshop@KDD'22</a>.</li>
 <li>[08/2022] One <a href="https://arxiv.org/abs/2208.04537">paper</a> is accepted by <a href="https://www.cikm2022.org/">CIKM 2022</a>.</li>
 <li>[08/2022] Be invited to serve as a PC member for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
