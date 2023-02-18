@@ -1,0 +1,6 @@
+@inproceedings{wang2023attacking,
+  title={Attacking Fake News Detectors via Manipulating News Social Engagement}, 
+  author={Wang, Haoran and Dou, Yingtong and Chen, Canyu and Sun, Lichao and Yu, Philip S. and Shu, Kai},
+  booktitle={TheWebConf},
+  year={2023}
+}

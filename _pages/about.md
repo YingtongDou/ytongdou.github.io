@@ -25,6 +25,7 @@ I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 202
 
 <div class="highlight">
   <pre>
+<li>[02/2023] One <a href="https://arxiv.org/pdf/2302.07363.pdf">paper</a> is accepted by <a href="https://www2023.thewebconf.org/">TheWebConf 2023</a>.</li>
 <li>[01/2023] Be invited to serve as a PC member for <a href="https://sigir.org/sigir2023/">SIGIR 2023</a>.</li>
 <li>[12/2022] Join Visa Research as a full-time research scientist.</li>
 <li>[12/2022] Be invited to serve as a PC member for <a href="https://kdd.org/kdd2023/">KDD 2023</a>.</li>
@@ -129,6 +130,12 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 
 
 ## Selected Publications
+
+<li><b>Attacking Fake News Detectors via Manipulating News Social Engagement.</b></li>
+&ensp;&ensp;&ensp;Haoran Wang, **Yingtong Dou**, Canyu Chen, Lichao Sun, Philip S. Yu, Kai Shu.  
+&ensp;&ensp;&ensp;TheWebConf 2023.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2302.07363.pdf)]\[[Code](https://github.com/hwang219/AttackFakeNews)]\[[BibTeX](https://ytongdou.com/files/bib19.txt)]
+
 
 <li><b>BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.</b></li>
 &ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
