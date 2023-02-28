@@ -25,6 +25,7 @@ I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 202
 
 <div class="highlight">
   <pre>
+<li>[02/2023] Be invited to serve as a PC member for <a href="https://2023.ecmlpkdd.org/">ECML-PKDD 2023</a>.</li>
 <li>[02/2023] One <a href="https://arxiv.org/pdf/2302.07363.pdf">paper</a> is accepted by <a href="https://www2023.thewebconf.org/">TheWebConf 2023</a>.</li>
 <li>[01/2023] Be invited to serve as a PC member for <a href="https://sigir.org/sigir2023/">SIGIR 2023</a>.</li>
 <li>[12/2022] Join Visa Research as a full-time research scientist.</li>
