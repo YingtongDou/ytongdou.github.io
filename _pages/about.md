@@ -18,13 +18,14 @@ redirect_from:
 
 I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). My research interests include graph mining, anomaly/misinformation detection, and applied machine learning.
 
-I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection". Before joining UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
+I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\] Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
 
 ## News
 
 <div class="highlight">
   <pre>
+<li>[04/2023] Be invited to serve as a PC member for <a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a>.</li>
 <li>[02/2023] Be invited to serve as a PC member for <a href="https://2023.ecmlpkdd.org/">ECML-PKDD 2023</a>.</li>
 <li>[02/2023] One <a href="https://arxiv.org/pdf/2302.07363.pdf">paper</a> is accepted by <a href="https://www2023.thewebconf.org/">TheWebConf 2023</a>.</li>
 <li>[01/2023] Be invited to serve as a PC member for <a href="https://sigir.org/sigir2023/">SIGIR 2023</a>.</li>
@@ -148,12 +149,6 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 &ensp;&ensp;&ensp;Ruitong Zhang, Hao Peng, **Yingtong Dou**, Jia Wu, Qingyun Sun, Jingyi Zhang, Philip S. Yu.  
 &ensp;&ensp;&ensp;ACM CIKM. 2022.  ([Best Paper Honorable Mention](https://www.cikm2022.org/best-paper))  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2208.04537.pdf)]\[[Code](https://github.com/RingBDStack/DRL-DBSCAN)]\[[BibTeX](https://ytongdou.com/files/bib18.txt)]
-
-
-<li><b>Adversarial Attack and Defense on Graph Data: A Survey.</b></li>
-&ensp;&ensp;&ensp;[Lichao Sun](https://www.cs.uic.edu/~lsun/), **Yingtong Dou**, [Carl Yang](http://jiyang3.web.engr.illinois.edu/) et al.  
-&ensp;&ensp;&ensp;IEEE TKDE. 2022.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/1812.10528.pdf)]\[[Paper List](https://github.com/safe-graph/graph-adversarial-learning-literature)]\[[BibTeX](https://ytongdou.com/files/bib10.txt)]
 
 
 <li><b>User Preference-aware Fake News Detection.</b></li> 
