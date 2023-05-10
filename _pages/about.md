@@ -18,7 +18,7 @@ redirect_from:
 
 I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). My research interests include graph mining, anomaly/misinformation detection, and applied machine learning.
 
-I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\] Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
+I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\]. Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
 
 ## News
