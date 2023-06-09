@@ -16,7 +16,7 @@ redirect_from:
 
 ## Bio
 
-I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). My research interests include graph mining, anomaly/misinformation detection, and applied machine learning.
+I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). My research interests include graph mining, anomaly/misinformation detection, and trustworthy machine learning.
 
 I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\]. Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
@@ -25,6 +25,8 @@ I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 202
 
 <div class="highlight">
   <pre>
+<li>[06/2023] Be invited to serve as a PC member for <a href="https://icdm-2023-gml4rec.github.io/">GML4Rec@ICDM'23</a>.</li>
+<li>[06/2023] Be invited to serve as a PC member for <a href="https://sites.google.com/view/kdd-mlf-2023">MLF@KDD'23</a>.</li>
 <li>[04/2023] Be invited to serve as a PC member for <a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a>.</li>
 <li>[02/2023] Be invited to serve as a PC member for <a href="https://2023.ecmlpkdd.org/">ECML-PKDD 2023</a>.</li>
 <li>[02/2023] One <a href="https://arxiv.org/pdf/2302.07363.pdf">paper</a> is accepted by <a href="https://www2023.thewebconf.org/">TheWebConf 2023</a>.</li>
