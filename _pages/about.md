@@ -25,6 +25,7 @@ I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 202
 
 <div class="highlight">
   <pre>
+<li>[07/2023] Our TheWebConf'23 paper is featured on <a href="https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/">Montreal AI Ethics Institute</a>.</li>
 <li>[06/2023] Be invited to serve as a PC member for <a href="https://icdm-2023-gml4rec.github.io/">GML4Rec@ICDM'23</a>.</li>
 <li>[06/2023] Be invited to serve as a PC member for <a href="https://sites.google.com/view/kdd-mlf-2023">MLF@KDD'23</a>.</li>
 <li>[04/2023] Be invited to serve as a PC member for <a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a>.</li>
