@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yingtong Dou 窦英通"
   avatar           : "selfie photo.jpg"
-  bio              : "5th year CS PhD student @UIC"
-  location         : "Chicago, Illinois"
-  employer         :
+  bio              : "Researcher"
+  location         : "Palo Alto, California"
+  employer         : "Visa Inc"
   googlescholar    : "https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en"
   email            : "ytongdou@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yingtong_Dou"
@@ -270,7 +270,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

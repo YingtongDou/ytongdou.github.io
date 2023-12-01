@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-![head](/images/head.png){: .align-center}
+![head](/images/new_head.png){: .align-center}
 
 
 <p align="center">
@@ -16,9 +16,9 @@ redirect_from:
 
 ## Bio
 
-I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). My research interests include graph mining, anomaly/misinformation detection, and trustworthy machine learning.
+I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Transaction Insights team led by [Dr. Mahashweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html), I am currently working on payment foundation models and deep learning for advanced authentication. My research interests include graph mining, anomaly detection, and deep learning for tabular data.
 
-I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\]. Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
+Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\]. Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
 
 ## News
