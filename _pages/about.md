@@ -25,7 +25,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
-<li>[01/2024] Be invited to serve as a PC member for <a href="https://cy-soc.github.io/2024/">CySoc@ICWSM'24</a>.</li>    
+<li>[02/2024] Be invited to serve as a PC member for <a href="https://cy-soc.github.io/2024/">CySoc@ICWSM'24</a>.</li>    
 <li>[01/2024] Be invited to serve as a PC member for <a href="https://kdd2024.kdd.org/">KDD 2024</a>.</li>
 <li>[07/2023] Our TheWebConf'23 paper is featured on <a href="https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/">Montreal AI Ethics Institute</a>.</li>
 <li>[06/2023] Be invited to serve as a PC member for <a href="https://icdm-2023-gml4rec.github.io/">GML4Rec@ICDM'23</a>.</li>
