@@ -10,15 +10,15 @@ author_profile: false
 
 ### 2024
 
-* **PyGOD: A Python Library for Graph Outlier Detection.**
+* **PyGOD: A Python Library for Graph Outlier Detection.**  
 [Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\* et al.  
-JMLR. Jun. 2024.  
+JMLR 2024.  
 \[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]\[[BibTeX](https://ytongdou.com/files/bib16.txt)]
 
 
 ### 2023
 
-* **Attacking Fake News Detectors via Manipulating News Social Engagement.**
+* **Attacking Fake News Detectors via Manipulating News Social Engagement.**  
 Haoran Wang, **Yingtong Dou**, Canyu Chen, Lichao Sun, Philip S. Yu, Kai Shu.  
 TheWebConf 2023.  
 \[[Paper](https://arxiv.org/pdf/2302.07363.pdf)]\[[Code](https://github.com/hwang219/AttackFakeNews)]\[[BibTeX](https://ytongdou.com/files/bib19.txt)]

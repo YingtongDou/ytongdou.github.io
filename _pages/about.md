@@ -141,7 +141,7 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 
 <li><b>PyGOD: A Python Library for Graph Outlier Detection.</b></li>
 &ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\* et al.  
-&ensp;&ensp;&ensp;JMLR. Jun. 2024.  
+&ensp;&ensp;&ensp;JMLR 2024.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]\[[BibTeX](https://ytongdou.com/files/bib16.txt)]
 
 
