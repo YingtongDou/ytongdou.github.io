@@ -16,7 +16,7 @@ redirect_from:
 
 ## Bio
 
-I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Transaction Insight team led by [Dr. Mahashweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html), I am currently working on payment foundation models and deep learning for advanced authentication. My research interests include graph mining, anomaly detection, and deep learning for tabular data.
+I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Foundational AI team led by [Dr. Mahashweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html), I am currently working on payment foundation models and deep learning for advanced authentication. My research interests include graph mining, anomaly detection, and deep learning for tabular data.
 
 Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\]. Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
@@ -25,8 +25,12 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
+<li>[05/2024] Be invited to serve as a PC member for <a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">MLF@KDD'24</a>.</li>
+<li>[05/2024] Be invited to serve as a PC member for <a href="https://neurips.cc/">NeurIPS'24</a>.</li>
+<li>[04/2024] Our <a href="https://arxiv.org/abs/2204.12095">PyGOD Package</a> is accepted by <a href="https://www.jmlr.org/mloss/">JMLR MLOSS Track</a>.</li>
+<li>[03/2024] Our neural network for transactional data (<a href="https://www.tdcommons.org/dpubs_series/6780">TransNet</a>) is released as defensive publication.</li> 
 <li>[02/2024] Be invited to serve as a PC member for <a href="https://cy-soc.github.io/2024/">CySoc@ICWSM'24</a>.</li>    
-<li>[01/2024] Be invited to serve as a PC member for <a href="https://kdd2024.kdd.org/">KDD 2024</a>.</li>
+<li>[01/2024] Be invited to serve as a PC member for <a href="https://kdd2024.kdd.org/">KDD 2024</a>.</li>    
 <li>[07/2023] Our TheWebConf'23 paper is featured on <a href="https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/">Montreal AI Ethics Institute</a>.</li>
 <li>[06/2023] Be invited to serve as a PC member for <a href="https://icdm-2023-gml4rec.github.io/">GML4Rec@ICDM'23</a>.</li>
 <li>[06/2023] Be invited to serve as a PC member for <a href="https://sites.google.com/view/kdd-mlf-2023">MLF@KDD'23</a>.</li>
@@ -127,21 +131,18 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 <li>[Talk] <a href="https://ytongdou.com/files/tencent_talk.pdf">An Introduction to Graph-based Spam Review Detection.</a> at Tencent.</li>
 
 
-## Preprints
+<!-- ## Preprints -->
 
-<li><b>PyGOD: A Python Library for Graph Outlier Detection.</b></li>
-&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
-&ensp;&ensp;&ensp;Preprint. Apr. 2022.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]\[[BibTeX](https://ytongdou.com/files/bib16.txt)]
+
 
 
 
 ## Selected Publications
 
-<li><b>Attacking Fake News Detectors via Manipulating News Social Engagement.</b></li>
-&ensp;&ensp;&ensp;Haoran Wang, **Yingtong Dou**, Canyu Chen, Lichao Sun, Philip S. Yu, Kai Shu.  
-&ensp;&ensp;&ensp;TheWebConf 2023.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2302.07363.pdf)]\[[Code](https://github.com/hwang219/AttackFakeNews)]\[[BibTeX](https://ytongdou.com/files/bib19.txt)]
+<li><b>PyGOD: A Python Library for Graph Outlier Detection.</b></li>
+&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\* et al.  
+&ensp;&ensp;&ensp;JMLR. Jun. 2024.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]\[[BibTeX](https://ytongdou.com/files/bib16.txt)]
 
 
 <li><b>BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.</b></li>
