@@ -16,7 +16,7 @@ redirect_from:
 
 ## Bio
 
-I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Foundational AI team led by [Dr. Mahashweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html), I am currently working on payment foundation models and deep learning for advanced authentication. My research interests include graph mining, anomaly detection, and deep learning for tabular data.
+I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Foundational AI team led by [Dr. Mahashweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html), I am currently working on payment foundation models, and deep learning for authentication and authorization. My research interests include foundation models for tabular and sequential data, ML trust and safety, and graph mining.
 
 Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\]. Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
@@ -25,6 +25,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
+<li>[07/2024] Be invited to serve as a PC member for <a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">KDD'25</a>.</li>
 <li>[05/2024] Be invited to serve as a PC member for <a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">MLF@KDD'24</a>.</li>
 <li>[05/2024] Be invited to serve as a PC member for <a href="https://neurips.cc/">NeurIPS'24</a>.</li>
 <li>[04/2024] Our <a href="https://arxiv.org/abs/2204.12095">PyGOD Package</a> is accepted by <a href="https://www.jmlr.org/mloss/">JMLR MLOSS Track</a>.</li>
