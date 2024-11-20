@@ -25,7 +25,8 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
-<li>[07/2024] Be invited to serve as a PC member for <a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">KDD'25</a>.</li>
+<li>[07/2024] Be invited to serve as a PC member for <a href="https://kdd2025.kdd.org/">KDD'25</a>.</li>
+<li>[05/2024] Be invited to serve as a PC member for <a href="https://recsys.acm.org/recsys24/">RecSys'24</a>.</li>
 <li>[05/2024] Be invited to serve as a PC member for <a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">MLF@KDD'24</a>.</li>
 <li>[05/2024] Be invited to serve as a PC member for <a href="https://neurips.cc/">NeurIPS'24</a>.</li>
 <li>[04/2024] Our <a href="https://arxiv.org/abs/2204.12095">PyGOD Package</a> is accepted by <a href="https://www.jmlr.org/mloss/">JMLR MLOSS Track</a>.</li>
