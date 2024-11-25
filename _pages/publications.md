@@ -3,12 +3,14 @@ permalink: /publications/
 author_profile: false
 ---
 
-![head](/images/head.png){: .align-center}
+![head](/images/new_head.png){: .align-center}
 
 
 ## Publications ([Back to Homepage](https://ytongdou.com/))
 
 ### 2024
+
+
 
 * **PyGOD: A Python Library for Graph Outlier Detection.**  
 [Kay Liu](https://kayzliu.com/)\*, **Yingtong Dou**\* et al.  
