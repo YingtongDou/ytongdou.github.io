@@ -135,7 +135,7 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 ## Recent Work
 
 <li><b>Personalized Layer Selection for Graph Neural Networks.</b></li>
-&ensp;&ensp;&ensp;\[[Kartik Sharma](https://ksartik.github.io/)], Vineeth Mohan, Yingtong Dou et al.  
+&ensp;&ensp;&ensp;[Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
 &ensp;&ensp;&ensp;TMLR 2025.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2501.14964)]
 
