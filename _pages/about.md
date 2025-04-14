@@ -25,7 +25,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
-<li>[04/2025] One <a href="https://arxiv.org/pdf/2501.14964">paper</a> with summer intern <a href="https://ksartik.github.io/">Kartik Sharma</a> is accepted by TMLR</a>.</li>
+<li>[04/2025] One <a href="https://arxiv.org/pdf/2501.14964">paper</a> with summer intern <a href="https://ksartik.github.io/">Kartik Sharma</a> is accepted by TMLR.</li>
 <li>[07/2024] Be invited to serve as a PC member for <a href="https://kdd2025.kdd.org/">KDD'25</a>.</li>
 <li>[05/2024] Be invited to serve as a PC member for <a href="https://recsys.acm.org/recsys24/">RecSys'24</a>，<a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">MLF@KDD'24</a>，<a href="https://neurips.cc/">NeurIPS'24</a>.</li>
 <li>[04/2024] Our <a href="https://arxiv.org/abs/2204.12095">PyGOD Package</a> is accepted by <a href="https://www.jmlr.org/mloss/">JMLR MLOSS Track</a>.</li>
@@ -132,10 +132,10 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 <li>[Talk] <a href="https://ytongdou.com/files/tencent_talk.pdf">An Introduction to Graph-based Spam Review Detection.</a> at Tencent.</li>
 
 
-## Recent Preprints & Publications
+## Recent Work
 
 <li><b>Personalized Layer Selection for Graph Neural Networks.</b></li>
-&ensp;&ensp;&ensp;Kartik Sharma, Vineeth Mohan, Yingtong Dou et al.  
+&ensp;&ensp;&ensp;\[[Kartik Sharma](https://ksartik.github.io/)], Vineeth Mohan, Yingtong Dou et al.  
 &ensp;&ensp;&ensp;TMLR 2025.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2501.14964)]
 
