@@ -25,6 +25,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
+<li>[04/2025] One <a href="https://arxiv.org/pdf/2501.14964">paper</a> with summer intern <a href="https://ksartik.github.io/">Kartik Sharma</a> is accepted by TMLR</a>.</li>
 <li>[07/2024] Be invited to serve as a PC member for <a href="https://kdd2025.kdd.org/">KDD'25</a>.</li>
 <li>[05/2024] Be invited to serve as a PC member for <a href="https://recsys.acm.org/recsys24/">RecSys'24</a>，<a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">MLF@KDD'24</a>，<a href="https://neurips.cc/">NeurIPS'24</a>.</li>
 <li>[04/2024] Our <a href="https://arxiv.org/abs/2204.12095">PyGOD Package</a> is accepted by <a href="https://www.jmlr.org/mloss/">JMLR MLOSS Track</a>.</li>
@@ -131,8 +132,12 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 <li>[Talk] <a href="https://ytongdou.com/files/tencent_talk.pdf">An Introduction to Graph-based Spam Review Detection.</a> at Tencent.</li>
 
 
-<!-- ## Preprints -->
+## Recent Preprints & Publications
 
+<li><b>Personalized Layer Selection for Graph Neural Networks.</b></li>
+&ensp;&ensp;&ensp;Kartik Sharma, Vineeth Mohan, Yingtong Dou et al.  
+&ensp;&ensp;&ensp;TMLR 2025.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2501.14964)]
 
 
 
@@ -151,12 +156,6 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[Chinese Blog](https://mp.weixin.qq.com/s/rvCtqP1f1NwT6_JsQ-XBhg)]\[[BibTeX](https://ytongdou.com/files/bib17.txt)]
 
 
-<li><b>Automating DBSCAN via Deep Reinforcement Learning.</b></li>
-&ensp;&ensp;&ensp;Ruitong Zhang, Hao Peng, **Yingtong Dou**, Jia Wu, Qingyun Sun, Jingyi Zhang, Philip S. Yu.  
-&ensp;&ensp;&ensp;ACM CIKM. 2022.  ([Best Paper Honorable Mention](https://www.cikm2022.org/best-paper))  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2208.04537.pdf)]\[[Code](https://github.com/RingBDStack/DRL-DBSCAN)]\[[BibTeX](https://ytongdou.com/files/bib18.txt)]
-
-
 <li><b>User Preference-aware Fake News Detection.</b></li> 
 &ensp;&ensp;&ensp;**Yingtong Dou**, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
 &ensp;&ensp;&ensp;ACM SIGIR. 2021.  ([Trending New Datasets for 2021](https://twitter.com/paperswithcode/status/1476544719790526464))  
@@ -173,5 +172,3 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 &ensp;&ensp;&ensp;**Yingtong Dou**, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
 &ensp;&ensp;&ensp;ACM SIGKDD. 2020.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)]\[[Code](https://github.com/YingtongDou/Nash-Detect)]\[[Slides](https://ytongdou.com/files/kdd20slides.pdf)]\[[Video](https://youtu.be/Pa13fabSGVw)]\[[Chinese Blog](https://mp.weixin.qq.com/s/fTE_pa11wfcydC-LNgyjQg)]\[[BibTeX](https://ytongdou.com/files/bib5.txt)]
-
-([All publications](https://ytongdou.com/publications))
