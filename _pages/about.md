@@ -25,6 +25,8 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
+<li>[07/2025] Release two preprints on <a href="https://arxiv.org/abs/2507.05633">RAG compression</a> and <a href="https://www.arxiv.org/abs/2506.15751/">LLM guardrails</a>.</li>
+<li>[06/2025] Serving as reviewers for NeurIPS 2025, <a href="https://icaif25.org/">ICAIF 2025</a>, and KDD 2026.</li>
 <li>[04/2025] One <a href="https://arxiv.org/pdf/2501.14964">paper</a> with summer intern <a href="https://ksartik.github.io/">Kartik Sharma</a> is accepted by TMLR.</li>
 <li>[07/2024] Be invited to serve as a PC member for <a href="https://kdd2025.kdd.org/">KDD'25</a>.</li>
 <li>[05/2024] Be invited to serve as a PC member for <a href="https://recsys.acm.org/recsys24/">RecSys'24</a>，<a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">MLF@KDD'24</a>，<a href="https://neurips.cc/">NeurIPS'24</a>.</li>
@@ -133,6 +135,16 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 
 
 ## Recent Work
+
+<li><b>SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression.</b></li>
+&ensp;&ensp;&ensp;[Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
+&ensp;&ensp;&ensp;Preprint.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2507.05633)]
+
+<li><b>Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts.</b></li>
+&ensp;&ensp;&ensp;[Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
+&ensp;&ensp;&ensp;Preprint.  
+&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2506.15751)]
 
 <li><b>Personalized Layer Selection for Graph Neural Networks.</b></li>
 &ensp;&ensp;&ensp;[Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
