@@ -137,13 +137,13 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 ## Recent Work
 
 <li><b>SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression.</b></li>
-&ensp;&ensp;&ensp;[Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
-&ensp;&ensp;&ensp;Preprint.  
+&ensp;&ensp;&ensp;[Yiqiao Jin](https://ahren09.github.io/), [Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
+&ensp;&ensp;&ensp;Preprint 07/2025.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2507.05633)]
 
 <li><b>Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts.</b></li>
 &ensp;&ensp;&ensp;[Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
-&ensp;&ensp;&ensp;Preprint.  
+&ensp;&ensp;&ensp;Preprint 06/2025.  
 &ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2506.15751)]
 
 <li><b>Personalized Layer Selection for Graph Neural Networks.</b></li>
