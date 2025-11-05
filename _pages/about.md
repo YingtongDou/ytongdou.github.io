@@ -16,7 +16,7 @@ redirect_from:
 
 ## Bio
 
-I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Foundational AI team led by [Dr. Mahashweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html), I am currently working on payment foundation models, deep learning for authentication and authorization, and various LLM applications in payment. My research interests include foundation models for tabular and sequential data, ML trust and safety, and graph mining.
+I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Foundational AI team led by [Dr. Mahashweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html), I am currently working on payment foundation models, deep learning for fraud detection, and various LLM applications in payment. My research interests include transaction data modeling, ML trust and safety, and graph mining.
 
 Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\]. Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
@@ -144,19 +144,19 @@ EMNLP 2025.
 \[[Paper](https://aclanthology.org/2025.emnlp-industry.61.pdf)]
 
 <li><b>SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression.</b></li>
-&ensp;[Yiqiao Jin](https://ahren09.github.io/), [Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
-&ensp;Preprint 07/2025.  
-&ensp;\[[Paper](https://arxiv.org/pdf/2507.05633)]
+[Yiqiao Jin](https://ahren09.github.io/), [Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
+Preprint 07/2025.  
+\[[Paper](https://arxiv.org/pdf/2507.05633)]
 
 <li><b>Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts.</b></li>
-&ensp;&ensp;&ensp;[Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
-&ensp;&ensp;&ensp;Preprint 06/2025.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2506.15751)]
+[Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
+Preprint 06/2025.  
+\[[Paper](https://arxiv.org/pdf/2506.15751)]
 
 <li><b>Personalized Layer Selection for Graph Neural Networks.</b></li>
-&ensp;&ensp;&ensp;[Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
-&ensp;&ensp;&ensp;TMLR 2025.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2501.14964)]
+[Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
+TMLR 2025.  
+\[[Paper](https://arxiv.org/pdf/2501.14964)]
 
 
 
@@ -164,30 +164,30 @@ EMNLP 2025.
 ## Selected Publications
 
 <li><b>PyGOD: A Python Library for Graph Outlier Detection.</b></li>
-&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, Yingtong Dou\* et al.  
-&ensp;&ensp;&ensp;JMLR 2024.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]
+[Kay Liu](https://kayzliu.com/)\*, Yingtong Dou\* et al.  
+JMLR 2024.  
+\[[Paper](https://arxiv.org/pdf/2204.12095.pdf)]\[[Code](https://github.com/pygod-team/pygod/)]
 
 
 <li><b>BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.</b></li>
-&ensp;&ensp;&ensp;[Kay Liu](https://kayzliu.com/)\*, Yingtong Dou\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
-&ensp;&ensp;&ensp;NeurIPS 2022.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[Chinese Blog](https://mp.weixin.qq.com/s/rvCtqP1f1NwT6_JsQ-XBhg)]
+[Kay Liu](https://kayzliu.com/)\*, Yingtong Dou\*, [Yue Zhao](https://www.andrew.cmu.edu/user/yuezhao2/)\* et al.  
+NeurIPS 2022.  
+\[[Paper](https://arxiv.org/pdf/2206.10071.pdf)]\[[Code](https://github.com/pygod-team/pygod/tree/main/benchmark)]\[[Chinese Blog](https://mp.weixin.qq.com/s/rvCtqP1f1NwT6_JsQ-XBhg)]
 
 
 <li><b>User Preference-aware Fake News Detection.</b></li> 
-&ensp;&ensp;&ensp;Yingtong Dou, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
-&ensp;&ensp;&ensp;ACM SIGIR. 2021.  ([Trending New Datasets for 2021](https://twitter.com/paperswithcode/status/1476544719790526464))  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)]\[[Code](https://github.com/safe-graph/GNN-FakeNews)]\[[Slides](https://ytongdou.com/files/SIGIR21slides.pdf)]\[[Video](https://www.youtube.com/watch?v=QAIVFr24FrA&ab_channel=DeepFindr)]\[[PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)]\[[DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)]\[[Data](https://paperswithcode.com/dataset/upfd)]\[[Chinese Blog](https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg)]
+Yingtong Dou, [Kai Shu](http://www.cs.iit.edu/~kshu/), [Congying Xia](https://congyingxia.github.io/), Philip S. Yu, [Lichao Sun](https://www.cs.uic.edu/~lsun/).  
+ACM SIGIR. 2021.  ([Trending New Datasets for 2021](https://twitter.com/paperswithcode/status/1476544719790526464))  
+\[[Paper](https://arxiv.org/pdf/2104.12259.pdf)]\[[Code](https://github.com/safe-graph/GNN-FakeNews)]\[[Slides](https://ytongdou.com/files/SIGIR21slides.pdf)]\[[Video](https://www.youtube.com/watch?v=QAIVFr24FrA&ab_channel=DeepFindr)]\[[PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)]\[[DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)]\[[Data](https://paperswithcode.com/dataset/upfd)]\[[Chinese Blog](https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg)]
 
 
 <li><b>Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters.</b></li> 
-&ensp;&ensp;&ensp;Yingtong Dou, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
-&ensp;&ensp;&ensp;ACM CIKM. 2020.  ([Top 10 Influential Papers at CIKM'20](https://www.paperdigest.org/2022/05/most-influential-cikm-papers-2022-05/))  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)]\[[Code](https://github.com/YingtongDou/CARE-GNN)]\[[Slides](https://ytongdou.com/files/cikm20slides.pdf)]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)]
+Yingtong Dou, [Zhiwei Liu](https://sites.google.com/view/zhiwei-jim), [Li Sun](https://www.researchgate.net/profile/Li_Sun118), Yutong Deng, [Hao Peng](https://penghao-buaa.github.io/), Philip S. Yu.  
+ACM CIKM. 2020.  ([Top 10 Influential Papers at CIKM'20](https://www.paperdigest.org/2022/05/most-influential-cikm-papers-2022-05/))  
+\[[Paper](https://arxiv.org/pdf/2008.08692.pdf)]\[[Code](https://github.com/YingtongDou/CARE-GNN)]\[[Slides](https://ytongdou.com/files/cikm20slides.pdf)]\[[DGL Example](https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn)]
 
 
 <li><b>Robust Spammer Detection by Nash Reinforcement Learning.</b></li> 
-&ensp;&ensp;&ensp;Yingtong Dou, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
-&ensp;&ensp;&ensp;ACM SIGKDD. 2020.  
-&ensp;&ensp;&ensp;\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)]\[[Code](https://github.com/YingtongDou/Nash-Detect)]\[[Slides](https://ytongdou.com/files/kdd20slides.pdf)]\[[Video](https://youtu.be/Pa13fabSGVw)]\[[Chinese Blog](https://mp.weixin.qq.com/s/fTE_pa11wfcydC-LNgyjQg)]
+Yingtong Dou, Guixiang Ma, Philip S. Yu, [Sihong Xie](http://www.cse.lehigh.edu/~sxie/).  
+ACM SIGKDD. 2020.  
+\[[Paper](https://arxiv.org/pdf/2006.06069.pdf)]\[[Code](https://github.com/YingtongDou/Nash-Detect)]\[[Slides](https://ytongdou.com/files/kdd20slides.pdf)]\[[Video](https://youtu.be/Pa13fabSGVw)]\[[Chinese Blog](https://mp.weixin.qq.com/s/fTE_pa11wfcydC-LNgyjQg)]
