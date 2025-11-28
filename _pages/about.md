@@ -16,7 +16,7 @@ redirect_from:
 
 ## Bio
 
-I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Foundational AI team led by [Dr. Mahashweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html), I am currently working on payment foundation models, deep learning for fraud detection, and various LLM applications in payment. My research interests include transaction data modeling, ML trust and safety, and graph mining.
+I am a research scientist at [Visa Research](https://usa.visa.com/about-visa/visa-research.html). As a member of the Foundational AI team, I am currently working on payment foundation models, deep learning for fraud detection, and various LLM applications in payment. My research interests include transaction data modeling, ML trust and safety, and graph mining.
 
 Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of Illinois Chicago in 2022, advised by [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/). My Ph.D. dissertation is "Robust Graph Learning for Misbehavior Detection" \[[PDF](https://doi.org/10.25417/uic.22226566.v1)\]. Before attending UIC, I received my B.E. from Beijing University of Posts and Telecommunications in 2017.
 
@@ -25,6 +25,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
+<li>[11/2025] One transaction foundation model paper<a href="https://arxiv.org/abs/2511.19693">TREASURE</a> accepted by KDD 2026.</li>
 <li>[11/2025] <a href="https://arxiv.org/abs/2511.08939">TransactionGPT</a> technical report released.</li>
 <li>[10/2025] A foundation model <a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">paper</a> accepted by EMNLP 2025.</li>
 <li>[09/2025] Serving as PC member for <a href="https://www2026.thewebconf.org/">TheWebConf 2026</a>.</li>
@@ -142,6 +143,11 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 Yingtong Dou, Yuzhong Chen et al.  
 Technical Report 11/2025.  
 \[[Paper](https://arxiv.org/pdf/2511.08939.pdf)]
+
+<li><b>TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding</b></li>
+Chin-Chia Michael Yeh, Uday Singh Saini et al.  
+KDD 2026 11/2025.  
+\[[Paper](https://arxiv.org/pdf/2511.19693.pdf)]
 
 <li><b>Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings</b></li>
 Xiran Fan, Zhimeng Jiang, Chin-Chia Michael Yeh, Yuzhong Chen, Yingtong Dou et al.  
