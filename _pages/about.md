@@ -25,7 +25,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
-<li>[11/2025] One transaction foundation model paper<a href="https://arxiv.org/abs/2511.19693">TREASURE</a> accepted by KDD 2026.</li>
+<li>[11/2025] One transaction foundation model paper <a href="https://arxiv.org/abs/2511.19693">TREASURE</a> accepted by KDD 2026.</li>
 <li>[11/2025] <a href="https://arxiv.org/abs/2511.08939">TransactionGPT</a> technical report released.</li>
 <li>[10/2025] A foundation model <a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">paper</a> accepted by EMNLP 2025.</li>
 <li>[09/2025] Serving as PC member for <a href="https://www2026.thewebconf.org/">TheWebConf 2026</a>.</li>
@@ -150,7 +150,7 @@ KDD 2026 11/2025.
 \[[Paper](https://arxiv.org/pdf/2511.19693.pdf)]
 
 <li><b>Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings</b></li>
-Xiran Fan, Zhimeng Jiang, Chin-Chia Michael Yeh, Yuzhong Chen, Yingtong Dou et al.  
+Xiran Fan, Zhimeng Jiang et al.  
 EMNLP 2025.  
 \[[Paper](https://aclanthology.org/2025.emnlp-industry.61.pdf)]
 
