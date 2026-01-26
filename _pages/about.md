@@ -25,6 +25,8 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <div class="highlight">
   <pre>
+<li>[01/2026] One LLM safety paper <a href="https://arxiv.org/pdf/2506.15751">Sysformer</a> accepted by ICLR 2026.</li>
+<li>[09/2025] Serving as PC member for <a href="https://sites.google.com/view/iclr2026finai/home">Advances in Financial AI Workshop at ICLR 2026</a>.</li>
 <li>[11/2025] One transaction foundation model paper <a href="https://arxiv.org/abs/2511.19693">TREASURE</a> accepted by KDD 2026.</li>
 <li>[11/2025] <a href="https://arxiv.org/abs/2511.08939">TransactionGPT</a> technical report released.</li>
 <li>[10/2025] A foundation model <a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">paper</a> accepted by EMNLP 2025.</li>
@@ -144,6 +146,11 @@ Yingtong Dou, Yuzhong Chen et al.
 Technical Report 11/2025.  
 \[[Paper](https://arxiv.org/pdf/2511.08939.pdf)]
 
+<li><b>Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts</b></li>
+[Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
+ICLR 2026.  
+\[[Paper](https://arxiv.org/pdf/2506.15751)]
+
 <li><b>TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding</b></li>
 Chin-Chia Michael Yeh, Uday Singh Saini et al.  
 KDD 2026 11/2025.  
@@ -159,10 +166,7 @@ EMNLP 2025.
 Preprint 07/2025.  
 \[[Paper](https://arxiv.org/pdf/2507.05633)]
 
-<li><b>Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts</b></li>
-[Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
-Preprint 06/2025.  
-\[[Paper](https://arxiv.org/pdf/2506.15751)]
+
 
 <li><b>Personalized Layer Selection for Graph Neural Networks</b></li>
 [Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
