@@ -153,7 +153,7 @@ ICLR 2026.
 
 <li><b>TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding</b></li>
 Chin-Chia Michael Yeh, Uday Singh Saini et al.  
-KDD 2026 11/2025.  
+KDD 2026.  
 \[[Paper](https://arxiv.org/pdf/2511.19693.pdf)]
 
 <li><b>Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings</b></li>
@@ -165,8 +165,6 @@ EMNLP 2025.
 [Yiqiao Jin](https://ahren09.github.io/), [Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
 Preprint 07/2025.  
 \[[Paper](https://arxiv.org/pdf/2507.05633)]
-
-
 
 <li><b>Personalized Layer Selection for Graph Neural Networks</b></li>
 [Kartik Sharma](https://ksartik.github.io/), Vineeth Mohan, Yingtong Dou et al.  
