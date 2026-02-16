@@ -1,0 +1,1108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TransactionGPT: A Foundation Model for Consumer Transaction Data</title>
+<meta name="description" content="TransactionGPT — the first foundation model purpose-built for consumer payment transaction data, featuring a novel 3D-Transformer architecture with Virtual Token Layer.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #1434cb;
+    --deep-blue: #0f2595;
+    --visa-blue: #1434cb;
+    --visa-gold: #FCC015;
+    --accent-cyan: #80D7FF;
+    --accent-teal: #BDEAFF;
+    --accent-purple: #173be8;
+    --light-bg: #f8f9fc;
+    --card-bg: #ffffff;
+    --text-primary: #1e293b;
+    --text-secondary: #475569;
+    --text-muted: #94a3b8;
+    --border: #e2e8f0;
+    --gradient-hero: linear-gradient(135deg, #0f2595 0%, #1434cb 40%, #173be8 70%, #1434cb 100%);
+    --gradient-accent: linear-gradient(135deg, #80D7FF, #BDEAFF);
+    --gradient-warm: linear-gradient(135deg, #FCC015, #e6ad00);
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+    --shadow-lg: 0 10px 40px rgba(0,0,0,0.1);
+    --shadow-xl: 0 20px 60px rgba(0,0,0,0.12);
+    --radius: 12px;
+    --radius-lg: 20px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: var(--text-primary);
+    line-height: 1.7;
+    background: var(--light-bg);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ─── Navigation ─── */
+  nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    background: rgba(15, 37, 149, 0.92);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    padding: 0 2rem;
+    height: 60px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  nav .logo {
+    font-weight: 800; font-size: 1.1rem; color: #fff;
+    letter-spacing: -0.02em;
+  }
+  nav .logo span { color: var(--visa-gold); }
+  nav .nav-links { display: flex; gap: 1.8rem; }
+  nav .nav-links a {
+    color: rgba(255,255,255,0.7); text-decoration: none;
+    font-size: 0.85rem; font-weight: 500; letter-spacing: 0.02em;
+    transition: color 0.2s;
+  }
+  nav .nav-links a:hover { color: #fff; }
+
+  /* ─── Hero Section ─── */
+  .hero {
+    background: var(--gradient-hero);
+    padding: 10rem 2rem 6rem;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    color: #fff;
+  }
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(ellipse 600px 400px at 20% 50%, rgba(128,215,255,0.1) 0%, transparent 70%),
+      radial-gradient(ellipse 500px 500px at 80% 30%, rgba(189,234,255,0.1) 0%, transparent 70%),
+      radial-gradient(ellipse 400px 300px at 60% 80%, rgba(252,192,21,0.08) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-content { position: relative; max-width: 900px; margin: 0 auto; }
+  .hero-badge {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 100px; padding: 0.4rem 1.2rem;
+    font-size: 0.82rem; font-weight: 500; letter-spacing: 0.03em;
+    margin-bottom: 2rem; color: rgba(255,255,255,0.85);
+  }
+  .hero-badge .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--accent-cyan);
+    box-shadow: 0 0 8px var(--accent-cyan);
+  }
+  .hero h1 {
+    font-size: clamp(2.8rem, 6vw, 4.5rem);
+    font-weight: 900; letter-spacing: -0.03em;
+    line-height: 1.1; margin-bottom: 0.4rem;
+  }
+  .hero h1 .highlight {
+    background: var(--gradient-warm);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .hero .subtitle {
+    font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+    font-weight: 300; color: rgba(255,255,255,0.7);
+    max-width: 680px; margin: 1rem auto 2rem;
+    line-height: 1.6;
+  }
+  .hero .authors {
+    font-size: 0.92rem; color: rgba(255,255,255,0.55);
+    margin-bottom: 2.5rem; line-height: 1.8;
+  }
+  .hero .authors strong { color: rgba(255,255,255,0.85); font-weight: 600; }
+  .hero-stats {
+    display: flex; justify-content: center; gap: 3rem;
+    flex-wrap: wrap; margin-top: 1rem;
+  }
+  .hero-stat {
+    text-align: center;
+  }
+  .hero-stat .value {
+    font-size: 2.2rem; font-weight: 800; letter-spacing: -0.02em;
+    color: var(--visa-gold);
+  }
+  .hero-stat .label {
+    font-size: 0.78rem; color: rgba(255,255,255,0.5);
+    text-transform: uppercase; letter-spacing: 0.08em; font-weight: 500;
+    margin-top: 0.2rem;
+  }
+  .hero-buttons {
+    display: flex; gap: 1rem; justify-content: center;
+    margin-top: 2.5rem; flex-wrap: wrap;
+  }
+  .btn {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    padding: 0.75rem 1.6rem; border-radius: 100px;
+    font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 0.25s ease;
+  }
+  .btn-primary {
+    background: #fff; color: var(--navy);
+  }
+  .btn-primary:hover { background: var(--visa-gold); color: var(--deep-blue); transform: translateY(-1px); box-shadow: 0 8px 30px rgba(252,192,21,0.3); }
+  .btn-outline {
+    background: transparent; color: #fff;
+    border: 1.5px solid rgba(255,255,255,0.3);
+  }
+  .btn-outline:hover { border-color: rgba(255,255,255,0.6); background: rgba(255,255,255,0.05); }
+
+  /* ─── Section ─── */
+  section {
+    padding: 5rem 2rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .section-label {
+    font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.12em; color: var(--accent-purple);
+    margin-bottom: 0.6rem;
+  }
+  .section-title {
+    font-size: clamp(1.8rem, 4vw, 2.5rem);
+    font-weight: 800; letter-spacing: -0.02em;
+    line-height: 1.2; margin-bottom: 1rem;
+    color: var(--text-primary);
+  }
+  .section-desc {
+    font-size: 1.05rem; color: var(--text-secondary);
+    max-width: 700px; line-height: 1.7; margin-bottom: 3rem;
+  }
+
+  /* ─── Cards Grid ─── */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 2rem;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .card:hover { box-shadow: var(--shadow-lg); transform: translateY(-2px); border-color: transparent; }
+  .card .card-icon {
+    width: 44px; height: 44px; border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.2rem; margin-bottom: 1.2rem; font-weight: 700;
+  }
+  .card h3 {
+    font-size: 1.1rem; font-weight: 700; margin-bottom: 0.6rem;
+    letter-spacing: -0.01em;
+  }
+  .card p {
+    font-size: 0.9rem; color: var(--text-secondary); line-height: 1.65;
+  }
+  .icon-blue { background: #DBF4FF; color: #0f2595; }
+  .icon-purple { background: #BDEAFF; color: #1434cb; }
+  .icon-teal { background: #DBF4FF; color: #173be8; }
+  .icon-amber { background: #fff3d0; color: #b8900e; }
+
+  /* ─── MMTT Data Section ─── */
+  .mmtt-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .mmtt-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.8rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .mmtt-card::before {
+    content: '';
+    position: absolute; top: 0; left: 0; right: 0; height: 3px;
+  }
+  .mmtt-card:nth-child(1)::before { background: var(--gradient-accent); }
+  .mmtt-card:nth-child(2)::before { background: linear-gradient(90deg, #1434cb, #173be8); }
+  .mmtt-card:nth-child(3)::before { background: var(--gradient-warm); }
+  .mmtt-card h4 { font-size: 1rem; font-weight: 700; margin-bottom: 0.5rem; }
+  .mmtt-card p { font-size: 0.88rem; color: var(--text-secondary); line-height: 1.6; }
+
+  /* ─── Architecture ─── */
+  .arch-evolution {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .arch-step {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 2rem;
+    text-align: center;
+    position: relative;
+  }
+  .arch-step .step-num {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 36px; height: 36px; border-radius: 50%;
+    font-size: 0.85rem; font-weight: 800; margin-bottom: 1rem;
+  }
+  .arch-step:nth-child(1) .step-num { background: #DBF4FF; color: #0f2595; }
+  .arch-step:nth-child(2) .step-num { background: #BDEAFF; color: #1434cb; }
+  .arch-step:nth-child(3) .step-num { background: #fff3d0; color: #b8900e; }
+  .arch-step h4 { font-size: 1.15rem; font-weight: 800; margin-bottom: 0.4rem; }
+  .arch-step .arch-tag {
+    font-size: 0.75rem; color: var(--text-muted); font-weight: 500;
+    margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.06em;
+  }
+  .arch-step p { font-size: 0.88rem; color: var(--text-secondary); line-height: 1.6; }
+  .arch-step .arch-diagram {
+    width: 100%; margin: 1rem 0 0.5rem;
+    border-radius: 8px; border: 1px solid var(--border);
+    background: #fff;
+  }
+  .arch-arrow {
+    display: none;
+  }
+
+  /* VTL */
+  .vtl-container {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 3rem;
+    margin-top: 2.5rem;
+  }
+  .vtl-diagram-img {
+    width: 100%; max-width: 700px; display: block; margin: 0 auto 2rem;
+    border-radius: var(--radius); border: 1px solid var(--border);
+  }
+  .vtl-header { margin-bottom: 2rem; }
+  .vtl-header h3 { font-size: 1.4rem; font-weight: 800; margin-bottom: 0.5rem; }
+  .vtl-header p { font-size: 0.95rem; color: var(--text-secondary); }
+  .vtl-channels {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  .vtl-channel {
+    background: var(--light-bg);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+  }
+  .vtl-channel h4 { font-size: 0.95rem; font-weight: 700; margin-bottom: 0.4rem; }
+  .vtl-channel .formula {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.85rem; color: var(--accent-purple);
+    background: rgba(20,52,203,0.08);
+    padding: 0.3rem 0.7rem; border-radius: 6px;
+    display: inline-block; margin-bottom: 0.5rem;
+  }
+  .vtl-channel p { font-size: 0.85rem; color: var(--text-secondary); }
+  .vtl-steps {
+    display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem;
+    align-items: center;
+  }
+  .vtl-step {
+    background: var(--light-bg);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    text-align: center;
+  }
+  .vtl-step h4 { font-size: 0.9rem; font-weight: 700; margin-bottom: 0.3rem; }
+  .vtl-step p { font-size: 0.82rem; color: var(--text-secondary); }
+  .vtl-arrow { font-size: 1.5rem; color: var(--text-muted); text-align: center; }
+
+  /* ─── Results / Metrics ─── */
+  .results-highlight {
+    background: var(--gradient-hero);
+    border-radius: var(--radius-lg);
+    padding: 3.5rem;
+    color: #fff;
+    margin-bottom: 2.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .results-highlight::before {
+    content: '';
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(ellipse 400px 300px at 10% 50%, rgba(128,215,255,0.15) 0%, transparent 70%),
+      radial-gradient(ellipse 300px 300px at 90% 30%, rgba(252,192,21,0.12) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .results-highlight > * { position: relative; }
+  .results-highlight h3 {
+    font-size: 1.3rem; font-weight: 700; margin-bottom: 2rem;
+    color: rgba(255,255,255,0.9);
+  }
+  .metric-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+  }
+  .metric {
+    text-align: center;
+  }
+  .metric .big-num {
+    font-size: 2.5rem; font-weight: 900; letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .metric .big-num.cyan { color: #80D7FF; }
+  .metric .big-num.gold { color: #FCC015; }
+  .metric .big-num.green { color: #BDEAFF; }
+  .metric .big-num.purple { color: #DBF4FF; }
+  .metric .metric-label {
+    font-size: 0.78rem; color: rgba(255,255,255,0.55);
+    margin-top: 0.3rem; line-height: 1.4;
+  }
+
+  /* Results comparison table */
+  .results-table-wrap {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-top: 2rem;
+  }
+  .results-table-wrap h4 {
+    padding: 1.2rem 1.5rem 0.5rem;
+    font-size: 1rem; font-weight: 700;
+  }
+  table {
+    width: 100%; border-collapse: collapse;
+  }
+  th, td {
+    padding: 0.75rem 1.2rem; text-align: left;
+    font-size: 0.85rem; border-bottom: 1px solid var(--border);
+  }
+  th {
+    background: var(--light-bg); font-weight: 600;
+    color: var(--text-secondary); font-size: 0.78rem;
+    text-transform: uppercase; letter-spacing: 0.05em;
+  }
+  td { color: var(--text-primary); }
+  tr:last-child td { border-bottom: none; }
+  .highlight-row { background: rgba(20,52,203,0.04); font-weight: 600; }
+  .highlight-row td { color: #1434cb; }
+
+  /* ─── LLM Comparison ─── */
+  .llm-compare {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;
+    margin-top: 2rem;
+  }
+  .bar-chart-container {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 2rem;
+  }
+  .bar-chart-container h4 { font-size: 1rem; font-weight: 700; margin-bottom: 1.5rem; }
+  .bar-item {
+    margin-bottom: 1rem;
+  }
+  .bar-item .bar-label {
+    display: flex; justify-content: space-between; align-items: baseline;
+    margin-bottom: 0.3rem;
+  }
+  .bar-item .bar-name { font-size: 0.85rem; font-weight: 600; color: var(--text-primary); }
+  .bar-item .bar-params { font-size: 0.75rem; color: var(--text-muted); }
+  .bar-item .bar-value { font-size: 0.85rem; font-weight: 700; }
+  .bar-track {
+    height: 32px; background: var(--light-bg); border-radius: 8px; overflow: hidden;
+    position: relative;
+  }
+  .bar-fill {
+    height: 100%; border-radius: 8px;
+    display: flex; align-items: center; padding-left: 0.8rem;
+    font-size: 0.8rem; font-weight: 700; color: #fff;
+    transition: width 1s ease;
+  }
+  .bar-fill.phi { background: linear-gradient(90deg, #94a3b8, #64748b); width: 73%; }
+  .bar-fill.mistral { background: linear-gradient(90deg, #BDEAFF, #80D7FF); color: #0f2595; width: 91%; }
+  .bar-fill.llama { background: linear-gradient(90deg, #173be8, #1434cb); width: 97%; }
+  .bar-fill.tgpt { background: linear-gradient(90deg, #FCC015, #e6ad00); color: #0f2595; width: 100%; }
+
+  .efficiency-cards {
+    display: flex; flex-direction: column; gap: 1rem;
+  }
+  .eff-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    display: flex; align-items: center; gap: 1.2rem;
+  }
+  .eff-card .eff-icon {
+    width: 50px; height: 50px; border-radius: 12px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.5rem; font-weight: 900; flex-shrink: 0;
+  }
+  .eff-card h4 { font-size: 1.6rem; font-weight: 900; letter-spacing: -0.02em; }
+  .eff-card p { font-size: 0.82rem; color: var(--text-secondary); }
+
+  /* ─── Dining Section ─── */
+  .dining-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .dining-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 2rem;
+  }
+  .dining-card h4 { font-size: 1.05rem; font-weight: 700; margin-bottom: 1rem; }
+  .dining-stat-row {
+    display: flex; gap: 1rem; margin-bottom: 1rem;
+  }
+  .dining-stat {
+    flex: 1; text-align: center;
+    background: var(--light-bg); border-radius: 8px; padding: 1rem 0.5rem;
+  }
+  .dining-stat .ds-value { font-size: 1.4rem; font-weight: 800; color: #1434cb; }
+  .dining-stat .ds-label { font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+
+  .loc-accuracy {
+    display: flex; gap: 1rem; margin-top: 1rem;
+  }
+  .loc-item {
+    flex: 1; text-align: center;
+    background: var(--light-bg); border-radius: 8px; padding: 1.2rem 0.5rem;
+  }
+  .loc-item .loc-val { font-size: 2rem; font-weight: 900; }
+  .loc-item:nth-child(1) .loc-val { color: #0f2595; }
+  .loc-item:nth-child(2) .loc-val { color: #1434cb; }
+  .loc-item:nth-child(3) .loc-val { color: #b8900e; }
+  .loc-item .loc-desc { font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.04em; margin-top: 0.15rem; }
+
+  /* ─── Scalability ─── */
+  .scale-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .scale-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.8rem;
+    text-align: center;
+  }
+  .scale-card .scale-pct {
+    font-size: 2.2rem; font-weight: 900; letter-spacing: -0.02em;
+    margin-bottom: 0.2rem;
+  }
+  .scale-card:nth-child(1) .scale-pct { color: #0f2595; }
+  .scale-card:nth-child(2) .scale-pct { color: #1434cb; }
+  .scale-card:nth-child(3) .scale-pct { color: #b8900e; }
+  .scale-card .scale-label { font-size: 0.82rem; font-weight: 600; margin-bottom: 0.3rem; }
+  .scale-card .scale-desc { font-size: 0.8rem; color: var(--text-secondary); }
+  .scale-card .scale-perf {
+    display: inline-block; margin-top: 0.5rem;
+    font-size: 0.75rem; font-weight: 600;
+    padding: 0.2rem 0.6rem; border-radius: 100px;
+  }
+  .scale-card:nth-child(1) .scale-perf { background: #DBF4FF; color: #0f2595; }
+  .scale-card:nth-child(2) .scale-perf { background: #BDEAFF; color: #1434cb; }
+  .scale-card:nth-child(3) .scale-perf { background: #fff3d0; color: #b8900e; }
+
+  /* ─── Training Insights ─── */
+  .insights-list {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  .insight-item {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.3rem 1.5rem;
+    display: flex; align-items: flex-start; gap: 0.8rem;
+  }
+  .insight-item .insight-icon {
+    flex-shrink: 0; width: 28px; height: 28px; border-radius: 6px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.85rem; background: #DBF4FF; color: #0f2595;
+  }
+  .insight-item p { font-size: 0.88rem; color: var(--text-secondary); line-height: 1.5; }
+  .insight-item strong { color: var(--text-primary); }
+
+  /* ─── Ablation ─── */
+  .ablation-table-wrap {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-top: 2rem;
+  }
+  .ablation-table-wrap table td:nth-child(2),
+  .ablation-table-wrap table td:nth-child(3) {
+    font-family: 'JetBrains Mono', monospace; font-size: 0.85rem;
+    text-align: center;
+  }
+  .ablation-table-wrap table th:nth-child(2),
+  .ablation-table-wrap table th:nth-child(3) { text-align: center; }
+  .positive { color: #059669; }
+  .negative { color: #dc2626; }
+
+  /* ─── Footer ─── */
+  footer {
+    background: var(--deep-blue);
+    color: rgba(255,255,255,0.6);
+    text-align: center;
+    padding: 3rem 2rem;
+    font-size: 0.85rem;
+  }
+  footer a { color: var(--accent-cyan); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  footer .footer-links {
+    display: flex; gap: 2rem; justify-content: center;
+    margin-bottom: 1.5rem;
+  }
+
+  /* ─── Responsive ─── */
+  @media (max-width: 768px) {
+    nav .nav-links { display: none; }
+    .hero { padding: 8rem 1.5rem 4rem; }
+    .hero-stats { gap: 1.5rem; }
+    .mmtt-grid, .arch-evolution, .llm-compare, .dining-grid, .scale-grid, .insights-list {
+      grid-template-columns: 1fr;
+    }
+    .vtl-channels, .vtl-steps { grid-template-columns: 1fr; }
+    .vtl-arrow { transform: rotate(90deg); }
+    .metric-row { grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
+    section { padding: 3rem 1.5rem; }
+  }
+
+  /* Scroll animations */
+  .fade-in {
+    opacity: 0; transform: translateY(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .fade-in.visible { opacity: 1; transform: translateY(0); }
+</style>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav>
+  <div class="logo">Transaction<span>GPT</span></div>
+  <div class="nav-links">
+    <a href="#motivation">Motivation</a>
+    <a href="#data">Data</a>
+    <a href="#architecture">Architecture</a>
+    <a href="#results">Results</a>
+    <a href="#insights">Insights</a>
+  </div>
+</nav>
+
+<!-- Hero -->
+<header class="hero">
+  <div class="hero-content">
+    <div class="hero-badge"><span class="dot"></span> Visa Research &middot; arXiv: 2511.08939</div>
+    <h1>Transaction<span class="highlight">GPT</span></h1>
+    <p class="subtitle">A Foundation Model for Consumer Transaction Data</p>
+    <p class="authors">
+      Yingtong Dou, Zhimeng Jiang, Tianyi Zhang, Mingzhi Hu, Zhichao Xu, Shubham Jain, Uday Singh Saini,<br>
+      Xiran Fan, Jiarui Sun, Menghai Pan, Junpeng Wang, Xin Dai, Liang Wang, Chin-Chia Michael Yeh,<br>
+      Yujie Fan, Vineeth Rakesh, Huiyuan Chen, Mangesh Bendre, Zhongfang Zhuang, Xiaoting Li,<br>
+      Prince Aboagye, Vivian Lai, Minghua Xu, Hao Yang, Yiwei Cai, Mahashweta Das, Yuzhong Chen
+    </p>
+    <p style="font-size: 0.82rem; color: rgba(255,255,255,0.5); margin-top: 0.5rem;">
+      Project Lead: Yuzhong Chen &middot; <a href="mailto:yuzchen@visa.com" style="color: var(--accent-cyan); text-decoration: none;">yuzchen@visa.com</a>
+    </p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="value">+22.5%</div>
+        <div class="label">Over Production Model</div>
+      </div>
+      <div class="hero-stat">
+        <div class="value">300&times;</div>
+        <div class="label">Faster than LLMs</div>
+      </div>
+      <div class="hero-stat">
+        <div class="value">56M</div>
+        <div class="label">Parameters (vs 7B)</div>
+      </div>
+      <div class="hero-stat">
+        <div class="value">3D</div>
+        <div class="label">Transformer Architecture</div>
+      </div>
+    </div>
+    <div class="hero-buttons">
+      <a href="https://arxiv.org/abs/2511.08939" class="btn btn-primary" target="_blank">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+        Read the Paper
+      </a>
+      <a href="#architecture" class="btn btn-outline">Explore Architecture &darr;</a>
+    </div>
+  </div>
+</header>
+
+<!-- Motivation -->
+<section id="motivation" class="fade-in">
+  <div class="section-label">Motivation</div>
+  <div class="section-title">Why a Foundation Model for Payments?</div>
+  <div class="section-desc">
+    Foundation models have transformed NLP and vision, but payment transaction data — one of the richest behavioral signals at scale — has remained largely unexplored. TransactionGPT bridges that gap.
+  </div>
+  <div class="cards-grid">
+    <div class="card">
+      <div class="card-icon icon-blue">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+      </div>
+      <h3>Massive Scale</h3>
+      <p>Visa processes billions of transactions — an ideal foundation for self-supervised pretraining at unprecedented scale. TGPT is trained on up to 200M sequences.</p>
+    </div>
+    <div class="card">
+      <div class="card-icon icon-purple">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+      </div>
+      <h3>Multi-Task Capability</h3>
+      <p>A single pretrained model serves multiple downstream tasks: fraud detection, merchant prediction, trajectory generation, and anomaly classification.</p>
+    </div>
+    <div class="card">
+      <div class="card-icon icon-amber">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20V10"/><path d="M18 20V4"/><path d="M6 20v-4"/></svg>
+      </div>
+      <h3>Specialized Architecture</h3>
+      <p>TransactionGPT introduces a purpose-built 3D-Transformer architecture that hierarchically encodes features, metadata, and temporal patterns with a novel Virtual Token Layer.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Data -->
+<section id="data" class="fade-in">
+  <div class="section-label">Data Structure</div>
+  <div class="section-title">Multi-Modal-Temporal-Tabular (MMTT) Data</div>
+  <div class="section-desc">
+    Each transaction is represented as <strong style="font-family:'JetBrains Mono',monospace; color: var(--accent-purple);">tr = [M &oplus; E &oplus; F]</strong>, where M = metadata, E = entities, F = features — forming rich trajectories over time.
+  </div>
+
+  <div class="mmtt-grid">
+    <div class="mmtt-card">
+      <h4>Multi-Modal</h4>
+      <p>10–20 metadata fields per transaction: merchant ID, MCC, amount, timestamps. Two modalities — metadata (few, high-dimensional) and features (many, low-dimensional) — with conflicting embedding requirements.</p>
+    </div>
+    <div class="mmtt-card">
+      <h4>Temporal</h4>
+      <p>Sequences of transactions over time forming payment trajectories. Irregular intervals between events, seasonal patterns, and weekday effects captured via five time encoding fields.</p>
+    </div>
+    <div class="mmtt-card">
+      <h4>Tabular</h4>
+      <p>Stored as database tables with categorical and numerical columns. High-cardinality entities (e.g., 10M+ merchants) and task-specific derived features require specialized handling.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Architecture -->
+<section id="architecture" class="fade-in">
+  <div class="section-label">Architecture</div>
+  <div class="section-title">3D-Transformer Evolution</div>
+  <div class="section-desc">
+    TGPT evolved through three architectural stages, each adding a Transformer dimension to better model the complexities of MMTT data.
+  </div>
+
+  <div class="arch-evolution">
+    <div class="arch-step">
+      <div class="step-num">1D</div>
+      <h4>TGPT-1D</h4>
+      <div class="arch-tag">Temporal Only</div>
+      <img src="/images/tgpt/tgpt1d.png" alt="TGPT-1D Architecture" class="arch-diagram">
+      <p>A GPT-style decoder-only Temporal Transformer with local attention (window <em>w</em>) and a tabular MLP. Processes each transaction embedding as a token for auto-regressive generation.</p>
+    </div>
+    <div class="arch-step">
+      <div class="step-num">2D</div>
+      <h4>TGPT-2D</h4>
+      <div class="arch-tag">+ Metadata Transformer</div>
+      <img src="/images/tgpt/tgpt2d.png" alt="TGPT-2D Architecture" class="arch-diagram">
+      <p>Adds a bidirectional encoder-only Metadata Transformer that replaces the MLP, modeling cross-field interactions across merchant category, amount, and location with compositional embeddings for high-cardinality entities.</p>
+    </div>
+    <div class="arch-step">
+      <div class="step-num">3D</div>
+      <h4>TGPT-3D</h4>
+      <div class="arch-tag">+ Feature Transformer</div>
+      <img src="/images/tgpt/tgpt3d_fmt.png" alt="TGPT-3D-FMT Architecture" class="arch-diagram">
+      <p>A separate Feature Transformer encodes hundreds of downstream features with optimally-sized small embeddings. Two variants — MTF (sequential) and FMT (with Virtual Token Layer) — enable effective cross-modality fusion.</p>
+    </div>
+  </div>
+
+  <!-- VTL -->
+  <div class="vtl-container">
+    <div class="vtl-header">
+      <h3>Virtual Token Layer (VTL)</h3>
+      <p>The key innovation enabling effective modality fusion across the 3D architecture. Inspired by ResNet, VTL uses dual channels: a linear path to preserve gradient flow and a nonlinear path for expressiveness.</p>
+    </div>
+    <img src="/images/tgpt/vtl_diagram.png" alt="Virtual Token Layer (VTL) Architecture" class="vtl-diagram-img">
+    <div class="vtl-channels">
+      <div class="vtl-channel">
+        <h4>Linear Channel</h4>
+        <div class="formula">Softmax(W) &times; Embeddings</div>
+        <p>Weighted combination preserves gradient flow and ensures stable training through direct information pathways.</p>
+      </div>
+      <div class="vtl-channel">
+        <h4>Nonlinear Channel</h4>
+        <div class="formula">MLP(Embeddings) &rarr; Rescale</div>
+        <p>MLP with activation rescales to any target dimension, enhancing expressiveness while decoupling bandwidth from embedding size.</p>
+      </div>
+    </div>
+    <div class="vtl-steps">
+      <div class="vtl-step">
+        <h4>Step 1: Feature &rarr; Transaction</h4>
+        <p>Virtual Feature Tokens compress feature embeddings to match metadata dimension (d<sub>M</sub>)</p>
+      </div>
+      <div class="vtl-arrow">&oplus;</div>
+      <div class="vtl-step">
+        <h4>Step 2: Transaction &rarr; Temporal</h4>
+        <p>Virtual Transaction Tokens convert each transaction into v<sub>t</sub> tokens for the Temporal Transformer</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Results -->
+<section id="results" class="fade-in">
+  <div class="section-label">Results</div>
+  <div class="section-title">Experimental Performance</div>
+  <div class="section-desc">
+    Evaluated across three major tasks — joint generation &amp; classification (T<sub>JGC</sub>), dining trajectory generation (T<sub>RES</sub>), and MCC prediction vs. LLMs (T<sub>MCC</sub>).
+  </div>
+
+  <!-- Headline metrics -->
+  <div class="results-highlight">
+    <h3>Headline Results on Business-Critical Task (T<sub>JGC</sub>)</h3>
+    <div class="metric-row">
+      <div class="metric">
+        <div class="big-num cyan">+22.5%</div>
+        <div class="metric-label">Improvement on Metric A<br>(FMVTL + LLM Embeddings)</div>
+      </div>
+      <div class="metric">
+        <div class="big-num gold">+17.9%</div>
+        <div class="metric-label">Improvement on Metric B<br>(FMVTL-2 variant)</div>
+      </div>
+      <div class="metric">
+        <div class="big-num green">50.12%</div>
+        <div class="metric-label">MCC Recall@1<br>(Best TGPT-3D variant)</div>
+      </div>
+      <div class="metric">
+        <div class="big-num purple">32.73%</div>
+        <div class="metric-label">Merchant Recall@1<br>(FMVTL + LLM)</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Results Table -->
+  <div class="results-table-wrap">
+    <h4>Relative Improvement over Production Baseline (T<sub>JGC</sub>)</h4>
+    <table>
+      <thead>
+        <tr>
+          <th>Model</th>
+          <th>Metric A (&Delta;%)</th>
+          <th>Metric B (&Delta;%)</th>
+          <th>MCC Rec@1</th>
+          <th>Mrch Rec@1</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>TGPT-2D w/ Features</td>
+          <td>-87.0</td>
+          <td>-34.3</td>
+          <td>49.20</td>
+          <td>32.30</td>
+        </tr>
+        <tr>
+          <td>TGPT-3D-MTF (Seg)</td>
+          <td>+14.6</td>
+          <td>+8.0</td>
+          <td>48.23</td>
+          <td>32.41</td>
+        </tr>
+        <tr>
+          <td>TGPT-3D-MTF (MLP)</td>
+          <td>+9.5</td>
+          <td>+8.1</td>
+          <td>48.17</td>
+          <td>32.29</td>
+        </tr>
+        <tr>
+          <td>3D-FMT FMVTL</td>
+          <td>+19.2</td>
+          <td>+11.2</td>
+          <td>49.94</td>
+          <td>32.08</td>
+        </tr>
+        <tr>
+          <td>3D-FMT FMVTL-2</td>
+          <td>+15.5</td>
+          <td>+17.9</td>
+          <td>50.12</td>
+          <td>32.70</td>
+        </tr>
+        <tr class="highlight-row">
+          <td>3D-FMT FMVTL + LLM</td>
+          <td>+22.5</td>
+          <td>+12.0</td>
+          <td>50.01</td>
+          <td>32.73</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- LLM Comparison -->
+  <div style="margin-top: 3rem;">
+    <div class="section-label">Benchmark</div>
+    <div class="section-title" style="font-size: 1.6rem;">TGPT vs. Fine-Tuned LLMs on MCC Prediction</div>
+  </div>
+  <div class="llm-compare">
+    <div class="bar-chart-container">
+      <h4>MCC Prediction Recall@1 (%)</h4>
+      <div class="bar-item">
+        <div class="bar-label">
+          <span class="bar-name">Phi-2 <span class="bar-params">(2.7B params)</span></span>
+          <span class="bar-value">31.1%</span>
+        </div>
+        <div class="bar-track"><div class="bar-fill phi">31.1</div></div>
+      </div>
+      <div class="bar-item">
+        <div class="bar-label">
+          <span class="bar-name">Mistral-v0.1 <span class="bar-params">(7B params)</span></span>
+          <span class="bar-value">38.8%</span>
+        </div>
+        <div class="bar-track"><div class="bar-fill mistral">38.8</div></div>
+      </div>
+      <div class="bar-item">
+        <div class="bar-label">
+          <span class="bar-name">Llama-2 <span class="bar-params">(7B params)</span></span>
+          <span class="bar-value">41.2%</span>
+        </div>
+        <div class="bar-track"><div class="bar-fill llama">41.2</div></div>
+      </div>
+      <div class="bar-item">
+        <div class="bar-label">
+          <span class="bar-name">TGPT-2D <span class="bar-params">(56M params)</span></span>
+          <span class="bar-value" style="color: #1434cb;">42.6%</span>
+        </div>
+        <div class="bar-track"><div class="bar-fill tgpt">42.6</div></div>
+      </div>
+    </div>
+
+    <div class="efficiency-cards">
+      <div class="eff-card">
+        <div class="eff-icon" style="background: #DBF4FF; color: #0f2595;">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+        </div>
+        <div>
+          <h4 style="color: #0f2595;">300&times; Faster</h4>
+          <p>Inference speed: 0.27ms vs 84.9ms per sample on a single NVIDIA A100 GPU (80GB)</p>
+        </div>
+      </div>
+      <div class="eff-card">
+        <div class="eff-icon" style="background: #BDEAFF; color: #1434cb;">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M9 9h6v6H9z"/></svg>
+        </div>
+        <div>
+          <h4 style="color: #1434cb;">92% Fewer Parameters</h4>
+          <p>56M parameters vs 7B — orders of magnitude more efficient while achieving superior accuracy</p>
+        </div>
+      </div>
+      <div class="eff-card">
+        <div class="eff-icon" style="background: #fff3d0; color: #b8900e;">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        </div>
+        <div>
+          <h4 style="color: #b8900e;">+1.4% Accuracy</h4>
+          <p>TGPT-2D outperforms Llama-2 (7B) in MCC Recall@1 despite being 125&times; smaller</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dining Trajectory -->
+  <div style="margin-top: 3rem;">
+    <div class="section-label">Trajectory Generation</div>
+    <div class="section-title" style="font-size: 1.6rem;">Dining Trajectory Prediction (T<sub>RES</sub>)</div>
+    <div class="section-desc">TGPT predicts future dining locations and restaurants without ingesting any location data — purely from transaction patterns.</div>
+  </div>
+  <div class="dining-grid">
+    <div class="dining-card">
+      <h4>Restaurant Prediction Performance</h4>
+      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1rem;">Trained on 200M sequences, tested on 20M sequences, predicting among 500K unique merchants.</p>
+      <div class="dining-stat-row">
+        <div class="dining-stat">
+          <div class="ds-value">11.9%</div>
+          <div class="ds-label">SASRec Rec@1</div>
+        </div>
+        <div class="dining-stat">
+          <div class="ds-value">12.8%</div>
+          <div class="ds-label">TGPT-1D Rec@1</div>
+        </div>
+        <div class="dining-stat">
+          <div class="ds-value" style="color: #1434cb; font-weight: 900;">14.2%</div>
+          <div class="ds-label">TGPT-2D Rec@1</div>
+        </div>
+      </div>
+      <p style="font-size: 0.85rem; color: var(--text-secondary);">TGPT-2D ranks the exact future restaurant in the <strong>top 50 out of 500K</strong> candidates in 45.6% of test cases.</p>
+    </div>
+    <div class="dining-card">
+      <h4>Location Prediction Accuracy</h4>
+      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1rem;">Inferred purely from transaction patterns — no explicit location input.</p>
+      <div class="loc-accuracy">
+        <div class="loc-item">
+          <div class="loc-val">84%</div>
+          <div class="loc-desc">State (Top-1)</div>
+        </div>
+        <div class="loc-item">
+          <div class="loc-val">69%</div>
+          <div class="loc-desc">City (Top-10)</div>
+        </div>
+        <div class="loc-item">
+          <div class="loc-val">28%</div>
+          <div class="loc-desc">Zip (Top-1)</div>
+        </div>
+      </div>
+      <p style="font-size: 0.82rem; color: var(--text-muted); margin-top: 1rem;">Merchant embeddings encode rich geographic and behavioral similarities — city clusters (LA, SF, NYC) are clearly separated in UMAP space, and airport restaurants form distinct clusters.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Insights -->
+<section id="insights" class="fade-in">
+  <div class="section-label">Insights</div>
+  <div class="section-title">Scalability &amp; Design Insights</div>
+
+  <div class="scale-grid">
+    <div class="scale-card">
+      <div class="scale-pct">-22.6%</div>
+      <div class="scale-label">Compositional Embedding</div>
+      <div class="scale-desc">Model size reduction via hashing for high-cardinality entities</div>
+      <div class="scale-perf">+1.9% Performance</div>
+    </div>
+    <div class="scale-card">
+      <div class="scale-pct">-24.9%</div>
+      <div class="scale-label">Local Attention</div>
+      <div class="scale-desc">Window-based attention reduces O(|S|&sup2;) to O(w&sup2;)</div>
+      <div class="scale-perf">+2.8% Performance</div>
+    </div>
+    <div class="scale-card">
+      <div class="scale-pct">-73.8%</div>
+      <div class="scale-label">Weight Tying</div>
+      <div class="scale-desc">Reuses entity embedding table as classifier, saving 1.3B params</div>
+      <div class="scale-perf">-0.6% Performance</div>
+    </div>
+  </div>
+
+  <div style="margin-top: 2.5rem;">
+    <h3 style="font-size: 1.2rem; font-weight: 700; margin-bottom: 0.5rem;">Training Lessons Learned</h3>
+  </div>
+  <div class="insights-list">
+    <div class="insight-item">
+      <div class="insight-icon">&#10003;</div>
+      <p><strong>BatchNorm &gt; LayerNorm</strong> for MMTT data with diverse field cardinalities</p>
+    </div>
+    <div class="insight-item">
+      <div class="insight-icon">&#10003;</div>
+      <p><strong>Linear MLP activations</strong> outperform nonlinear between Transformer modules</p>
+    </div>
+    <div class="insight-item">
+      <div class="insight-icon">&#10003;</div>
+      <p><strong>One-hot positional encoding</strong> preferred over sinusoidal for non-sequential metadata fields</p>
+    </div>
+    <div class="insight-item">
+      <div class="insight-icon">&#10003;</div>
+      <p><strong>FP32 preserves scaling gains</strong> better than BF16 on larger datasets</p>
+    </div>
+    <div class="insight-item">
+      <div class="insight-icon">&#10003;</div>
+      <p><strong>3D architecture scales more efficiently</strong> than 2D — advantages emerge with more data</p>
+    </div>
+    <div class="insight-item">
+      <div class="insight-icon">&#10003;</div>
+      <p><strong>LLM-based embedding initialization</strong> — MCC descriptions encoded by LLMs warm-start entity embeddings</p>
+    </div>
+  </div>
+
+  <!-- Ablation -->
+  <div style="margin-top: 3rem;">
+    <h3 style="font-size: 1.2rem; font-weight: 700; margin-bottom: 0.5rem;">VTL Ablation Study</h3>
+    <p style="font-size: 0.92rem; color: var(--text-secondary);">Component-level analysis of the Virtual Token Layer on T<sub>JGC</sub>.</p>
+  </div>
+  <div class="ablation-table-wrap">
+    <table>
+      <thead>
+        <tr><th>Variant</th><th>Metric A (&Delta;%)</th><th>Metric B (&Delta;%)</th><th>Key Takeaway</th></tr>
+      </thead>
+      <tbody>
+        <tr class="highlight-row"><td>FMVTL (full)</td><td class="positive">+19.2</td><td class="positive">+11.2</td><td>Best with dual VTL linear + nonlinear</td></tr>
+        <tr><td>FMVTL-nonlin</td><td class="positive">+6.7</td><td class="positive">+10.7</td><td>Removing linear path hurts gradient flow</td></tr>
+        <tr><td>FMVTL-lin-map</td><td class="positive">+0.2</td><td class="positive">+6.2</td><td>Simple linear mapping lacks expressiveness</td></tr>
+        <tr><td>FVTL (no Meta VTL)</td><td class="negative">-12.9</td><td class="negative">-13.0</td><td>Both VTL stages are essential</td></tr>
+        <tr class="highlight-row"><td>FMVTL + LLM</td><td class="positive">+22.5</td><td class="positive">+12.0</td><td>LLM-derived embeddings add semantic gains</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- Conclusion -->
+<section class="fade-in" style="text-align: center; max-width: 800px;">
+  <div class="section-label" style="text-align: center;">Conclusion</div>
+  <div class="section-title" style="text-align: center;">Key Takeaways &amp; Future Work</div>
+  <div style="text-align: left; margin: 0 auto; max-width: 700px; color: var(--text-secondary); font-size: 0.95rem; line-height: 1.8;">
+    <p style="margin-bottom: 1rem;">TransactionGPT is the <strong style="color: var(--text-primary);">first foundation model purpose-built for consumer transaction data</strong>, deployed within one of the world's largest payment networks. The novel 3D-Transformer with Virtual Token Layer achieves state-of-the-art performance across generation, classification, and representation learning tasks.</p>
+    <p style="margin-bottom: 1rem;">Merchant embeddings learned by TGPT encode rich geographic and behavioral similarities — without any explicit location input. The model achieves <strong style="color: var(--text-primary);">+22.5% improvement</strong> over the production model on a business-critical metric, with <strong style="color: var(--text-primary);">300&times; faster inference</strong> than LLM-based alternatives.</p>
+    <p style="margin-bottom: 2rem;"><strong style="color: var(--text-primary);">Future directions</strong> include accelerating model performance at even larger data scales, developing superior multi-modal encoders for MMTT data, and exploring joint optimization of MMTT foundation models with LLMs.</p>
+  </div>
+  <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+    <a href="https://arxiv.org/abs/2511.08939" class="btn" style="background: var(--visa-blue); color: #fff;" target="_blank">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+      Read on arXiv
+    </a>
+    <a href="https://arxiv.org/pdf/2511.08939" class="btn" style="background: var(--light-bg); color: var(--text-primary); border: 1.5px solid var(--border);" target="_blank">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Download PDF
+    </a>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer>
+  <div class="footer-links">
+    <a href="https://arxiv.org/abs/2511.08939">arXiv</a>
+    <a href="https://ytongdou.com/">Yingtong Dou</a>
+    <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>
+  </div>
+  <p>&copy; 2025 TransactionGPT &middot; Visa Research</p>
+</footer>
+
+<script>
+// Scroll-triggered fade-in
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+// Smooth scroll for nav links
+document.querySelectorAll('nav a[href^="#"]').forEach(a => {
+  a.addEventListener('click', e => {
+    e.preventDefault();
+    document.querySelector(a.getAttribute('href')).scrollIntoView({ behavior: 'smooth' });
+  });
+});
+</script>
+</body>
+</html>

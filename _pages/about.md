@@ -144,7 +144,7 @@ from Research to Application</a> at Novartis Data Science Seminar.</li>
 <li><b>TransactionGPT</b></li>
 Yingtong Dou, Yuzhong Chen et al.  
 Technical Report 11/2025.  
-\[[Paper](https://arxiv.org/pdf/2511.08939.pdf)]
+\[[Paper](https://arxiv.org/pdf/2511.08939.pdf)]\[[Website](https://ytongdou.com/transactiongpt)]
 
 <li><b>Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts</b></li>
 [Kartik Sharma](https://ksartik.github.io/), [Yiqiao Jin](https://ahren09.github.io/), Vineeth Mohan, Yingtong Dou et al.  
