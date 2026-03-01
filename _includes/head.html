@@ -17,6 +17,25 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
-<link href="https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i|Cabin+Condensed:400,500,600,700|Roboto+Condensed:400,400i,700,700i" rel="stylesheet">
+<!-- Removed unused font families (Arimo, Cabin Condensed, Roboto Condensed) to improve load time -->
+<style>
+  /* Social icon hover effects */
+  .social-icons-bar a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    opacity: 0.75;
+  }
+  .social-icons-bar a:hover {
+    opacity: 1;
+    transform: scale(1.15);
+  }
+  /* News list styling */
+  .news-list li {
+    padding: 0.3em 0;
+    line-height: 1.5;
+  }
+</style>
 
 <meta http-equiv="cleartype" content="on">
