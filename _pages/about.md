@@ -10,12 +10,10 @@ redirect_from:
   <img src="/images/new_head.png" alt="Yingtong Dou" style="width: 100%; max-width: 800px; border-radius: 50%; display: block; margin: 0 auto 1em auto;" />
   <div class="social-icons-bar" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
     <a href="https://ytongdou.com/files/CV_Yingtong.pdf" aria-label="Curriculum Vitae"><img src="/images/cv.png" alt="CV" style="width: 28px; height: 28px;" /></a>
-    <a href="https://twitter.com/dozee_sim" aria-label="Twitter"><img src="/images/twitter.png" alt="Twitter" style="width: 28px; height: 28px;" /></a>
+    <a href="https://x.com/dozee_sim" aria-label="X (Twitter)"><img src="/images/x.png" alt="X" style="width: 28px; height: 28px;" /></a>
     <a href="https://www.linkedin.com/in/ytongdou/" aria-label="LinkedIn"><img src="/images/linkedin.png" alt="LinkedIn" style="width: 28px; height: 28px;" /></a>
-    <a href="https://github.com/safe-graph" aria-label="SafeGraph"><img src="/images/safegraph.png" alt="SafeGraph" style="width: 28px; height: 28px;" /></a>
     <a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en" aria-label="Google Scholar"><img src="/images/scholar.png" alt="Google Scholar" style="width: 28px; height: 28px;" /></a>
     <a href="https://github.com/YingtongDou" aria-label="GitHub"><img src="/images/github.png" alt="Github" style="width: 28px; height: 28px;" /></a>
-    <a href="https://github.com/pygod-team/pygod" aria-label="PyGOD"><img src="/images/pygod.png" alt="PyGOD" style="width: 28px; height: 28px;" /></a>
   </div>
 </div>
 
@@ -37,7 +35,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[10/2025]</span> A foundation model <a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">paper</a> accepted by EMNLP 2025.</li>
 </ul>
 
-<div id="news-older" style="display: none;">
+<div id="news-older" class="scrollable-section" style="display: none;">
 <ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[09/2025]</span> Serving as a PC member for <a href="https://www2026.thewebconf.org/">TheWebConf 2026</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[07/2025]</span> Release two preprints on <a href="https://arxiv.org/abs/2507.05633">RAG compression</a> and <a href="https://www.arxiv.org/abs/2506.15751/">LLM guardrails</a>.</li>
@@ -140,7 +138,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 <li style="margin-bottom: 0.6em;"><span class="label-tag label-blog">Blog</span> <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets</a> at Medium.</li>
 </ul>
 
-<div id="talks-older" style="display: none;">
+<div id="talks-older" class="scrollable-section" style="display: none;">
 <ul style="list-style: none; padding-left: 0;">
 <li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/wells_fargo_talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Wells Fargo.</li>
 <li style="margin-bottom: 0.6em;"><span class="label-tag label-blog">Blog</span> <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">Graph Neural Network-based Graph Outlier Detection: A Brief Introduction</a> at TigerGraph Blog.</li>

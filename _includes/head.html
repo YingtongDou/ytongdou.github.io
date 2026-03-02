@@ -103,6 +103,25 @@
     padding-bottom: 0;
     margin-bottom: 0;
   }
+  /* Scrollable expanded sections */
+  .scrollable-section {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #e8e8e8;
+    border-radius: 6px;
+    padding: 0.5em 0.8em;
+    margin-top: 0.5em;
+  }
+  .scrollable-section::-webkit-scrollbar {
+    width: 5px;
+  }
+  .scrollable-section::-webkit-scrollbar-thumb {
+    background: #c0c0c0;
+    border-radius: 3px;
+  }
+  .scrollable-section::-webkit-scrollbar-track {
+    background: transparent;
+  }
 </style>
 
 <meta http-equiv="cleartype" content="on">
