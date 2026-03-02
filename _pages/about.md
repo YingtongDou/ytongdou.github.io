@@ -235,7 +235,9 @@ ACM SIGKDD. 2020.<br/>
 
 
 <div style="text-align: center; margin: 2em 0 1em 0;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=t&d=uMnK0k5VBCoh9ExYS9q9S32UxjlJtYazpdGQDGh4LCI&co=f5f5f5&cmo=7a8288&cmn=1434cb&ct=7a8288&nv=t&cml=7a8288&cma=1434cb'></script>
+  <a href="https://clustrmaps.com/site/1bfau" title="Visit tracker">
+    <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=t&d=uMnK0k5VBCoh9ExYS9q9S32UxjlJtYazpdGQDGh4LCI&co=f5f5f5&cmo=7a8288&cmn=1434cb&ct=7a8288" alt="Visitor Map" style="max-width: 300px;" />
+  </a>
 </div>
 
 <footer style="text-align: center; padding: 1.5em 0; margin-top: 1em; border-top: 1px solid #e8e8e8; color: #7a8288; font-size: 0.85em;">
