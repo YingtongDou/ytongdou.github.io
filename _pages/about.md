@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <div class="profile-header" style="text-align: center; margin-bottom: 1.5em;">
-  <img src="/images/new_head.png" alt="Yingtong Dou" style="width: 50%; max-width: 400px; border-radius: 50%; display: block; margin: 0 auto 1em auto;" />
+  <img src="/images/new_head.png" alt="Yingtong Dou" style="width: 100%; max-width: 800px; border-radius: 50%; display: block; margin: 0 auto 1em auto;" />
   <div class="social-icons-bar" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
     <a href="https://ytongdou.com/files/CV_Yingtong.pdf" aria-label="Curriculum Vitae"><img src="/images/cv.png" alt="CV" style="width: 28px; height: 28px;" /></a>
     <a href="https://twitter.com/dozee_sim" aria-label="Twitter"><img src="/images/twitter.png" alt="Twitter" style="width: 28px; height: 28px;" /></a>
@@ -235,7 +235,7 @@ ACM SIGKDD. 2020.<br/>
 
 
 <div style="text-align: center; margin: 2em 0 1em 0;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=uMnK0k5VBCoh9ExYS9q9S32UxjlJtYazpdGQDGh4LCI&co=f5f5f5&cmo=7a8288&cmn=1434cb&ct=7a8288&nv=t'></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=t&d=uMnK0k5VBCoh9ExYS9q9S32UxjlJtYazpdGQDGh4LCI&co=f5f5f5&cmo=7a8288&cmn=1434cb&ct=7a8288&nv=t&cml=7a8288&cma=1434cb'></script>
 </div>
 
 <footer style="text-align: center; padding: 1.5em 0; margin-top: 1em; border-top: 1px solid #e8e8e8; color: #7a8288; font-size: 0.85em;">
