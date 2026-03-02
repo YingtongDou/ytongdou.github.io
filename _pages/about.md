@@ -235,9 +235,10 @@ ACM SIGKDD. 2020.<br/>
 
 
 <div style="text-align: center; margin: 2em 0 1em 0;">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fytongdou.com&count_bg=%231434CB&title_bg=%237a8288&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true" alt="Visitor Count" />
+  <a href="https://clustrmaps.com/site/1bfau" title="Visit tracker">
+    <img src="//clustrmaps.com/stats/maps-no-powerful-hierarchical-sidebar/ytongdou.com-thumb.jpg" alt="Visitor Count" style="display: none;" />
   </a>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=n&d=uMnK0k5VBCoh9ExYS9q9S32UxjlJtYazpdGQDGh4LCI&co=ffffff&ct=7a8288'></script>
 </div>
 
 <footer style="text-align: center; padding: 1.5em 0; margin-top: 1em; border-top: 1px solid #e8e8e8; color: #7a8288; font-size: 0.85em;">
