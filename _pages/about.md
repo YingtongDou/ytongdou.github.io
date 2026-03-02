@@ -35,15 +35,15 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> One transaction foundation model paper <a href="https://arxiv.org/abs/2511.19693">TREASURE</a> accepted by KDD 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> <a href="https://arxiv.org/abs/2511.08939">TransactionGPT</a> technical report released.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[10/2025]</span> A foundation model <a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">paper</a> accepted by EMNLP 2025.</li>
+</ul>
+
+<div id="news-older" style="display: none;">
+<ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[09/2025]</span> Serving as a PC member for <a href="https://www2026.thewebconf.org/">TheWebConf 2026</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[07/2025]</span> Release two preprints on <a href="https://arxiv.org/abs/2507.05633">RAG compression</a> and <a href="https://www.arxiv.org/abs/2506.15751/">LLM guardrails</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[06/2025]</span> Serving as reviewers for NeurIPS 2025, <a href="https://icaif25.org/">ICAIF 2025</a>, and KDD 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2025]</span> One <a href="https://arxiv.org/pdf/2501.14964">paper</a> with summer intern <a href="https://ksartik.github.io/">Kartik Sharma</a> is accepted by TMLR.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[07/2024]</span> Be invited to serve as a PC member for <a href="https://kdd2025.kdd.org/">KDD'25</a>.</li>
-</ul>
-
-<div id="news-older" style="display: none;">
-<ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[05/2024]</span> Be invited to serve as a PC member for <a href="https://recsys.acm.org/recsys24/">RecSys'24</a>，<a href="https://sites.google.com/view/kdd-mlf-2024/home?authuser=0">MLF@KDD'24</a>，<a href="https://neurips.cc/">NeurIPS'24</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2024]</span> Our <a href="https://arxiv.org/abs/2204.12095">PyGOD Package</a> is accepted by <a href="https://www.jmlr.org/mloss/">JMLR MLOSS Track</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[03/2024]</span> Our neural network for transactional data (<a href="https://www.tdcommons.org/dpubs_series/6780">TransNet</a>) is released as defensive publication.</li>
@@ -128,67 +128,72 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 </div>
 
 <p style="text-align: center; margin-top: 0.8em;">
-  <a href="javascript:void(0);" id="news-toggle" onclick="var el=document.getElementById('news-older'); var btn=document.getElementById('news-toggle'); if(el.style.display==='none'){el.style.display='block'; btn.textContent='Show less';}else{el.style.display='none'; btn.textContent='Show more';}" style="color: #7a8288; font-size: 0.9em;">Show more</a>
+  <a href="javascript:void(0);" id="news-toggle" class="show-more-btn" onclick="var el=document.getElementById('news-older'); var btn=document.getElementById('news-toggle'); if(el.style.display==='none'){el.style.display='block'; btn.textContent='Show less';}else{el.style.display='none'; btn.textContent='Show more';}">Show more</a>
 </p>
 
 
 ## Talks and Blogs
 
 <ul style="list-style: none; padding-left: 0;">
-<li style="margin-bottom: 0.6em;">[Talk] <a href="https://ytongdou.com/files/wells_fargo_talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Wells Fargo.</li>
-<li style="margin-bottom: 0.6em;">[Blog] <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">Graph Neural Network-based Graph Outlier Detection: A Brief Introduction</a> at TigerGraph Blog.</li>
-<li style="margin-bottom: 0.6em;">[Talk] <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">GNN-based Anomaly Detection: from Research to Application</a> at Novartis Data Science Seminar.</li>
-<li style="margin-bottom: 0.6em;">[Talk] <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">Leveraging GNNs for Financial Fraud Detection: Practices and Challenges</a> at KDD 2022, Washington DC.</li>
-<li style="margin-bottom: 0.6em;">[Talk] <a href="https://ytongdou.com/files/IIT_Talk.pdf">Mining Twitter for Social Event and Misinformation Detection</a> at IIT, Chicago.</li>
-<li style="margin-bottom: 0.6em;">[Talk] <a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Datafun Summit.</li>
-<li style="margin-bottom: 0.6em;">[Talk] <a href="https://ytongdou.com/files/F5_Talk_Slides.pdf">Robust Fraud Detection against Adversarial Fraudsters</a> at F5 Security and Grab Inc.</li>
-<li style="margin-bottom: 0.6em;">[Blog] <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets</a> at Medium.</li>
-<li style="margin-bottom: 0.6em;">[Talk] <a href="https://ytongdou.com/files/tencent_talk.pdf">An Introduction to Graph-based Spam Review Detection.</a> at Tencent.</li>
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">Leveraging GNNs for Financial Fraud Detection: Practices and Challenges</a> at KDD 2022, Washington DC.</li>
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/IIT_Talk.pdf">Mining Twitter for Social Event and Misinformation Detection</a> at IIT, Chicago.</li>
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-blog">Blog</span> <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets</a> at Medium.</li>
 </ul>
+
+<div id="talks-older" style="display: none;">
+<ul style="list-style: none; padding-left: 0;">
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/wells_fargo_talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Wells Fargo.</li>
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-blog">Blog</span> <a href="https://www.tigergraph.com/blog/graph-neural-network-based-graph-outlier-detection-a-brief-introduction/">Graph Neural Network-based Graph Outlier Detection: A Brief Introduction</a> at TigerGraph Blog.</li>
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/novartis_gnn_anomaly.pdf">GNN-based Anomaly Detection: from Research to Application</a> at Novartis Data Science Seminar.</li>
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/GNN_Fraud_Talk.pdf">GNN-based Fraud Detection: from Research to Application</a> at Datafun Summit.</li>
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/F5_Talk_Slides.pdf">Robust Fraud Detection against Adversarial Fraudsters</a> at F5 Security and Grab Inc.</li>
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/tencent_talk.pdf">An Introduction to Graph-based Spam Review Detection.</a> at Tencent.</li>
+</ul>
+</div>
+
+<p style="text-align: center; margin-top: 0.8em;">
+  <a href="javascript:void(0);" id="talks-toggle" class="show-more-btn" onclick="var el=document.getElementById('talks-older'); var btn=document.getElementById('talks-toggle'); if(el.style.display==='none'){el.style.display='block'; btn.textContent='Show less';}else{el.style.display='none'; btn.textContent='Show more';}">Show more</a>
+</p>
 
 
 ## Recent Work
 
 <ul style="list-style: none; padding-left: 0;">
-<li style="margin-bottom: 1.2em;">
-<b>TransactionGPT</b><br/>
+<li class="pub-entry">
+<b class="paper-title">TransactionGPT</b> <span class="venue-badge">Tech Report</span><br/>
 Yingtong Dou, Yuzhong Chen et al.<br/>
 Technical Report 11/2025.<br/>
 [<a href="https://arxiv.org/pdf/2511.08939.pdf">Paper</a>][<a href="https://ytongdou.com/transactiongpt">Website</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts</b><br/>
+<li class="pub-entry">
+<b class="paper-title">Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts</b> <span class="venue-badge">ICLR 2026</span><br/>
 <a href="https://ksartik.github.io/">Kartik Sharma</a>, <a href="https://ahren09.github.io/">Yiqiao Jin</a>, Vineeth Mohan, Yingtong Dou et al.<br/>
-ICLR 2026.<br/>
 [<a href="https://arxiv.org/pdf/2506.15751">Paper</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding</b><br/>
+<li class="pub-entry">
+<b class="paper-title">TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding</b> <span class="venue-badge">KDD 2026</span><br/>
 Chin-Chia Michael Yeh, Uday Singh Saini et al.<br/>
-KDD 2026.<br/>
 [<a href="https://arxiv.org/pdf/2511.19693.pdf">Paper</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings</b><br/>
+<li class="pub-entry">
+<b class="paper-title">Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings</b> <span class="venue-badge">EMNLP 2025</span><br/>
 Xiran Fan, Zhimeng Jiang et al.<br/>
-EMNLP 2025.<br/>
 [<a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">Paper</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b><br/>
+<li class="pub-entry">
+<b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">Preprint</span><br/>
 <a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, Yingtong Dou et al.<br/>
 Preprint 07/2025.<br/>
 [<a href="https://arxiv.org/pdf/2507.05633">Paper</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>Personalized Layer Selection for Graph Neural Networks</b><br/>
+<li class="pub-entry">
+<b class="paper-title">Personalized Layer Selection for Graph Neural Networks</b> <span class="venue-badge">TMLR 2025</span><br/>
 <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, Yingtong Dou et al.<br/>
-TMLR 2025.<br/>
 [<a href="https://arxiv.org/pdf/2501.14964">Paper</a>]
 </li>
 </ul>
@@ -197,50 +202,37 @@ TMLR 2025.<br/>
 ## Selected Publications
 
 <ul style="list-style: none; padding-left: 0;">
-<li style="margin-bottom: 1.2em;">
-<b>PyGOD: A Python Library for Graph Outlier Detection</b><br/>
+<li class="pub-entry">
+<b class="paper-title">PyGOD: A Python Library for Graph Outlier Detection</b> <span class="venue-badge">JMLR 2024</span><br/>
 <a href="https://kayzliu.com/">Kay Liu</a>*, Yingtong Dou* et al.<br/>
-JMLR 2024.<br/>
 [<a href="https://arxiv.org/pdf/2204.12095.pdf">Paper</a>][<a href="https://github.com/pygod-team/pygod/">Code</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.</b><br/>
+<li class="pub-entry">
+<b class="paper-title">BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.</b> <span class="venue-badge">NeurIPS 2022</span><br/>
 <a href="https://kayzliu.com/">Kay Liu</a>*, Yingtong Dou*, <a href="https://www.andrew.cmu.edu/user/yuezhao2/">Yue Zhao</a>* et al.<br/>
-NeurIPS 2022.<br/>
 [<a href="https://arxiv.org/pdf/2206.10071.pdf">Paper</a>][<a href="https://github.com/pygod-team/pygod/tree/main/benchmark">Code</a>][<a href="https://mp.weixin.qq.com/s/rvCtqP1f1NwT6_JsQ-XBhg">Chinese Blog</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>User Preference-aware Fake News Detection</b><br/>
-Yingtong Dou, <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>, <a href="https://congyingxia.github.io/">Congying Xia</a>, Philip S. Yu, <a href="https://www.cs.uic.edu/~lsun/">Lichao Sun</a>.<br/>
-ACM SIGIR. 2021. (<a href="https://twitter.com/paperswithcode/status/1476544719790526464">Trending New Datasets for 2021</a>)<br/>
+<li class="pub-entry">
+<b class="paper-title">User Preference-aware Fake News Detection</b> <span class="venue-badge">SIGIR 2021</span><br/>
+Yingtong Dou, <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>, <a href="https://congyingxia.github.io/">Congying Xia</a>, Philip S. Yu, <a href="https://www.cs.uic.edu/~lsun/">Lichao Sun</a>. (<a href="https://twitter.com/paperswithcode/status/1476544719790526464">Trending New Datasets for 2021</a>)<br/>
 [<a href="https://arxiv.org/pdf/2104.12259.pdf">Paper</a>][<a href="https://github.com/safe-graph/GNN-FakeNews">Code</a>][<a href="https://ytongdou.com/files/SIGIR21slides.pdf">Slides</a>][<a href="https://www.youtube.com/watch?v=QAIVFr24FrA&ab_channel=DeepFindr">Video</a>][<a href="https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py">PyG Example</a>][<a href="https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py">DGL Example</a>][<a href="https://paperswithcode.com/dataset/upfd">Data</a>][<a href="https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg">Chinese Blog</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters</b><br/>
-Yingtong Dou, <a href="https://sites.google.com/view/zhiwei-jim">Zhiwei Liu</a>, <a href="https://www.researchgate.net/profile/Li_Sun118">Li Sun</a>, Yutong Deng, <a href="https://penghao-buaa.github.io/">Hao Peng</a>, Philip S. Yu.<br/>
-ACM CIKM. 2020. (<a href="https://www.paperdigest.org/2022/05/most-influential-cikm-papers-2022-05/">Top 10 Influential Papers at CIKM'20</a>)<br/>
+<li class="pub-entry">
+<b class="paper-title">Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters</b> <span class="venue-badge">CIKM 2020</span><br/>
+Yingtong Dou, <a href="https://sites.google.com/view/zhiwei-jim">Zhiwei Liu</a>, <a href="https://www.researchgate.net/profile/Li_Sun118">Li Sun</a>, Yutong Deng, <a href="https://penghao-buaa.github.io/">Hao Peng</a>, Philip S. Yu. (<a href="https://www.paperdigest.org/2022/05/most-influential-cikm-papers-2022-05/">Top 10 Influential Papers at CIKM'20</a>)<br/>
 [<a href="https://arxiv.org/pdf/2008.08692.pdf">Paper</a>][<a href="https://github.com/YingtongDou/CARE-GNN">Code</a>][<a href="https://ytongdou.com/files/cikm20slides.pdf">Slides</a>][<a href="https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn">DGL Example</a>]
 </li>
 
-<li style="margin-bottom: 1.2em;">
-<b>Robust Spammer Detection by Nash Reinforcement Learning</b><br/>
+<li class="pub-entry">
+<b class="paper-title">Robust Spammer Detection by Nash Reinforcement Learning</b> <span class="venue-badge">KDD 2020</span><br/>
 Yingtong Dou, Guixiang Ma, Philip S. Yu, <a href="http://www.cse.lehigh.edu/~sxie/">Sihong Xie</a>.<br/>
-ACM SIGKDD. 2020.<br/>
 [<a href="https://arxiv.org/pdf/2006.06069.pdf">Paper</a>][<a href="https://github.com/YingtongDou/Nash-Detect">Code</a>][<a href="https://ytongdou.com/files/kdd20slides.pdf">Slides</a>][<a href="https://youtu.be/Pa13fabSGVw">Video</a>][<a href="https://mp.weixin.qq.com/s/fTE_pa11wfcydC-LNgyjQg">Chinese Blog</a>]
 </li>
 </ul>
 
-
-<div style="text-align: center; margin: 2em 0 1em 0;">
-  <a href="https://clustrmaps.com/site/1bfau" title="Visit tracker">
-    <img src="//clustrmaps.com/stats/maps-no-powerful-hierarchical-sidebar/ytongdou.com-thumb.jpg" alt="Visitor Count" style="display: none;" />
-  </a>
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=n&d=uMnK0k5VBCoh9ExYS9q9S32UxjlJtYazpdGQDGh4LCI&co=ffffff&ct=7a8288'></script>
-</div>
-
-<footer style="text-align: center; padding: 1.5em 0; margin-top: 1em; border-top: 1px solid #e8e8e8; color: #7a8288; font-size: 0.85em;">
+<footer style="text-align: center; padding: 1.5em 0; margin-top: 0.5em; border-top: 1px solid #e8e8e8; color: #7a8288; font-size: 0.85em;">
   &copy; {{ site.time | date: '%Y' }} Yingtong Dou. Powered by <a href="https://jekyllrb.com/" style="color: #7a8288;">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io" style="color: #7a8288;">AcademicPages</a>.
 </footer>
