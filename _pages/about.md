@@ -7,13 +7,13 @@ redirect_from:
 ---
 
 <div class="profile-header" style="text-align: center; margin-bottom: 1.5em;">
-  <img src="/images/new_head.png" alt="Yingtong Dou" style="width: 100%; max-width: 800px; border-radius: 50%; display: block; margin: 0 auto 1em auto;" />
-  <div class="social-icons-bar" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
-    <a href="https://ytongdou.com/files/CV_Yingtong.pdf" aria-label="Curriculum Vitae"><img src="/images/cv.png" alt="CV" style="width: 28px; height: 28px;" /></a>
-    <a href="https://x.com/dozee_sim" aria-label="X (Twitter)"><img src="/images/x.png" alt="X" style="width: 28px; height: 28px;" /></a>
-    <a href="https://www.linkedin.com/in/ytongdou/" aria-label="LinkedIn"><img src="/images/linkedin.png" alt="LinkedIn" style="width: 28px; height: 28px;" /></a>
-    <a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en" aria-label="Google Scholar"><img src="/images/scholar.png" alt="Google Scholar" style="width: 28px; height: 28px;" /></a>
-    <a href="https://github.com/YingtongDou" aria-label="GitHub"><img src="/images/github.png" alt="Github" style="width: 28px; height: 28px;" /></a>
+  <img src="/images/new_head.png" alt="Yingtong Dou" loading="lazy" style="width: 100%; max-width: 800px; border-radius: 50%; display: block; margin: 0 auto 1em auto;" />
+  <div class="social-icons-bar" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 12px;">
+    <a href="https://ytongdou.com/files/CV_Yingtong.pdf" class="fa-icon-link icon-cv" title="Curriculum Vitae" aria-label="Curriculum Vitae"><i class="fas fa-file-alt"></i></a>
+    <a href="https://x.com/dozee_sim" class="fa-icon-link icon-x" title="X (Twitter)" aria-label="X (Twitter)"><b style="font-size:14px;font-family:sans-serif;">𝕏</b></a>
+    <a href="https://www.linkedin.com/in/ytongdou/" class="fa-icon-link icon-linkedin" title="LinkedIn" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+    <a href="https://scholar.google.com/citations?user=m5GpWLYAAAAJ&hl=en" class="fa-icon-link icon-scholar" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://github.com/YingtongDou" class="fa-icon-link icon-github" title="GitHub" aria-label="GitHub"><i class="fab fa-github"></i></a>
   </div>
 </div>
 
@@ -159,14 +159,14 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 <ul style="list-style: none; padding-left: 0;">
 <li class="pub-entry">
 <b class="paper-title">TransactionGPT</b> <span class="venue-badge">Tech Report</span><br/>
-Yingtong Dou, Yuzhong Chen et al.<br/>
+<span class="me">Yingtong Dou</span>, Yuzhong Chen et al.<br/>
 Technical Report 11/2025.<br/>
 [<a href="https://arxiv.org/pdf/2511.08939.pdf">Paper</a>][<a href="https://ytongdou.com/transactiongpt">Website</a>]
 </li>
 
 <li class="pub-entry">
 <b class="paper-title">Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts</b> <span class="venue-badge">ICLR 2026</span><br/>
-<a href="https://ksartik.github.io/">Kartik Sharma</a>, <a href="https://ahren09.github.io/">Yiqiao Jin</a>, Vineeth Mohan, Yingtong Dou et al.<br/>
+<a href="https://ksartik.github.io/">Kartik Sharma</a>, <a href="https://ahren09.github.io/">Yiqiao Jin</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
 [<a href="https://arxiv.org/pdf/2506.15751">Paper</a>]
 </li>
 
@@ -184,14 +184,14 @@ Xiran Fan, Zhimeng Jiang et al.<br/>
 
 <li class="pub-entry">
 <b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">Preprint</span><br/>
-<a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, Yingtong Dou et al.<br/>
+<a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
 Preprint 07/2025.<br/>
 [<a href="https://arxiv.org/pdf/2507.05633">Paper</a>]
 </li>
 
 <li class="pub-entry">
 <b class="paper-title">Personalized Layer Selection for Graph Neural Networks</b> <span class="venue-badge">TMLR 2025</span><br/>
-<a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, Yingtong Dou et al.<br/>
+<a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
 [<a href="https://arxiv.org/pdf/2501.14964">Paper</a>]
 </li>
 </ul>
@@ -202,31 +202,31 @@ Preprint 07/2025.<br/>
 <ul style="list-style: none; padding-left: 0;">
 <li class="pub-entry">
 <b class="paper-title">PyGOD: A Python Library for Graph Outlier Detection</b> <span class="venue-badge">JMLR 2024</span><br/>
-<a href="https://kayzliu.com/">Kay Liu</a>*, Yingtong Dou* et al.<br/>
+<a href="https://kayzliu.com/">Kay Liu</a>*, <span class="me">Yingtong Dou</span>* et al.<br/>
 [<a href="https://arxiv.org/pdf/2204.12095.pdf">Paper</a>][<a href="https://github.com/pygod-team/pygod/">Code</a>]
 </li>
 
 <li class="pub-entry">
 <b class="paper-title">BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs.</b> <span class="venue-badge">NeurIPS 2022</span><br/>
-<a href="https://kayzliu.com/">Kay Liu</a>*, Yingtong Dou*, <a href="https://www.andrew.cmu.edu/user/yuezhao2/">Yue Zhao</a>* et al.<br/>
+<a href="https://kayzliu.com/">Kay Liu</a>*, <span class="me">Yingtong Dou</span>*, <a href="https://www.andrew.cmu.edu/user/yuezhao2/">Yue Zhao</a>* et al.<br/>
 [<a href="https://arxiv.org/pdf/2206.10071.pdf">Paper</a>][<a href="https://github.com/pygod-team/pygod/tree/main/benchmark">Code</a>][<a href="https://mp.weixin.qq.com/s/rvCtqP1f1NwT6_JsQ-XBhg">Chinese Blog</a>]
 </li>
 
 <li class="pub-entry">
 <b class="paper-title">User Preference-aware Fake News Detection</b> <span class="venue-badge">SIGIR 2021</span><br/>
-Yingtong Dou, <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>, <a href="https://congyingxia.github.io/">Congying Xia</a>, Philip S. Yu, <a href="https://www.cs.uic.edu/~lsun/">Lichao Sun</a>. (<a href="https://twitter.com/paperswithcode/status/1476544719790526464">Trending New Datasets for 2021</a>)<br/>
+<span class="me">Yingtong Dou</span>, <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>, <a href="https://congyingxia.github.io/">Congying Xia</a>, Philip S. Yu, <a href="https://www.cs.uic.edu/~lsun/">Lichao Sun</a>. (<a href="https://twitter.com/paperswithcode/status/1476544719790526464">Trending New Datasets for 2021</a>)<br/>
 [<a href="https://arxiv.org/pdf/2104.12259.pdf">Paper</a>][<a href="https://github.com/safe-graph/GNN-FakeNews">Code</a>][<a href="https://ytongdou.com/files/SIGIR21slides.pdf">Slides</a>][<a href="https://www.youtube.com/watch?v=QAIVFr24FrA&ab_channel=DeepFindr">Video</a>][<a href="https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py">PyG Example</a>][<a href="https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py">DGL Example</a>][<a href="https://paperswithcode.com/dataset/upfd">Data</a>][<a href="https://mp.weixin.qq.com/s/VRFr1-8jYJZQACVZnyy3yg">Chinese Blog</a>]
 </li>
 
 <li class="pub-entry">
 <b class="paper-title">Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters</b> <span class="venue-badge">CIKM 2020</span><br/>
-Yingtong Dou, <a href="https://sites.google.com/view/zhiwei-jim">Zhiwei Liu</a>, <a href="https://www.researchgate.net/profile/Li_Sun118">Li Sun</a>, Yutong Deng, <a href="https://penghao-buaa.github.io/">Hao Peng</a>, Philip S. Yu. (<a href="https://www.paperdigest.org/2022/05/most-influential-cikm-papers-2022-05/">Top 10 Influential Papers at CIKM'20</a>)<br/>
+<span class="me">Yingtong Dou</span>, <a href="https://sites.google.com/view/zhiwei-jim">Zhiwei Liu</a>, <a href="https://www.researchgate.net/profile/Li_Sun118">Li Sun</a>, Yutong Deng, <a href="https://penghao-buaa.github.io/">Hao Peng</a>, Philip S. Yu. (<a href="https://www.paperdigest.org/2022/05/most-influential-cikm-papers-2022-05/">Top 10 Influential Papers at CIKM'20</a>)<br/>
 [<a href="https://arxiv.org/pdf/2008.08692.pdf">Paper</a>][<a href="https://github.com/YingtongDou/CARE-GNN">Code</a>][<a href="https://ytongdou.com/files/cikm20slides.pdf">Slides</a>][<a href="https://github.com/dmlc/dgl/tree/master/examples/pytorch/caregnn">DGL Example</a>]
 </li>
 
 <li class="pub-entry">
 <b class="paper-title">Robust Spammer Detection by Nash Reinforcement Learning</b> <span class="venue-badge">KDD 2020</span><br/>
-Yingtong Dou, Guixiang Ma, Philip S. Yu, <a href="http://www.cse.lehigh.edu/~sxie/">Sihong Xie</a>.<br/>
+<span class="me">Yingtong Dou</span>, Guixiang Ma, Philip S. Yu, <a href="http://www.cse.lehigh.edu/~sxie/">Sihong Xie</a>.<br/>
 [<a href="https://arxiv.org/pdf/2006.06069.pdf">Paper</a>][<a href="https://github.com/YingtongDou/Nash-Detect">Code</a>][<a href="https://ytongdou.com/files/kdd20slides.pdf">Slides</a>][<a href="https://youtu.be/Pa13fabSGVw">Video</a>][<a href="https://mp.weixin.qq.com/s/fTE_pa11wfcydC-LNgyjQg">Chinese Blog</a>]
 </li>
 </ul>
@@ -234,3 +234,21 @@ Yingtong Dou, Guixiang Ma, Philip S. Yu, <a href="http://www.cse.lehigh.edu/~sxi
 <footer style="text-align: center; padding: 1.5em 0; margin-top: 0.5em; border-top: 1px solid #e8e8e8; color: #7a8288; font-size: 0.85em;">
   &copy; {{ site.time | date: '%Y' }} Yingtong Dou. Powered by <a href="https://jekyllrb.com/" style="color: #7a8288;">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io" style="color: #7a8288;">AcademicPages</a>.
 </footer>
+
+<button id="back-to-top" title="Back to top">&uarr;</button>
+
+<script>
+(function() {
+  var btn = document.getElementById('back-to-top');
+  window.addEventListener('scroll', function() {
+    if (window.scrollY > 400) {
+      btn.classList.add('visible');
+    } else {
+      btn.classList.remove('visible');
+    }
+  });
+  btn.addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+})();
+</script>

@@ -17,8 +17,10 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
-<!-- Removed unused font families (Arimo, Cabin Condensed, Roboto Condensed) to improve load time -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css">
 <style>
+  /* Smooth scroll */
+  html { scroll-behavior: smooth; }
   /* Social icon hover effects */
   .social-icons-bar a {
     display: inline-flex;
@@ -31,9 +33,26 @@
     opacity: 1;
     transform: scale(1.15);
   }
+  /* Font Awesome social icons in the bar */
+  .social-icons-bar .fa-icon-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none !important;
+  }
+  .social-icons-bar .fa-icon-link.icon-cv { background: #494e52; }
+  .social-icons-bar .fa-icon-link.icon-x { background: #000; }
+  .social-icons-bar .fa-icon-link.icon-linkedin { background: #0077b5; }
+  .social-icons-bar .fa-icon-link.icon-scholar { background: #4285f4; }
+  .social-icons-bar .fa-icon-link.icon-github { background: #171516; }
   /* Profile header card */
   .profile-header {
-    background: #fafbfc;
+    background: linear-gradient(135deg, #f8f9ff, #fafbfc);
     border-radius: 8px;
     padding: 2em 1em 1.5em 1em;
     box-shadow: 0 1px 4px rgba(0,0,0,0.06);
@@ -122,6 +141,49 @@
   .scrollable-section::-webkit-scrollbar-track {
     background: transparent;
   }
+  /* Highlight own name in author lists */
+  .me { font-weight: 700; text-decoration: underline; text-decoration-color: #1434CB; text-underline-offset: 2px; }
+  /* Back to top button */
+  #back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #7a8288;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease, background 0.2s ease;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  }
+  #back-to-top.visible { opacity: 1; visibility: visible; }
+  #back-to-top:hover { background: #1434CB; }
+  /* Staggered section fade-in */
+  @keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .page__content > * {
+    animation: fadeInUp 0.5s ease both;
+  }
+  .page__content > *:nth-child(1) { animation-delay: 0.05s; }
+  .page__content > *:nth-child(2) { animation-delay: 0.1s; }
+  .page__content > *:nth-child(3) { animation-delay: 0.15s; }
+  .page__content > *:nth-child(4) { animation-delay: 0.2s; }
+  .page__content > *:nth-child(5) { animation-delay: 0.25s; }
+  .page__content > *:nth-child(6) { animation-delay: 0.3s; }
+  .page__content > *:nth-child(7) { animation-delay: 0.35s; }
+  .page__content > *:nth-child(8) { animation-delay: 0.4s; }
+  .page__content > *:nth-child(n+9) { animation-delay: 0.45s; }
 </style>
 
 <meta http-equiv="cleartype" content="on">
