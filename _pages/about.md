@@ -171,15 +171,9 @@ Technical Report 11/2025.<br/>
 </li>
 
 <li class="pub-entry">
-<b class="paper-title">TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding</b> <span class="venue-badge">KDD 2026</span><br/>
-Chin-Chia Michael Yeh, Uday Singh Saini et al.<br/>
-[<a href="https://arxiv.org/pdf/2511.19693.pdf">Paper</a>]
-</li>
-
-<li class="pub-entry">
-<b class="paper-title">Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings</b> <span class="venue-badge">EMNLP 2025</span><br/>
-Xiran Fan, Zhimeng Jiang et al.<br/>
-[<a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">Paper</a>]
+<b class="paper-title">FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding</b> <span class="venue-badge">Preprint</span><br/>
+Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span>.<br/>
+[<a href="https://openreview.net/pdf?id=oSk9tP5Mgs">Paper</a>]
 </li>
 
 <li class="pub-entry">
@@ -187,12 +181,6 @@ Xiran Fan, Zhimeng Jiang et al.<br/>
 <a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
 Preprint 07/2025.<br/>
 [<a href="https://arxiv.org/pdf/2507.05633">Paper</a>]
-</li>
-
-<li class="pub-entry">
-<b class="paper-title">Personalized Layer Selection for Graph Neural Networks</b> <span class="venue-badge">TMLR 2025</span><br/>
-<a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
-[<a href="https://arxiv.org/pdf/2501.14964">Paper</a>]
 </li>
 </ul>
 
