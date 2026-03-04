@@ -133,6 +133,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 ## Talks and Blogs
 
 <ul style="list-style: none; padding-left: 0;">
+<li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/TransactionGPT.pdf">TransactionGPT</a> at NeurIPS 2025, Amazon, Turing Institute, Google, Nvidia.</li>
 <li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/GNN_Fin_Fraud.pdf">Leveraging GNNs for Financial Fraud Detection: Practices and Challenges</a> at KDD 2022, Washington DC.</li>
 <li style="margin-bottom: 0.6em;"><span class="label-tag label-talk">Talk</span> <a href="https://ytongdou.com/files/IIT_Talk.pdf">Mining Twitter for Social Event and Misinformation Detection</a> at IIT, Chicago.</li>
 <li style="margin-bottom: 0.6em;"><span class="label-tag label-blog">Blog</span> <a href="https://medium.com/@ytongdou/tackling-fake-downloads-in-mobile-app-markets-lessons-learned-from-huawei-app-store-7448694945bd">Tackling Fake Downloads in Mobile App Markets</a> at Medium.</li>
@@ -158,10 +159,9 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <ul style="list-style: none; padding-left: 0;">
 <li class="pub-entry">
-<b class="paper-title">TransactionGPT</b> <span class="venue-badge">Tech Report</span><br/>
+<b class="paper-title">TransactionGPT</b> <span class="venue-badge">Tech Report 11/2025</span><br/>
 <span class="me">Yingtong Dou</span>, Yuzhong Chen et al.<br/>
-Technical Report 11/2025.<br/>
-[<a href="https://arxiv.org/pdf/2511.08939.pdf">Paper</a>][<a href="https://ytongdou.com/transactiongpt">Website</a>]
+[<a href="https://arxiv.org/pdf/2511.08939.pdf">Paper</a>][<a href="https://ytongdou.com/files/TransactionGPT.pdf">Slides</a>][<a href="https://ytongdou.com/transactiongpt">Website</a>]
 </li>
 
 <li class="pub-entry">
@@ -171,15 +171,14 @@ Technical Report 11/2025.<br/>
 </li>
 
 <li class="pub-entry">
-<b class="paper-title">FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding</b> <span class="venue-badge">Preprint</span><br/>
-Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span>.<br/>
+<b class="paper-title">FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding</b> <span class="venue-badge">Preprint 02/2026</span><br/>
+Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span> et al.<br/>
 [<a href="https://openreview.net/pdf?id=oSk9tP5Mgs">Paper</a>]
 </li>
 
 <li class="pub-entry">
-<b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">Preprint</span><br/>
+<b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">Preprint 07/2025</span><br/>
 <a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
-Preprint 07/2025.<br/>
 [<a href="https://arxiv.org/pdf/2507.05633">Paper</a>]
 </li>
 </ul>
