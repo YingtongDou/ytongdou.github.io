@@ -1,9 +1,3 @@
----
-layout: null
-author_profile: false
-permalink: /transactiongpt
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -549,13 +543,11 @@ permalink: /transactiongpt
     overflow: hidden;
     margin-top: 2rem;
   }
-  .ablation-table-wrap table td:nth-child(2),
-  .ablation-table-wrap table td:nth-child(3) {
+  .ablation-table-wrap table td:nth-child(2) {
     font-family: 'JetBrains Mono', monospace; font-size: 0.85rem;
     text-align: center;
   }
-  .ablation-table-wrap table th:nth-child(2),
-  .ablation-table-wrap table th:nth-child(3) { text-align: center; }
+  .ablation-table-wrap table th:nth-child(2) { text-align: center; }
   .positive { color: #059669; }
   .negative { color: #dc2626; }
 
@@ -613,14 +605,14 @@ permalink: /transactiongpt
 <!-- Hero -->
 <header class="hero">
   <div class="hero-content">
-    <div class="hero-badge"><span class="dot"></span> Visa Research &middot; arXiv: 2511.08939</div>
+    <div class="hero-badge"><span class="dot"></span> Technical Report &middot; arXiv: 2511.08939</div>
     <h1>Transaction<span class="highlight">GPT</span></h1>
     <p class="subtitle">A Foundation Model for Consumer Transaction Data</p>
     <p class="authors">
       Yingtong Dou, Zhimeng Jiang, Tianyi Zhang, Mingzhi Hu, Zhichao Xu, Shubham Jain, Uday Singh Saini,<br>
       Xiran Fan, Jiarui Sun, Menghai Pan, Junpeng Wang, Xin Dai, Liang Wang, Chin-Chia Michael Yeh,<br>
-      Yujie Fan, Vineeth Rakesh, Huiyuan Chen, Mangesh Bendre, Zhongfang Zhuang, Xiaoting Li,<br>
-      Prince Aboagye, Vivian Lai, Minghua Xu, Hao Yang, Yiwei Cai, Mahashweta Das, Yuzhong Chen
+      Yujie Fan, Yan Zheng, Vineeth Rakesh, Huiyuan Chen, Guanchu Wang, Mangesh Bendre, Zhongfang Zhuang,<br>
+      Xiaoting Li, Prince Aboagye, Vivian Lai, Minghua Xu, Hao Yang, Yiwei Cai, Mahashweta Das, Yuzhong Chen
     </p>
     <p style="font-size: 0.82rem; color: rgba(255,255,255,0.5); margin-top: 0.5rem;">
       Project Lead: Yuzhong Chen &middot; <a href="mailto:yuzchen@visa.com" style="color: var(--accent-cyan); text-decoration: none;">yuzchen@visa.com</a>
@@ -722,21 +714,21 @@ permalink: /transactiongpt
       <div class="step-num">1D</div>
       <h4>TGPT-1D</h4>
       <div class="arch-tag">Temporal Only</div>
-      <img src="/images/tgpt/tgpt1d.png" alt="TGPT-1D Architecture" class="arch-diagram">
+      <img src="images/tgpt1d.png" alt="TGPT-1D Architecture" class="arch-diagram">
       <p>A GPT-style decoder-only Temporal Transformer with local attention (window <em>w</em>) and a tabular MLP. Processes each transaction embedding as a token for auto-regressive generation.</p>
     </div>
     <div class="arch-step">
       <div class="step-num">2D</div>
       <h4>TGPT-2D</h4>
       <div class="arch-tag">+ Metadata Transformer</div>
-      <img src="/images/tgpt/tgpt2d.png" alt="TGPT-2D Architecture" class="arch-diagram">
+      <img src="images/tgpt2d.png" alt="TGPT-2D Architecture" class="arch-diagram">
       <p>Adds a bidirectional encoder-only Metadata Transformer that replaces the MLP, modeling cross-field interactions across merchant category, amount, and location with compositional embeddings for high-cardinality entities.</p>
     </div>
     <div class="arch-step">
       <div class="step-num">3D</div>
       <h4>TGPT-3D</h4>
       <div class="arch-tag">+ Feature Transformer</div>
-      <img src="/images/tgpt/tgpt3d_fmt.png" alt="TGPT-3D-FMT Architecture" class="arch-diagram">
+      <img src="images/tgpt3d_fmt.png" alt="TGPT-3D-FMT Architecture" class="arch-diagram">
       <p>A separate Feature Transformer encodes hundreds of downstream features with optimally-sized small embeddings. Two variants — MTF (sequential) and FMT (with Virtual Token Layer) — enable effective cross-modality fusion.</p>
     </div>
   </div>
@@ -747,7 +739,7 @@ permalink: /transactiongpt
       <h3>Virtual Token Layer (VTL)</h3>
       <p>The key innovation enabling effective modality fusion across the 3D architecture. Inspired by ResNet, VTL uses dual channels: a linear path to preserve gradient flow and a nonlinear path for expressiveness.</p>
     </div>
-    <img src="/images/tgpt/vtl_diagram.png" alt="Virtual Token Layer (VTL) Architecture" class="vtl-diagram-img">
+    <img src="images/vtl_diagram.png" alt="Virtual Token Layer (VTL) Architecture" class="vtl-diagram-img">
     <div class="vtl-channels">
       <div class="vtl-channel">
         <h4>Linear Channel</h4>
@@ -788,11 +780,11 @@ permalink: /transactiongpt
     <div class="metric-row">
       <div class="metric">
         <div class="big-num cyan">+22.5%</div>
-        <div class="metric-label">Improvement on Metric A<br>(FMVTL + LLM Embeddings)</div>
+        <div class="metric-label">AD Relative Improvement<br>(FMVTL + LLM Embeddings)</div>
       </div>
       <div class="metric">
-        <div class="big-num gold">+17.9%</div>
-        <div class="metric-label">Improvement on Metric B<br>(FMVTL-2 variant)</div>
+        <div class="big-num gold">+19.2%</div>
+        <div class="metric-label">AD Relative Improvement<br>(FMVTL, w/o LLM)</div>
       </div>
       <div class="metric">
         <div class="big-num green">50.12%</div>
@@ -807,57 +799,68 @@ permalink: /transactiongpt
 
   <!-- Results Table -->
   <div class="results-table-wrap">
-    <h4>Relative Improvement over Production Baseline (T<sub>JGC</sub>)</h4>
+    <h4>Model Performance on T<sub>JGC</sub></h4>
     <table>
       <thead>
         <tr>
           <th>Model</th>
-          <th>Metric A (&Delta;%)</th>
-          <th>Metric B (&Delta;%)</th>
+          <th>AD RI (&Delta;%)</th>
           <th>MCC Rec@1</th>
           <th>Mrch Rec@1</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>TGPT-2D w/ Features</td>
+          <td>TGPT-1D w/o Feat</td>
+          <td>-90.5</td>
+          <td>48.86</td>
+          <td>31.60</td>
+        </tr>
+        <tr>
+          <td>TGPT-1D w/ Feat</td>
+          <td>-9.1</td>
+          <td>49.25</td>
+          <td>30.46</td>
+        </tr>
+        <tr>
+          <td>TGPT-2D w/o Feat</td>
           <td>-87.0</td>
-          <td>-34.3</td>
-          <td>49.20</td>
-          <td>32.30</td>
+          <td>48.89</td>
+          <td>31.41</td>
+        </tr>
+        <tr>
+          <td>TGPT-2D w/ Feat</td>
+          <td>+7.3</td>
+          <td>49.17</td>
+          <td>30.38</td>
         </tr>
         <tr>
           <td>TGPT-3D-MTF (Seg)</td>
           <td>+14.6</td>
-          <td>+8.0</td>
           <td>48.23</td>
           <td>32.41</td>
         </tr>
         <tr>
           <td>TGPT-3D-MTF (MLP)</td>
           <td>+9.5</td>
-          <td>+8.1</td>
           <td>48.17</td>
           <td>32.29</td>
         </tr>
         <tr>
           <td>3D-FMT FMVTL</td>
           <td>+19.2</td>
-          <td>+11.2</td>
           <td>49.94</td>
           <td>32.08</td>
         </tr>
         <tr>
           <td>3D-FMT FMVTL-2</td>
           <td>+15.5</td>
-          <td>+17.9</td>
           <td>50.12</td>
           <td>32.70</td>
         </tr>
         <tr class="highlight-row">
           <td>3D-FMT FMVTL + LLM</td>
           <td>+22.5</td>
-          <td>+12.0</td>
           <td>50.01</td>
           <td>32.73</td>
         </tr>
@@ -957,8 +960,12 @@ permalink: /transactiongpt
           <div class="ds-value" style="color: #1434cb; font-weight: 900;">14.2%</div>
           <div class="ds-label">TGPT-2D Rec@1</div>
         </div>
+        <div class="dining-stat">
+          <div class="ds-value">13.7%</div>
+          <div class="ds-label">TGPT-2D-m Rec@1</div>
+        </div>
       </div>
-      <p style="font-size: 0.85rem; color: var(--text-secondary);">TGPT-2D ranks the exact future restaurant in the <strong>top 50 out of 500K</strong> candidates in 45.6% of test cases.</p>
+      <p style="font-size: 0.85rem; color: var(--text-secondary);">TGPT-2D ranks the exact future restaurant in the <strong>top 50 out of 500K</strong> candidates in 45.6% of test cases. Multi-field optimization (TGPT-2D) outperforms merchant-only optimization (TGPT-2D-m), confirming that predicting auxiliary metadata improves merchant prediction.</p>
     </div>
     <div class="dining-card">
       <h4>Location Prediction Accuracy</h4>
@@ -991,7 +998,7 @@ permalink: /transactiongpt
     <div class="scale-card">
       <div class="scale-pct">-22.6%</div>
       <div class="scale-label">Compositional Embedding</div>
-      <div class="scale-desc">Model size reduction via hashing for high-cardinality entities</div>
+      <div class="scale-desc">Peak memory usage reduction via hashing for high-cardinality entities</div>
       <div class="scale-perf">+1.9% Performance</div>
     </div>
     <div class="scale-card">
@@ -1046,14 +1053,14 @@ permalink: /transactiongpt
   <div class="ablation-table-wrap">
     <table>
       <thead>
-        <tr><th>Variant</th><th>Metric A (&Delta;%)</th><th>Metric B (&Delta;%)</th><th>Key Takeaway</th></tr>
+        <tr><th>Variant</th><th>AD RI (&Delta;%)</th><th>Key Takeaway</th></tr>
       </thead>
       <tbody>
-        <tr class="highlight-row"><td>FMVTL (full)</td><td class="positive">+19.2</td><td class="positive">+11.2</td><td>Best with dual VTL linear + nonlinear</td></tr>
-        <tr><td>FMVTL-nonlin</td><td class="positive">+6.7</td><td class="positive">+10.7</td><td>Removing linear path hurts gradient flow</td></tr>
-        <tr><td>FMVTL-lin-map</td><td class="positive">+0.2</td><td class="positive">+6.2</td><td>Simple linear mapping lacks expressiveness</td></tr>
-        <tr><td>FVTL (no Meta VTL)</td><td class="negative">-12.9</td><td class="negative">-13.0</td><td>Both VTL stages are essential</td></tr>
-        <tr class="highlight-row"><td>FMVTL + LLM</td><td class="positive">+22.5</td><td class="positive">+12.0</td><td>LLM-derived embeddings add semantic gains</td></tr>
+        <tr class="highlight-row"><td>FMVTL (full)</td><td class="positive">+19.2</td><td>Best with dual VTL linear + nonlinear</td></tr>
+        <tr><td>FMVTL-nonlin</td><td class="positive">+6.7</td><td>Removing linear path hurts gradient flow</td></tr>
+        <tr><td>FMVTL-lin-map</td><td class="positive">+0.2</td><td>Simple linear mapping lacks expressiveness</td></tr>
+        <tr><td>FVTL (no Meta VTL)</td><td class="negative">-12.9</td><td>Both VTL stages are essential</td></tr>
+        <tr class="highlight-row"><td>FMVTL + LLM</td><td class="positive">+22.5</td><td>LLM-derived embeddings add semantic gains</td></tr>
       </tbody>
     </table>
   </div>
@@ -1087,7 +1094,7 @@ permalink: /transactiongpt
     <a href="https://ytongdou.com/">Yingtong Dou</a>
     <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>
   </div>
-  <p>&copy; 2025 TransactionGPT &middot; Visa Research</p>
+  <p>&copy; 2026 TransactionGPT &middot; Visa Research</p>
 </footer>
 
 <script>
