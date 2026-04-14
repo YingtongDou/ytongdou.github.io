@@ -28,6 +28,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 ## News
 
 <ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One efficient LLM paper <a href="https://arxiv.org/pdf/2506.15751">SARA</a> accepted by ACL 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> One LLM safety paper <a href="https://arxiv.org/pdf/2506.15751">Sysformer</a> accepted by ICLR 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> Serving as a PC member for <a href="https://sites.google.com/view/iclr2026finai/home">Advances in Financial AI Workshop at ICLR 2026</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> One transaction foundation model paper <a href="https://arxiv.org/abs/2511.19693">TREASURE</a> accepted by KDD 2026.</li>
@@ -171,15 +172,15 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 </li>
 
 <li class="pub-entry">
-<b class="paper-title">FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding</b> <span class="venue-badge">Preprint 02/2026</span><br/>
-Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span> et al.<br/>
-[<a href="https://openreview.net/pdf?id=oSk9tP5Mgs">Paper</a>]
+<b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">ACL 2026</span><br/>
+<a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
+[<a href="https://arxiv.org/pdf/2507.05633">Paper</a>]
 </li>
 
 <li class="pub-entry">
-<b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">Preprint 07/2025</span><br/>
-<a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
-[<a href="https://arxiv.org/pdf/2507.05633">Paper</a>]
+<b class="paper-title">FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding</b> <span class="venue-badge">Preprint 02/2026</span><br/>
+Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span> et al.<br/>
+[<a href="https://openreview.net/pdf?id=oSk9tP5Mgs">Paper</a>]
 </li>
 </ul>
 
