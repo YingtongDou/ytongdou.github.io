@@ -28,16 +28,18 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 ## News
 
 <ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
-<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One efficient LLM paper <a href="https://arxiv.org/pdf/2506.15751">SARA</a> accepted by ACL 2026.</li>
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> Serving as a PC member for <a href="https://sites.google.com/view/kdd-fraud-abuse-2026/home">Workshop on AI for Fraud and Abuse at KDD 2026</a>.</li>
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One KV-cache compression paper <a href="https://openreview.net/pdf?id=oSk9tP5Mgs">FAFO</a> accepted by ICML 2026.</li>
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One efficient LLM paper <a href="https://arxiv.org/pdf/2507.05633">SARA</a> accepted by ACL 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> One LLM safety paper <a href="https://arxiv.org/pdf/2506.15751">Sysformer</a> accepted by ICLR 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> Serving as a PC member for <a href="https://sites.google.com/view/iclr2026finai/home">Advances in Financial AI Workshop at ICLR 2026</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> One transaction foundation model paper <a href="https://arxiv.org/abs/2511.19693">TREASURE</a> accepted by KDD 2026.</li>
-<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> <a href="https://arxiv.org/abs/2511.08939">TransactionGPT</a> technical report released.</li>
-<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[10/2025]</span> A foundation model <a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">paper</a> accepted by EMNLP 2025.</li>
 </ul>
 
 <div id="news-older" class="scrollable-section" style="display: none;">
 <ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> <a href="https://arxiv.org/abs/2511.08939">TransactionGPT</a> technical report released.</li>
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[10/2025]</span> A foundation model <a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">paper</a> accepted by EMNLP 2025.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[09/2025]</span> Serving as a PC member for <a href="https://www2026.thewebconf.org/">TheWebConf 2026</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[07/2025]</span> Release two preprints on <a href="https://arxiv.org/abs/2507.05633">RAG compression</a> and <a href="https://www.arxiv.org/abs/2506.15751/">LLM guardrails</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[06/2025]</span> Serving as reviewers for NeurIPS 2025, <a href="https://icaif25.org/">ICAIF 2025</a>, and KDD 2026.</li>
@@ -166,23 +168,24 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 </li>
 
 <li class="pub-entry">
-<b class="paper-title">Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts</b> <span class="venue-badge">ICLR 2026</span><br/>
-<a href="https://ksartik.github.io/">Kartik Sharma</a>, <a href="https://ahren09.github.io/">Yiqiao Jin</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
-[<a href="https://arxiv.org/pdf/2506.15751">Paper</a>]
-</li>
-
-<li class="pub-entry">
-<b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">ACL 2026</span><br/>
-<a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
-[<a href="https://arxiv.org/pdf/2507.05633">Paper</a>]
-</li>
-
-<li class="pub-entry">
-<b class="paper-title">FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding</b> <span class="venue-badge">Preprint 02/2026</span><br/>
+<b class="paper-title">FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding</b> <span class="venue-badge">ICML 2026</span><br/>
 Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span> et al.<br/>
 [<a href="https://openreview.net/pdf?id=oSk9tP5Mgs">Paper</a>]
 </li>
 </ul>
+
+<li class="pub-entry">
+<b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">ACL 2026</span><br/>
+<a href="https://ahren09.github.io/">Yiqiao Jin</a>, <a href="https://ksartik.github.io/">Kartik Sharma</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
+[<a href="https://arxiv.org/pdf/2507.05633">Paper</a>][<a href="https://github.com/Ahren09/SARA">Code</a>][<a href="https://ahren09.github.io/SARA/">Website</a>]
+</li>
+
+<li class="pub-entry">
+<b class="paper-title">Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts</b> <span class="venue-badge">ICLR 2026</span><br/>
+<a href="https://ksartik.github.io/">Kartik Sharma</a>, <a href="https://ahren09.github.io/">Yiqiao Jin</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
+[<a href="https://arxiv.org/pdf/2506.15751">Paper</a>][<a href="https://github.com/claws-lab/sysformer">Code</a>]
+</li>
+
 
 
 ## Selected Publications
