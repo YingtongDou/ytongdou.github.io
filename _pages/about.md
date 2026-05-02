@@ -28,7 +28,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 ## News
 
 <ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
-<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> Serving as a PC member for <a href="https://sites.google.com/view/kdd-fraud-abuse-2026/home">Workshop on AI for Fraud and Abuse at KDD 2026</a>.</li>
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[05/2026]</span> Serving as a PC member for <a href="https://sites.google.com/view/kdd-fraud-abuse-2026/home">Workshop on AI for Fraud and Abuse at KDD 2026</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One KV-cache compression paper <a href="https://openreview.net/pdf?id=oSk9tP5Mgs">FAFO</a> accepted by ICML 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One efficient LLM paper <a href="https://arxiv.org/pdf/2507.05633">SARA</a> accepted by ACL 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> One LLM safety paper <a href="https://arxiv.org/pdf/2506.15751">Sysformer</a> accepted by ICLR 2026.</li>
@@ -172,7 +172,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span> et al.<br/>
 [<a href="https://openreview.net/pdf?id=oSk9tP5Mgs">Paper</a>]
 </li>
-</ul>
+
 
 <li class="pub-entry">
 <b class="paper-title">SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression</b> <span class="venue-badge">ACL 2026</span><br/>
@@ -185,7 +185,7 @@ Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span>
 <a href="https://ksartik.github.io/">Kartik Sharma</a>, <a href="https://ahren09.github.io/">Yiqiao Jin</a>, Vineeth Mohan, <span class="me">Yingtong Dou</span> et al.<br/>
 [<a href="https://arxiv.org/pdf/2506.15751">Paper</a>][<a href="https://github.com/claws-lab/sysformer">Code</a>]
 </li>
-
+</ul>
 
 
 ## Selected Publications
