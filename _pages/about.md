@@ -34,11 +34,11 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One efficient LLM paper <a href="https://arxiv.org/pdf/2507.05633">SARA</a> is accepted by ACL 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> One LLM safety paper <a href="https://arxiv.org/pdf/2506.15751">Sysformer</a> is accepted by ICLR 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[01/2026]</span> Serving as a PC member for <a href="https://sites.google.com/view/iclr2026finai/home">Advances in Financial AI Workshop at ICLR 2026</a>.</li>
-<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> One transaction foundation model paper <a href="https://arxiv.org/abs/2511.19693">TREASURE</a> is accepted by KDD 2026.</li>
-</ul>
 
 <div id="news-older" class="scrollable-section" style="display: none;">
 <ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> One transaction foundation model paper <a href="https://arxiv.org/abs/2511.19693">TREASURE</a> is accepted by KDD 2026.</li>
+</ul>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2025]</span> <a href="https://arxiv.org/abs/2511.08939">TransactionGPT</a> technical report released.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[10/2025]</span> A foundation model <a href="https://aclanthology.org/2025.emnlp-industry.61.pdf">paper</a> is accepted by EMNLP 2025.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[09/2025]</span> Serving as a PC member for <a href="https://www2026.thewebconf.org/">TheWebConf 2026</a>.</li>
@@ -163,9 +163,9 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <ul style="list-style: none; padding-left: 0;">
 <li class="pub-entry">
-<b class="paper-title">TransactionGPT</b> <span class="venue-badge">Tech Report 11/2025</span><br/>
+<b class="paper-title">TransactionGPT</b> <span class="venue-badge">KDD 2026</span><br/>
 <span class="me">Yingtong Dou</span>, Yuzhong Chen et al.<br/>
-[<a href="https://arxiv.org/pdf/2511.08939.pdf">Paper</a>][<a href="https://ytongdou.com/files/TransactionGPT.pdf">Slides</a>][<a href="https://ytongdou.com/transactiongpt">Website</a>]
+[<a href="https://arxiv.org/pdf/2511.08939.pdf">Full Technical Report</a>][Conference Version][<a href="https://ytongdou.com/files/TransactionGPT.pdf">Slides</a>][<a href="https://ytongdou.com/transactiongpt">Website</a>]
 </li>
 
 <li class="pub-entry">
