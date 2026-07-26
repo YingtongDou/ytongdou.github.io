@@ -172,7 +172,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 <li class="pub-entry">
 <b class="paper-title">FAFO: Lossy KV Cache Compression for Lossless Inference Acceleration via Draftless Fumble Decoding</b> <span class="venue-badge">ICML 2026</span><br/>
 Hoang Anh Duy Le, Shaochen Zhong, Yifan Lu, <span class="me">Yingtong Dou</span> et al.<br/>
-[<a href="https://openreview.net/pdf?id=oSk9tP5Mgs">Paper</a>]
+[<a href="https://openreview.net/pdf?id=oSk9tP5Mgs">Paper</a>][<a href="https://github.com/Escanord/FAFO">Code</a>]
 </li>
 
 
