@@ -605,7 +605,7 @@
 <!-- Hero -->
 <header class="hero">
   <div class="hero-content">
-    <div class="hero-badge"><span class="dot"></span> Technical Report &middot; arXiv: 2511.08939</div>
+    <div class="hero-badge"><span class="dot"></span> KDD 2026 Conference Version &middot; arXiv: 2511.08939</div>
     <h1>Transaction<span class="highlight">GPT</span></h1>
     <p class="subtitle">A Foundation Model for Consumer Transaction Data</p>
     <p class="authors">
@@ -636,9 +636,13 @@
       </div>
     </div>
     <div class="hero-buttons">
-      <a href="https://arxiv.org/abs/2511.08939" class="btn btn-primary" target="_blank">
+      <a href="https://arxiv.org/abs/2511.08939" class="btn btn-primary" target="_blank" rel="noopener">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
-        Read the Paper
+        arXiv Version
+      </a>
+      <a href="https://dl.acm.org/doi/10.1145/3770855.3818496" class="btn btn-outline" target="_blank" rel="noopener">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        KDD 2026 Version
       </a>
       <a href="#architecture" class="btn btn-outline">Explore Architecture &darr;</a>
     </div>
@@ -714,21 +718,21 @@
       <div class="step-num">1D</div>
       <h4>TGPT-1D</h4>
       <div class="arch-tag">Temporal Only</div>
-      <img src="images/tgpt1d.png" alt="TGPT-1D Architecture" class="arch-diagram">
+      <img src="../images/tgpt/tgpt1d.png" alt="TGPT-1D Architecture" class="arch-diagram">
       <p>A GPT-style decoder-only Temporal Transformer with local attention (window <em>w</em>) and a tabular MLP. Processes each transaction embedding as a token for auto-regressive generation.</p>
     </div>
     <div class="arch-step">
       <div class="step-num">2D</div>
       <h4>TGPT-2D</h4>
       <div class="arch-tag">+ Metadata Transformer</div>
-      <img src="images/tgpt2d.png" alt="TGPT-2D Architecture" class="arch-diagram">
+      <img src="../images/tgpt/tgpt2d.png" alt="TGPT-2D Architecture" class="arch-diagram">
       <p>Adds a bidirectional encoder-only Metadata Transformer that replaces the MLP, modeling cross-field interactions across merchant category, amount, and location with compositional embeddings for high-cardinality entities.</p>
     </div>
     <div class="arch-step">
       <div class="step-num">3D</div>
       <h4>TGPT-3D</h4>
       <div class="arch-tag">+ Feature Transformer</div>
-      <img src="images/tgpt3d_fmt.png" alt="TGPT-3D-FMT Architecture" class="arch-diagram">
+      <img src="../images/tgpt/tgpt3d_fmt.png" alt="TGPT-3D-FMT Architecture" class="arch-diagram">
       <p>A separate Feature Transformer encodes hundreds of downstream features with optimally-sized small embeddings. Two variants — MTF (sequential) and FMT (with Virtual Token Layer) — enable effective cross-modality fusion.</p>
     </div>
   </div>
@@ -739,7 +743,7 @@
       <h3>Virtual Token Layer (VTL)</h3>
       <p>The key innovation enabling effective modality fusion across the 3D architecture. Inspired by ResNet, VTL uses dual channels: a linear path to preserve gradient flow and a nonlinear path for expressiveness.</p>
     </div>
-    <img src="images/vtl_diagram.png" alt="Virtual Token Layer (VTL) Architecture" class="vtl-diagram-img">
+    <img src="../images/tgpt/vtl_diagram.png" alt="Virtual Token Layer (VTL) Architecture" class="vtl-diagram-img">
     <div class="vtl-channels">
       <div class="vtl-channel">
         <h4>Linear Channel</h4>
@@ -1076,11 +1080,15 @@
     <p style="margin-bottom: 2rem;"><strong style="color: var(--text-primary);">Future directions</strong> include accelerating model performance at even larger data scales, developing superior multi-modal encoders for MMTT data, and exploring joint optimization of MMTT foundation models with LLMs.</p>
   </div>
   <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-    <a href="https://arxiv.org/abs/2511.08939" class="btn" style="background: var(--visa-blue); color: #fff;" target="_blank">
+    <a href="https://arxiv.org/abs/2511.08939" class="btn" style="background: var(--visa-blue); color: #fff;" target="_blank" rel="noopener">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
       Read on arXiv
     </a>
-    <a href="https://arxiv.org/pdf/2511.08939" class="btn" style="background: var(--light-bg); color: var(--text-primary); border: 1.5px solid var(--border);" target="_blank">
+    <a href="https://dl.acm.org/doi/10.1145/3770855.3818496" class="btn" style="background: var(--light-bg); color: var(--text-primary); border: 1.5px solid var(--border);" target="_blank" rel="noopener">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      Read at ACM KDD 2026
+    </a>
+    <a href="https://arxiv.org/pdf/2511.08939" class="btn" style="background: var(--light-bg); color: var(--text-primary); border: 1.5px solid var(--border);" target="_blank" rel="noopener">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
       Download PDF
     </a>
@@ -1091,6 +1099,7 @@
 <footer>
   <div class="footer-links">
     <a href="https://arxiv.org/abs/2511.08939">arXiv</a>
+    <a href="https://dl.acm.org/doi/10.1145/3770855.3818496">KDD 2026</a>
     <a href="https://ytongdou.com/">Yingtong Dou</a>
     <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>
   </div>

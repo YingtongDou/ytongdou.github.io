@@ -166,7 +166,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 <li class="pub-entry">
 <b class="paper-title">TransactionGPT</b> <span class="venue-badge">KDD 2026</span><br/>
 <span class="me">Yingtong Dou</span>, Yuzhong Chen et al.<br/>
-[<a href="https://arxiv.org/pdf/2511.08939.pdf">Full Technical Report</a>][Conference Version][<a href="https://ytongdou.com/files/TransactionGPT.pdf">Slides</a>][<a href="https://ytongdou.com/transactiongpt">Website</a>]
+[<a href="https://arxiv.org/pdf/2511.08939.pdf">Full Technical Report</a>][<a href="https://dl.acm.org/doi/10.1145/3770855.3818496">Conference Version</a>][<a href="https://ytongdou.com/files/TransactionGPT.pdf">Slides</a>][<a href="https://ytongdou.com/_pages/transactiongpt">Website</a>]
 </li>
 
 <li class="pub-entry">
