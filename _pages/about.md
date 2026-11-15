@@ -28,7 +28,7 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 ## News
 
 <ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
-<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2026]</span> One agentic fraud detection paper <a href="https://arxiv.org/pdf/2611.08094">PersonaAgent</a> is accepted by KDD 2027.</li>
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2026]</span> One agentic anomaly detection paper <a href="https://arxiv.org/pdf/2611.08094">PersonaAgent</a> is accepted by KDD 2027.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[05/2026]</span> The conference version of <a href="https://openreview.net/pdf?id=oSk9tP5Mgs">TransactionGPT</a> is accepted by KDD 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[05/2026]</span> Serving as a PC member for <a href="https://sites.google.com/view/kdd-fraud-abuse-2026/home">Workshop on AI for Fraud and Abuse at KDD 2026</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One KV-cache compression paper <a href="https://openreview.net/pdf?id=oSk9tP5Mgs">FAFO</a> is accepted by ICML 2026.</li>
@@ -165,15 +165,15 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <ul style="list-style: none; padding-left: 0;">
 <li class="pub-entry">
-<b class="paper-title">TransactionGPT</b> <span class="venue-badge">KDD 2026</span><br/>
-<span class="me">Yingtong Dou</span>, Yuzhong Chen et al.<br/>
-[<a href="https://arxiv.org/pdf/2511.08939.pdf">Full Technical Report</a>][<a href="https://dl.acm.org/doi/10.1145/3770855.3818496">Conference Version</a>][<a href="https://ytongdou.com/files/TransactionGPT.pdf">Slides</a>][<a href="https://ytongdou.com/_pages/transactiongpt">Website</a>]
-</li>
-
-<li class="pub-entry">
 <b class="paper-title">PersonaAgent: Retrieval-Augmented Transaction Anomaly Scoring with Refreshable Multi-Entity Persona Memory</b> <span class="venue-badge">KDD 2027</span><br/>
 Zhengyu Fang, Liang Wang, <span class="me">Yingtong Dou</span>, Yuzhong Chen et al.<br/>
 [<a href="https://arxiv.org/pdf/2611.08094">Paper</a>]
+</li>
+
+<li class="pub-entry">
+<b class="paper-title">TransactionGPT</b> <span class="venue-badge">KDD 2026</span><br/>
+<span class="me">Yingtong Dou</span>, Yuzhong Chen et al.<br/>
+[<a href="https://arxiv.org/pdf/2511.08939.pdf">Full Technical Report</a>][<a href="https://dl.acm.org/doi/10.1145/3770855.3818496">Conference Version</a>][<a href="https://ytongdou.com/files/TransactionGPT.pdf">Slides</a>][<a href="https://ytongdou.com/_pages/transactiongpt">Website</a>]
 </li>
 
 <li class="pub-entry">
