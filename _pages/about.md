@@ -29,8 +29,8 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 
 <ul class="news-list" style="list-style: none; padding-left: 0; margin: 0;">
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2026]</span> Release the <a href="https://arxiv.org/pdf/2611.22308">VRLLM</a> technical report on turning a 1B LLM into a powerful tabular classifier [<a href="https://ytongdou.com/vrllm/">Website</a>].</li>
-<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2026]</span> One LLM-based feature engineering <a href="https://aclanthology.org/2026.findings-aacl.233.pdf">paper</a> is accepted by IJCNLP-AACL 2026 Findings.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[11/2026]</span> One agentic anomaly detection paper <a href="https://arxiv.org/pdf/2611.08094">PersonaAgent</a> is accepted by KDD 2027.</li>
+<li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[09/2026]</span> One LLM-based feature engineering <a href="https://aclanthology.org/2026.findings-aacl.233.pdf">paper</a> is accepted by IJCNLP-AACL 2026 Findings.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[05/2026]</span> The conference version of <a href="https://openreview.net/pdf?id=oSk9tP5Mgs">TransactionGPT</a> is accepted by KDD 2026.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[05/2026]</span> Serving as a PC member for <a href="https://sites.google.com/view/kdd-fraud-abuse-2026/home">Workshop on AI for Fraud and Abuse at KDD 2026</a>.</li>
 <li><span class="news-date" style="color: #7a8288; margin-right: 0.4em;">[04/2026]</span> One KV-cache compression paper <a href="https://openreview.net/pdf?id=oSk9tP5Mgs">FAFO</a> is accepted by ICML 2026.</li>
@@ -173,15 +173,15 @@ Prior to joining Visa, I obtained my Ph.D. in Computer Science at University of 
 </li>
 
 <li class="pub-entry">
-<b class="paper-title">Optimizing Reasoning LLMs for Automated Feature Engineering via Multi-Stage Direct Preference Optimization</b> <span class="venue-badge">IJCNLP-AACL 2026</span><br/>
-Mingzhi Hu, Menghai Pan, Yuzhong Chen, Junpeng Wang, <span class="me">Yingtong Dou</span> et al.<br/>
-[<a href="https://aclanthology.org/2026.findings-aacl.233.pdf">Paper</a>]
-</li>
-
-<li class="pub-entry">
 <b class="paper-title">PersonaAgent: Retrieval-Augmented Transaction Anomaly Scoring with Refreshable Multi-Entity Persona Memory</b> <span class="venue-badge">KDD 2027</span><br/>
 Zhengyu Fang, Liang Wang, <span class="me">Yingtong Dou</span>, Yuzhong Chen et al.<br/>
 [<a href="https://arxiv.org/pdf/2611.08094">Paper</a>]
+</li>
+
+<li class="pub-entry">
+<b class="paper-title">Optimizing Reasoning LLMs for Automated Feature Engineering via Multi-Stage Direct Preference Optimization</b> <span class="venue-badge">IJCNLP-AACL 2026</span><br/>
+Mingzhi Hu, Menghai Pan, Yuzhong Chen, Junpeng Wang, <span class="me">Yingtong Dou</span> et al.<br/>
+[<a href="https://aclanthology.org/2026.findings-aacl.233.pdf">Paper</a>]
 </li>
 
 <li class="pub-entry">
