@@ -1,0 +1,13 @@
+Model,Training,Parameters,Recall@OFPR (%),PR-AUC (%)
+TabPFN-3,In-context learning,53M,3.2,8.2
+TabFM,In-context learning,410M,5.3,6.5
+TabICLv2,In-context learning,27M,4.0,8.4
+KumoTabular,In-context learning,213M,6.1,11.2
+XGBoost,Task-trained,500K,6.5,12.7
+LightGBM,Task-trained,130K,8.1,13.1
+SAINT,Task-trained,1B,7.3,14.0
+TabTransformer,Task-trained,1B,10.7,15.7
+DCNv2,Task-trained,1B,11.8,18.8
+Production model,Task-trained,Undisclosed,37.5,35.2
+VRLLM,Fine-tuned,1B,38.3,35.3
+Production + VRLLM,Ensemble,Not applicable,45.9,38.7
